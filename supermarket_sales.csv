@@ -1,0 +1,1001 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating
+750000-85-7912,C,Marrakech,Member,Male,Fashion accessories,34.75,4,6.95,145.95,03/28/2019,18:05,Ewallet,139.0,4.761904762,6.95,4.8
+750001-38-8359,A,Casablanca,Member,Male,Electronic accessories,30.94,10,15.47,324.87,03/25/2019,18:26,Ewallet,309.4,4.761904762,15.47,4.2
+750002-58-2584,C,Marrakech,Normal,Male,Electronic accessories,72.83,6,21.849,458.83,02/13/2019,11:05,Ewallet,436.98,4.761904762,21.849,5.7
+750003-90-6925,B,Rabat,Normal,Female,Health and beauty,75.67,9,34.0515,715.08,01/11/2019,18:18,Cash,681.03,4.761904762,34.0515,4.7
+750004-68-6977,C,Marrakech,Member,Male,Health and beauty,69.51,5,17.3775,364.93,01/13/2019,16:17,Ewallet,347.55,4.761904762,17.3775,9.9
+750005-69-7216,A,Casablanca,Normal,Female,Electronic accessories,70.31,2,7.031,147.65,03/10/2019,13:10,Ewallet,140.62,4.761904762,7.031,7.7
+750006-82-6155,B,Rabat,Member,Female,Health and beauty,30.61,1,1.5305,32.14,02/04/2019,11:13,Cash,30.61,4.761904762,1.5305,8.8
+750007-84-8019,A,Casablanca,Normal,Female,Fashion accessories,51.29,5,12.8225,269.27,03/13/2019,18:16,Credit card,256.45,4.761904762,12.8225,4.8
+750008-90-3621,C,Marrakech,Normal,Female,Electronic accessories,99.75,3,14.9625,314.21,01/07/2019,11:09,Ewallet,299.25,4.761904762,14.9625,7.1
+750009-24-9797,C,Marrakech,Normal,Male,Sports and travel,44.34,8,17.736,372.46,01/02/2019,20:46,Credit card,354.72,4.761904762,17.736,7.2
+750010-32-9317,B,Rabat,Normal,Male,Home and lifestyle,49.12,8,19.648,412.61,02/03/2019,18:48,Credit card,392.96,4.761904762,19.648,4.0
+750011-72-1319,A,Casablanca,Normal,Male,Electronic accessories,43.65,3,6.5475,137.5,01/01/2019,19:20,Credit card,130.95,4.761904762,6.5475,7.2
+750012-78-3060,A,Casablanca,Normal,Female,Electronic accessories,15.21,10,7.605,159.71,03/04/2019,11:48,Ewallet,152.1,4.761904762,7.605,9.7
+750013-49-7537,A,Casablanca,Normal,Male,Home and lifestyle,57.49,10,28.745,603.64,03/11/2019,13:45,Ewallet,574.9,4.761904762,28.745,6.5
+750014-39-4608,C,Marrakech,Normal,Female,Food and beverages,50.63,4,10.126,212.65,01/03/2019,19:35,Cash,202.52,4.761904762,10.126,5.3
+750015-95-8953,A,Casablanca,Member,Male,Electronic accessories,16.07,1,0.8035,16.87,03/07/2019,13:17,Ewallet,16.07,4.761904762,0.8035,9.2
+750016-64-7735,A,Casablanca,Member,Female,Electronic accessories,80.61,7,28.2135,592.48,03/26/2019,16:22,Ewallet,564.27,4.761904762,28.2135,5.1
+750017-78-8350,B,Rabat,Member,Male,Health and beauty,46.23,6,13.869,291.25,02/01/2019,13:12,Ewallet,277.38,4.761904762,13.869,8.8
+750018-79-1241,A,Casablanca,Normal,Male,Home and lifestyle,51.63,2,5.163,108.42,01/13/2019,10:41,Credit card,103.26,4.761904762,5.163,6.7
+750019-59-5345,A,Casablanca,Member,Male,Sports and travel,53.7,4,10.74,225.54,01/22/2019,16:00,Ewallet,214.8,4.761904762,10.74,9.2
+750020-37-1958,B,Rabat,Normal,Female,Fashion accessories,96.15,9,43.2675,908.62,01/20/2019,13:18,Cash,865.35,4.761904762,43.2675,8.0
+750021-20-4044,C,Marrakech,Member,Female,Health and beauty,14.51,8,5.804,121.88,01/21/2019,10:32,Credit card,116.08,4.761904762,5.804,7.0
+750022-63-9565,A,Casablanca,Member,Male,Sports and travel,20.79,10,10.395,218.29,01/06/2019,19:05,Credit card,207.9,4.761904762,10.395,5.5
+750023-68-6180,B,Rabat,Normal,Male,Fashion accessories,74.45,4,14.89,312.69,03/27/2019,20:19,Ewallet,297.8,4.761904762,14.89,5.6
+750024-54-2127,A,Casablanca,Member,Female,Food and beverages,99.85,2,9.985,209.69,03/06/2019,14:08,Ewallet,199.7,4.761904762,9.985,4.4
+750025-95-5905,A,Casablanca,Normal,Female,Electronic accessories,49.43,9,22.2435,467.11,03/25/2019,18:00,Credit card,444.87,4.761904762,22.2435,8.2
+750026-36-6617,C,Marrakech,Member,Male,Home and lifestyle,20.39,2,2.039,42.82,02/04/2019,14:38,Ewallet,40.78,4.761904762,2.039,8.5
+750027-52-3143,A,Casablanca,Normal,Female,Home and lifestyle,91.47,1,4.5735,96.04,02/05/2019,10:00,Cash,91.47,4.761904762,4.5735,4.6
+750028-14-7049,C,Marrakech,Normal,Male,Fashion accessories,49.76,7,17.416,365.74,01/10/2019,12:34,Ewallet,348.32,4.761904762,17.416,7.4
+750029-41-2684,C,Marrakech,Member,Female,Electronic accessories,13.76,6,4.128,86.69,02/15/2019,13:43,Ewallet,82.56,4.761904762,4.128,9.4
+750030-62-5065,B,Rabat,Normal,Male,Electronic accessories,87.81,3,13.1715,276.6,01/23/2019,15:50,Ewallet,263.43,4.761904762,13.1715,9.3
+750031-39-4652,B,Rabat,Member,Male,Sports and travel,88.49,8,35.396,743.32,02/14/2019,14:52,Cash,707.92,4.761904762,35.396,5.3
+750032-61-9785,A,Casablanca,Member,Female,Home and lifestyle,35.07,2,3.507,73.65,02/14/2019,20:32,Cash,70.14,4.761904762,3.507,9.8
+750033-50-8149,B,Rabat,Member,Male,Home and lifestyle,26.07,5,6.5175,136.87,02/25/2019,15:46,Credit card,130.35,4.761904762,6.5175,4.2
+750034-95-4228,C,Marrakech,Member,Female,Food and beverages,27.11,1,1.3555,28.47,03/08/2019,18:43,Ewallet,27.11,4.761904762,1.3555,8.3
+750035-95-7691,B,Rabat,Normal,Male,Fashion accessories,92.86,10,46.43,975.03,02/08/2019,18:19,Ewallet,928.6,4.761904762,46.43,5.9
+750036-82-5930,B,Rabat,Normal,Female,Food and beverages,21.45,7,7.5075,157.66,03/28/2019,12:39,Cash,150.15,4.761904762,7.5075,8.0
+750037-96-4501,B,Rabat,Member,Female,Home and lifestyle,28.91,10,14.455,303.56,03/01/2019,17:28,Cash,289.1,4.761904762,14.455,7.6
+750038-40-6085,C,Marrakech,Normal,Male,Fashion accessories,17.63,9,7.9335,166.6,02/12/2019,11:52,Credit card,158.67,4.761904762,7.9335,8.0
+750039-90-4185,A,Casablanca,Member,Male,Health and beauty,14.16,8,5.664,118.94,02/28/2019,16:56,Ewallet,113.28,4.761904762,5.664,7.7
+750040-99-9486,C,Marrakech,Normal,Female,Sports and travel,31.96,1,1.598,33.56,02/24/2019,13:11,Ewallet,31.96,4.761904762,1.598,9.4
+750041-66-9270,B,Rabat,Member,Male,Health and beauty,51.08,8,20.432,429.07,03/18/2019,15:48,Credit card,408.64,4.761904762,20.432,8.0
+750042-76-8939,B,Rabat,Normal,Male,Fashion accessories,87.53,8,35.012,735.25,03/23/2019,14:49,Ewallet,700.24,4.761904762,35.012,5.6
+750043-27-3471,C,Marrakech,Member,Female,Sports and travel,16.97,5,4.2425,89.09,02/10/2019,18:05,Cash,84.85,4.761904762,4.2425,5.4
+750044-36-7883,A,Casablanca,Normal,Male,Fashion accessories,29.25,7,10.2375,214.99,03/01/2019,16:03,Credit card,204.75,4.761904762,10.2375,6.4
+750045-79-4613,B,Rabat,Member,Female,Sports and travel,10.53,6,3.159,66.34,02/23/2019,18:47,Cash,63.18,4.761904762,3.159,5.8
+750046-69-3091,B,Rabat,Member,Female,Sports and travel,53.7,7,18.795,394.7,02/21/2019,12:53,Credit card,375.9,4.761904762,18.795,6.0
+750047-16-5262,C,Marrakech,Member,Female,Food and beverages,60.79,80,243.16,5106.36,01/18/2019,17:11,Cash,4863.2,4.761904762,243.16,4.5
+750048-12-9837,B,Rabat,Normal,Male,Sports and travel,39.41,7,13.7935,289.66,02/02/2019,11:30,Cash,275.87,4.761904762,13.7935,5.7
+750049-29-4908,A,Casablanca,Normal,Male,Fashion accessories,16.17,1,0.8085,16.98,01/26/2019,10:39,Ewallet,16.17,4.761904762,0.8085,8.5
+750050-24-3683,A,Casablanca,Normal,Male,Food and beverages,95.29,8,38.116,800.44,01/22/2019,19:38,Cash,762.32,4.761904762,38.116,8.2
+750051-98-4978,B,Rabat,Member,Male,Home and lifestyle,61.82,7,21.637,454.38,01/26/2019,11:37,Credit card,432.74,4.761904762,21.637,6.4
+750052-92-6590,A,Casablanca,Normal,Male,Food and beverages,80.43,6,24.129,506.71,02/17/2019,11:32,Credit card,482.58,4.761904762,24.129,7.2
+750053-76-5425,A,Casablanca,Normal,Female,Health and beauty,49.01,6,14.703,308.76,01/20/2019,16:11,Cash,294.06,4.761904762,14.703,7.8
+750054-67-4995,C,Marrakech,Normal,Female,Sports and travel,84.31,10,42.155,885.25,01/12/2019,14:56,Ewallet,843.1,4.761904762,42.155,5.6
+750055-45-5526,B,Rabat,Normal,Female,Health and beauty,54.48,6,16.344,343.22,02/15/2019,14:21,Ewallet,326.88,4.761904762,16.344,5.1
+750056-72-8342,C,Marrakech,Member,Male,Health and beauty,31.72,7,11.102,233.14,03/30/2019,17:41,Ewallet,222.04,4.761904762,11.102,6.9
+750057-77-6632,A,Casablanca,Member,Female,Electronic accessories,46.39,4,9.278,194.84,02/17/2019,17:35,Credit card,185.56,4.761904762,9.278,5.8
+750058-78-4033,B,Rabat,Normal,Female,Fashion accessories,50.83,5,12.7075,266.86,01/25/2019,15:07,Ewallet,254.15,4.761904762,12.7075,5.5
+750059-56-3939,A,Casablanca,Member,Female,Home and lifestyle,75.21,9,33.8445,710.73,01/25/2019,14:14,Ewallet,676.89,4.761904762,33.8445,7.6
+750060-72-2680,B,Rabat,Member,Male,Home and lifestyle,14.1,1,0.705,14.8,01/17/2019,20:55,Credit card,14.1,4.761904762,0.705,7.3
+750061-18-7565,A,Casablanca,Normal,Female,Sports and travel,49.64,3,7.446,156.37,03/03/2019,11:52,Cash,148.92,4.761904762,7.446,9.8
+750062-63-4697,B,Rabat,Member,Male,Electronic accessories,23.43,10,11.715,246.02,02/01/2019,11:35,Ewallet,234.3,4.761904762,11.715,9.7
+750063-88-2625,C,Marrakech,Normal,Female,Sports and travel,36.76,10,18.38,385.98,03/14/2019,19:03,Cash,367.6,4.761904762,18.38,9.9
+750064-67-8699,A,Casablanca,Member,Female,Fashion accessories,17.31,4,3.462,72.7,01/21/2019,10:26,Ewallet,69.24,4.761904762,3.462,5.0
+750065-94-4241,B,Rabat,Member,Male,Home and lifestyle,73.62,8,29.448,618.41,02/03/2019,20:37,Ewallet,588.96,4.761904762,29.448,4.4
+750066-49-5728,B,Rabat,Member,Male,Fashion accessories,23.41,5,5.8525,122.9,01/08/2019,12:50,Ewallet,117.05,4.761904762,5.8525,9.0
+750067-20-1653,B,Rabat,Member,Female,Fashion accessories,37.37,7,13.0795,274.67,03/11/2019,17:28,Credit card,261.59,4.761904762,13.0795,9.7
+750068-15-3870,B,Rabat,Normal,Female,Health and beauty,18.22,10,9.11,191.31,03/28/2019,14:36,Ewallet,182.2,4.761904762,9.11,7.5
+750069-62-6460,B,Rabat,Normal,Female,Electronic accessories,99.72,7,34.902,732.94,01/12/2019,17:22,Cash,698.04,4.761904762,34.902,7.8
+750070-21-6153,B,Rabat,Member,Male,Home and lifestyle,47.04,8,18.816,395.14,03/12/2019,10:29,Cash,376.32,4.761904762,18.816,5.7
+750071-34-9494,B,Rabat,Normal,Male,Sports and travel,87.83,1,4.3915,92.22,03/01/2019,16:03,Credit card,87.83,4.761904762,4.3915,7.9
+750072-13-4920,B,Rabat,Normal,Female,Health and beauty,28.32,9,12.744,267.62,02/26/2019,17:07,Cash,254.88,4.761904762,12.744,4.8
+750073-29-9165,C,Marrakech,Member,Female,Food and beverages,11.23,7,3.9305,82.54,03/01/2019,11:41,Ewallet,78.61,4.761904762,3.9305,4.6
+750074-86-9327,C,Marrakech,Normal,Female,Sports and travel,85.12,8,34.048,715.01,01/19/2019,16:12,Credit card,680.96,4.761904762,34.048,5.5
+750075-48-9022,C,Marrakech,Member,Male,Home and lifestyle,79.53,7,27.8355,584.55,02/04/2019,10:18,Credit card,556.71,4.761904762,27.8355,6.0
+750076-59-4826,A,Casablanca,Normal,Female,Home and lifestyle,39.92,9,17.964,377.24,01/25/2019,13:36,Cash,359.28,4.761904762,17.964,6.3
+750077-14-3068,B,Rabat,Member,Female,Fashion accessories,52.56,7,18.396,386.32,03/25/2019,12:31,Credit card,367.92,4.761904762,18.396,6.3
+750078-19-8692,C,Marrakech,Normal,Male,Sports and travel,18.97,8,7.588,159.35,02/22/2019,20:09,Ewallet,151.76,4.761904762,7.588,4.1
+750079-72-9864,B,Rabat,Normal,Female,Fashion accessories,17.23,6,5.169,108.55,02/18/2019,15:40,Credit card,103.38,4.761904762,5.169,9.1
+750080-91-2646,A,Casablanca,Member,Male,Fashion accessories,71.59,5,17.8975,375.85,01/12/2019,16:06,Credit card,357.95,4.761904762,17.8975,10.0
+750081-77-7751,B,Rabat,Member,Female,Health and beauty,14.14,1,0.707,14.85,02/25/2019,12:15,Cash,14.14,4.761904762,0.707,5.8
+750082-39-8555,C,Marrakech,Member,Male,Electronic accessories,17.11,7,5.9885,125.76,03/05/2019,19:09,Ewallet,119.77,4.761904762,5.9885,7.7
+750083-66-6661,C,Marrakech,Normal,Female,Home and lifestyle,70.01,8,28.004,588.08,03/11/2019,12:04,Credit card,560.08,4.761904762,28.004,9.4
+750084-58-6881,C,Marrakech,Normal,Female,Fashion accessories,32.51,5,8.1275,170.68,03/03/2019,11:15,Cash,162.55,4.761904762,8.1275,5.2
+750085-87-9138,C,Marrakech,Normal,Female,Health and beauty,98.01,7,34.3035,720.37,03/29/2019,10:58,Credit card,686.07,4.761904762,34.3035,5.6
+750086-27-2591,B,Rabat,Member,Female,Electronic accessories,67.29,10,33.645,706.55,03/26/2019,20:53,Credit card,672.9,4.761904762,33.645,5.5
+750087-63-3877,C,Marrakech,Member,Female,Sports and travel,13.0,6,3.9,81.9,02/07/2019,15:47,Ewallet,78.0,4.761904762,3.9,8.4
+750088-53-2886,A,Casablanca,Member,Female,Food and beverages,55.16,5,13.79,289.59,03/03/2019,14:47,Cash,275.8,4.761904762,13.79,9.0
+750089-60-1228,B,Rabat,Member,Male,Electronic accessories,87.4,7,30.59,642.39,02/16/2019,11:50,Credit card,611.8,4.761904762,30.59,9.8
+750090-39-8724,B,Rabat,Member,Female,Home and lifestyle,70.55,5,17.6375,370.39,02/17/2019,11:43,Credit card,352.75,4.761904762,17.6375,7.5
+750091-27-1742,A,Casablanca,Normal,Male,Fashion accessories,15.69,8,6.276,131.8,03/25/2019,16:07,Cash,125.52,4.761904762,6.276,9.5
+750092-99-9850,A,Casablanca,Normal,Female,Health and beauty,18.75,9,8.4375,177.19,02/17/2019,20:47,Cash,168.75,4.761904762,8.4375,4.8
+750093-66-8285,B,Rabat,Member,Female,Fashion accessories,18.91,8,7.564,158.84,01/05/2019,15:13,Cash,151.28,4.761904762,7.564,7.7
+750094-68-2501,A,Casablanca,Normal,Male,Fashion accessories,43.06,6,12.918,271.28,01/25/2019,11:54,Cash,258.36,4.761904762,12.918,4.4
+750095-80-4394,C,Marrakech,Member,Male,Health and beauty,80.8,4,16.16,339.36,01/27/2019,11:53,Credit card,323.2,4.761904762,16.16,9.9
+750096-32-2801,C,Marrakech,Member,Male,Home and lifestyle,79.69,10,39.845,836.75,01/17/2019,18:16,Ewallet,796.9,4.761904762,39.845,4.0
+750097-26-7897,C,Marrakech,Member,Male,Health and beauty,42.24,4,8.448,177.41,01/23/2019,14:03,Ewallet,168.96,4.761904762,8.448,7.5
+750098-88-1710,C,Marrakech,Member,Male,Sports and travel,50.34,6,15.102,317.14,02/27/2019,18:14,Ewallet,302.04,4.761904762,15.102,7.1
+750099-72-8267,C,Marrakech,Normal,Female,Fashion accessories,96.75,1,4.8375,101.59,02/24/2019,20:06,Cash,96.75,4.761904762,4.8375,10.0
+750100-51-7240,A,Casablanca,Member,Female,Food and beverages,23.35,3,3.5025,73.55,03/16/2019,18:45,Credit card,70.05,4.761904762,3.5025,5.7
+750101-80-4522,C,Marrakech,Normal,Female,Food and beverages,64.48,2,6.448,135.41,03/25/2019,20:56,Ewallet,128.96,4.761904762,6.448,8.8
+750102-50-5176,B,Rabat,Normal,Male,Sports and travel,40.5,8,16.2,340.2,01/13/2019,15:27,Credit card,324.0,4.761904762,16.2,6.4
+750103-17-6400,B,Rabat,Member,Female,Health and beauty,18.21,2,1.821,38.24,02/17/2019,12:35,Ewallet,36.42,4.761904762,1.821,4.6
+750104-49-6761,C,Marrakech,Member,Female,Home and lifestyle,88.62,7,31.017,651.36,01/07/2019,14:38,Credit card,620.34,4.761904762,31.017,9.2
+750105-45-4705,A,Casablanca,Member,Male,Fashion accessories,53.39,2,5.339,112.12,02/17/2019,11:48,Credit card,106.78,4.761904762,5.339,6.1
+750106-28-7566,B,Rabat,Member,Female,Health and beauty,26.24,5,6.56,137.76,01/01/2019,12:55,Cash,131.2,4.761904762,6.56,9.5
+750107-49-6314,A,Casablanca,Member,Male,Health and beauty,77.14,4,15.428,323.99,02/13/2019,12:23,Cash,308.56,4.761904762,15.428,6.3
+750108-64-8957,C,Marrakech,Member,Male,Electronic accessories,24.17,10,12.085,253.79,02/04/2019,17:42,Ewallet,241.7,4.761904762,12.085,4.3
+750109-96-8972,C,Marrakech,Normal,Female,Home and lifestyle,29.4,9,13.23,277.83,01/15/2019,14:43,Cash,264.6,4.761904762,13.23,4.7
+750110-27-5186,C,Marrakech,Normal,Male,Electronic accessories,45.57,10,22.785,478.49,02/08/2019,13:49,Ewallet,455.7,4.761904762,22.785,4.3
+750111-81-6802,B,Rabat,Normal,Male,Health and beauty,54.76,7,19.166,402.49,03/10/2019,13:32,Cash,383.32,4.761904762,19.166,5.1
+750112-91-7843,A,Casablanca,Normal,Male,Sports and travel,11.69,2,1.169,24.55,02/24/2019,19:25,Credit card,23.38,4.761904762,1.169,9.2
+750113-65-2734,B,Rabat,Member,Female,Health and beauty,96.95,3,14.5425,305.39,02/28/2019,15:05,Credit card,290.85,4.761904762,14.5425,8.8
+750114-75-2868,A,Casablanca,Normal,Female,Food and beverages,17.08,5,4.27,89.67,02/12/2019,12:04,Ewallet,85.4,4.761904762,4.27,8.5
+750115-87-3504,C,Marrakech,Member,Female,Home and lifestyle,75.46,3,11.319,237.7,02/02/2019,13:11,Ewallet,226.38,4.761904762,11.319,5.4
+750116-91-6295,C,Marrakech,Member,Male,Fashion accessories,54.47,10,27.235,571.94,03/29/2019,19:41,Cash,544.7,4.761904762,27.235,8.6
+750117-74-2215,C,Marrakech,Normal,Male,Sports and travel,16.15,8,6.46,135.66,03/17/2019,10:22,Cash,129.2,4.761904762,6.46,7.8
+750118-59-8581,B,Rabat,Normal,Female,Health and beauty,15.12,5,3.78,79.38,03/20/2019,19:32,Ewallet,75.6,4.761904762,3.78,4.5
+750119-23-6626,C,Marrakech,Member,Female,Food and beverages,68.66,6,20.598,432.56,01/20/2019,10:28,Credit card,411.96,4.761904762,20.598,7.6
+750120-56-7108,C,Marrakech,Member,Male,Health and beauty,32.29,8,12.916,271.24,03/08/2019,19:10,Credit card,258.32,4.761904762,12.916,9.9
+750121-22-7333,B,Rabat,Normal,Female,Home and lifestyle,71.09,1,3.5545,74.64,02/12/2019,11:21,Credit card,71.09,4.761904762,3.5545,8.7
+750122-26-2388,B,Rabat,Normal,Male,Home and lifestyle,17.33,3,2.5995,54.59,03/25/2019,20:25,Cash,51.99,4.761904762,2.5995,9.5
+750123-12-6940,B,Rabat,Normal,Female,Electronic accessories,70.3,9,31.635,664.33,02/24/2019,18:23,Credit card,632.7,4.761904762,31.635,4.6
+750124-22-9317,B,Rabat,Member,Male,Home and lifestyle,95.28,8,38.112,800.35,01/20/2019,11:18,Ewallet,762.24,4.761904762,38.112,5.2
+750125-31-8170,C,Marrakech,Member,Female,Food and beverages,21.79,7,7.6265,160.16,03/30/2019,19:51,Ewallet,152.53,4.761904762,7.6265,4.9
+750126-40-6070,A,Casablanca,Normal,Female,Fashion accessories,74.76,8,29.904,627.98,02/27/2019,13:34,Credit card,598.08,4.761904762,29.904,7.7
+750127-63-3655,B,Rabat,Member,Female,Fashion accessories,95.23,8,38.092,799.93,02/18/2019,18:33,Cash,761.84,4.761904762,38.092,6.8
+750128-20-3626,A,Casablanca,Member,Female,Health and beauty,67.7,6,20.31,426.51,03/08/2019,11:18,Ewallet,406.2,4.761904762,20.31,7.3
+750129-60-9224,B,Rabat,Normal,Male,Sports and travel,18.25,4,3.65,76.65,01/04/2019,16:03,Cash,73.0,4.761904762,3.65,8.9
+750130-28-3254,B,Rabat,Member,Female,Health and beauty,43.74,1,2.187,45.93,03/25/2019,15:50,Ewallet,43.74,4.761904762,2.187,5.9
+750131-37-3449,A,Casablanca,Normal,Female,Fashion accessories,84.79,8,33.916,712.24,01/11/2019,10:16,Ewallet,678.32,4.761904762,33.916,6.7
+750132-18-2816,C,Marrakech,Normal,Male,Home and lifestyle,31.39,2,3.139,65.92,03/23/2019,19:29,Cash,62.78,4.761904762,3.139,4.3
+750133-33-2402,B,Rabat,Member,Male,Fashion accessories,22.92,7,8.022,168.46,01/31/2019,19:26,Cash,160.44,4.761904762,8.022,4.0
+750134-59-7116,C,Marrakech,Normal,Male,Food and beverages,58.96,9,26.532,557.17,03/02/2019,10:40,Cash,530.64,4.761904762,26.532,7.3
+750135-55-9945,B,Rabat,Member,Female,Health and beauty,41.03,2,4.103,86.16,02/12/2019,12:02,Credit card,82.06,4.761904762,4.103,8.6
+750136-35-1717,B,Rabat,Member,Female,Fashion accessories,53.06,3,7.959,167.14,02/28/2019,10:18,Ewallet,159.18,4.761904762,7.959,8.9
+750137-55-1783,A,Casablanca,Member,Female,Home and lifestyle,56.38,9,25.371,532.79,03/24/2019,13:18,Ewallet,507.42,4.761904762,25.371,6.8
+750138-33-9129,C,Marrakech,Normal,Female,Health and beauty,81.93,7,28.6755,602.19,02/26/2019,16:21,Credit card,573.51,4.761904762,28.6755,9.3
+750139-33-9937,C,Marrakech,Normal,Female,Food and beverages,34.0,2,3.4,71.4,02/25/2019,19:52,Ewallet,68.0,4.761904762,3.4,8.4
+750140-66-6759,B,Rabat,Normal,Male,Health and beauty,39.51,5,9.8775,207.43,02/24/2019,12:44,Credit card,197.55,4.761904762,9.8775,5.8
+750141-61-6952,B,Rabat,Member,Female,Food and beverages,99.82,5,24.955,524.05,01/10/2019,20:40,Ewallet,499.1,4.761904762,24.955,7.8
+750142-56-7272,C,Marrakech,Member,Male,Electronic accessories,86.37,8,34.548,725.51,01/31/2019,20:23,Ewallet,690.96,4.761904762,34.548,4.2
+750143-56-7521,C,Marrakech,Member,Male,Fashion accessories,50.49,6,15.147,318.09,03/15/2019,12:33,Ewallet,302.94,4.761904762,15.147,6.2
+750144-43-8311,B,Rabat,Normal,Male,Health and beauty,12.33,3,1.8495,38.84,03/13/2019,11:16,Cash,36.99,4.761904762,1.8495,7.0
+750145-97-6236,A,Casablanca,Normal,Female,Electronic accessories,21.04,2,2.104,44.18,02/26/2019,11:51,Credit card,42.08,4.761904762,2.104,6.7
+750146-56-9335,C,Marrakech,Normal,Male,Food and beverages,58.79,5,14.6975,308.65,03/31/2019,20:11,Credit card,293.95,4.761904762,14.6975,9.1
+750147-80-3126,A,Casablanca,Member,Male,Electronic accessories,31.3,8,12.52,262.92,03/15/2019,15:29,Credit card,250.4,4.761904762,12.52,4.2
+750148-50-2215,C,Marrakech,Member,Male,Home and lifestyle,45.83,8,18.332,384.97,03/15/2019,11:08,Cash,366.64,4.761904762,18.332,7.2
+750149-17-3034,B,Rabat,Normal,Female,Electronic accessories,89.01,9,40.0545,841.14,01/17/2019,16:32,Ewallet,801.09,4.761904762,40.0545,7.8
+750150-35-5496,C,Marrakech,Member,Female,Electronic accessories,24.58,4,4.916,103.24,02/06/2019,11:16,Credit card,98.32,4.761904762,4.916,6.1
+750151-87-6531,A,Casablanca,Normal,Male,Food and beverages,67.68,10,33.84,710.64,01/22/2019,20:39,Ewallet,676.8,4.761904762,33.84,9.6
+750152-91-1496,C,Marrakech,Member,Male,Health and beauty,14.09,10,7.045,147.94,03/15/2019,16:39,Ewallet,140.9,4.761904762,7.045,5.6
+750153-66-7809,B,Rabat,Normal,Female,Sports and travel,32.04,7,11.214,235.49,03/30/2019,10:10,Ewallet,224.28,4.761904762,11.214,5.8
+750154-57-9437,B,Rabat,Normal,Male,Home and lifestyle,64.59,6,19.377,406.92,02/14/2019,16:08,Cash,387.54,4.761904762,19.377,9.2
+750155-59-7850,C,Marrakech,Member,Female,Electronic accessories,51.98,5,12.995,272.89,01/13/2019,10:18,Ewallet,259.9,4.761904762,12.995,6.7
+750156-49-9148,A,Casablanca,Member,Female,Food and beverages,74.89,4,14.978,314.54,03/07/2019,17:31,Cash,299.56,4.761904762,14.978,8.6
+750157-73-8710,A,Casablanca,Member,Female,Food and beverages,51.15,4,10.23,214.83,01/07/2019,10:18,Cash,204.6,4.761904762,10.23,5.3
+750158-16-4189,B,Rabat,Member,Male,Sports and travel,22.05,5,5.5125,115.76,02/16/2019,10:25,Cash,110.25,4.761904762,5.5125,8.4
+750159-26-2584,B,Rabat,Normal,Male,Sports and travel,55.38,9,24.921,523.34,03/29/2019,19:07,Credit card,498.42,4.761904762,24.921,5.7
+750160-15-1637,B,Rabat,Normal,Female,Food and beverages,94.5,3,14.175,297.68,02/21/2019,18:02,Credit card,283.5,4.761904762,14.175,5.2
+750161-30-7438,A,Casablanca,Normal,Female,Food and beverages,51.12,10,25.56,536.76,02/11/2019,19:20,Ewallet,511.2,4.761904762,25.56,9.4
+750162-12-7035,C,Marrakech,Normal,Female,Food and beverages,84.54,9,38.043,798.9,02/08/2019,17:52,Credit card,760.86,4.761904762,38.043,6.9
+750163-39-1841,B,Rabat,Member,Female,Food and beverages,37.69,1,1.8845,39.57,03/25/2019,19:36,Cash,37.69,4.761904762,1.8845,7.6
+750164-14-2800,C,Marrakech,Normal,Male,Food and beverages,66.61,10,33.305,699.4,01/19/2019,20:15,Cash,666.1,4.761904762,33.305,8.6
+750165-70-2020,A,Casablanca,Member,Female,Home and lifestyle,47.69,7,16.6915,350.52,03/06/2019,19:58,Cash,333.83,4.761904762,16.6915,8.1
+750166-78-6608,C,Marrakech,Member,Male,Food and beverages,39.25,8,15.7,329.7,01/23/2019,17:58,Cash,314.0,4.761904762,15.7,7.2
+750167-46-4396,C,Marrakech,Normal,Female,Food and beverages,53.57,4,10.714,224.99,01/29/2019,14:49,Cash,214.28,4.761904762,10.714,5.7
+750168-60-6654,C,Marrakech,Normal,Female,Sports and travel,41.39,5,10.3475,217.3,03/28/2019,18:24,Credit card,206.95,4.761904762,10.3475,5.7
+750169-71-4505,A,Casablanca,Normal,Male,Home and lifestyle,95.97,2,9.597,201.54,03/25/2019,14:47,Cash,191.94,4.761904762,9.597,6.1
+750170-91-4814,A,Casablanca,Normal,Female,Electronic accessories,19.83,10,9.915,208.21,03/27/2019,18:14,Ewallet,198.3,4.761904762,9.915,5.4
+750171-30-7666,A,Casablanca,Member,Female,Home and lifestyle,74.56,2,7.456,156.58,01/01/2019,18:59,Ewallet,149.12,4.761904762,7.456,8.1
+750172-83-4804,C,Marrakech,Normal,Female,Fashion accessories,27.95,5,6.9875,146.74,01/08/2019,11:41,Credit card,139.75,4.761904762,6.9875,5.9
+750173-47-1613,C,Marrakech,Member,Male,Sports and travel,89.39,3,13.4085,281.58,02/20/2019,17:11,Ewallet,268.17,4.761904762,13.4085,9.6
+750174-34-2845,A,Casablanca,Normal,Male,Home and lifestyle,35.61,9,16.0245,336.51,03/06/2019,17:17,Ewallet,320.49,4.761904762,16.0245,7.1
+750175-34-3875,B,Rabat,Member,Female,Fashion accessories,33.15,3,4.9725,104.42,02/07/2019,19:43,Cash,99.45,4.761904762,4.9725,4.1
+750176-41-1111,C,Marrakech,Normal,Female,Food and beverages,39.51,7,13.8285,290.4,01/18/2019,17:20,Ewallet,276.57,4.761904762,13.8285,8.0
+750177-93-6890,B,Rabat,Normal,Male,Sports and travel,77.83,6,23.349,490.33,03/15/2019,10:16,Credit card,466.98,4.761904762,23.349,5.8
+750178-25-5833,C,Marrakech,Member,Male,Fashion accessories,20.64,5,5.16,108.36,03/06/2019,14:44,Credit card,103.2,4.761904762,5.16,5.0
+750179-80-8714,B,Rabat,Member,Male,Electronic accessories,53.03,8,21.212,445.45,02/17/2019,16:44,Credit card,424.24,4.761904762,21.212,8.5
+750180-82-2838,C,Marrakech,Member,Male,Fashion accessories,77.92,2,7.792,163.63,02/16/2019,11:58,Credit card,155.84,4.761904762,7.792,7.2
+750181-21-9361,A,Casablanca,Member,Male,Electronic accessories,39.53,9,17.7885,373.56,01/27/2019,19:31,Credit card,355.77,4.761904762,17.7885,6.7
+750182-49-1356,B,Rabat,Member,Female,Electronic accessories,56.19,8,22.476,472.0,03/01/2019,20:51,Credit card,449.52,4.761904762,22.476,7.4
+750183-17-2130,B,Rabat,Normal,Male,Fashion accessories,29.61,2,2.961,62.18,03/31/2019,11:34,Cash,59.22,4.761904762,2.961,4.3
+750184-58-8348,B,Rabat,Member,Female,Sports and travel,26.2,3,3.93,82.53,03/24/2019,16:23,Credit card,78.6,4.761904762,3.93,8.6
+750185-60-9664,B,Rabat,Normal,Male,Fashion accessories,96.76,9,43.542,914.38,01/16/2019,12:34,Cash,870.84,4.761904762,43.542,4.8
+750186-39-5055,A,Casablanca,Member,Male,Health and beauty,98.05,8,39.22,823.62,02/24/2019,18:24,Credit card,784.4,4.761904762,39.22,8.0
+750187-12-4943,B,Rabat,Normal,Male,Home and lifestyle,26.96,2,2.696,56.62,02/23/2019,19:49,Credit card,53.92,4.761904762,2.696,4.2
+750188-66-4839,A,Casablanca,Member,Male,Food and beverages,13.02,10,6.51,136.71,02/01/2019,10:25,Ewallet,130.2,4.761904762,6.51,8.0
+750189-86-6253,C,Marrakech,Member,Male,Electronic accessories,55.35,5,13.8375,290.59,03/15/2019,15:36,Credit card,276.75,4.761904762,13.8375,5.4
+750190-32-7999,A,Casablanca,Normal,Male,Fashion accessories,56.91,7,19.9185,418.29,03/13/2019,19:56,Ewallet,398.37,4.761904762,19.9185,5.8
+750191-29-5913,C,Marrakech,Normal,Male,Home and lifestyle,94.73,7,33.1555,696.27,03/31/2019,16:26,Cash,663.11,4.761904762,33.1555,8.7
+750192-62-7824,B,Rabat,Member,Female,Electronic accessories,86.43,5,21.6075,453.76,03/01/2019,10:35,Ewallet,432.15,4.761904762,21.6075,9.1
+750193-34-1844,C,Marrakech,Member,Female,Electronic accessories,32.95,6,9.885,207.59,02/17/2019,11:34,Cash,197.7,4.761904762,9.885,7.9
+750194-52-5967,B,Rabat,Normal,Male,Health and beauty,26.93,10,13.465,282.76,01/28/2019,17:13,Credit card,269.3,4.761904762,13.465,8.3
+750195-40-6269,A,Casablanca,Member,Male,Fashion accessories,20.56,8,8.224,172.7,03/19/2019,13:25,Credit card,164.48,4.761904762,8.224,9.5
+750196-70-6246,B,Rabat,Normal,Female,Food and beverages,68.38,5,17.095,359.0,03/05/2019,17:06,Credit card,341.9,4.761904762,17.095,5.6
+750197-84-7841,A,Casablanca,Normal,Female,Sports and travel,14.11,4,2.822,59.26,02/03/2019,18:59,Ewallet,56.44,4.761904762,2.822,8.4
+750198-53-5216,B,Rabat,Member,Male,Home and lifestyle,30.7,10,15.35,322.35,03/12/2019,20:43,Cash,307.0,4.761904762,15.35,9.0
+750199-79-1962,B,Rabat,Normal,Female,Electronic accessories,75.94,6,22.782,478.42,03/11/2019,17:11,Credit card,455.64,4.761904762,22.782,5.0
+750200-29-1149,C,Marrakech,Member,Male,Fashion accessories,14.37,1,0.7185,15.09,01/30/2019,11:45,Credit card,14.37,4.761904762,0.7185,6.5
+750201-78-7739,A,Casablanca,Normal,Female,Health and beauty,65.6,10,32.8,688.8,03/04/2019,10:00,Credit card,656.0,4.761904762,32.8,9.5
+750202-32-2753,A,Casablanca,Member,Female,Food and beverages,97.96,1,4.898,102.86,03/28/2019,16:51,Credit card,97.96,4.761904762,4.898,7.0
+750203-61-8520,A,Casablanca,Member,Male,Electronic accessories,65.77,5,16.4425,345.29,02/20/2019,11:23,Cash,328.85,4.761904762,16.4425,8.9
+750204-58-7179,C,Marrakech,Member,Male,Home and lifestyle,71.56,2,7.156,150.28,01/05/2019,11:25,Credit card,143.12,4.761904762,7.156,7.9
+750205-22-9653,C,Marrakech,Normal,Male,Fashion accessories,10.85,3,1.6275,34.18,03/24/2019,15:36,Cash,32.55,4.761904762,1.6275,4.5
+750206-79-1539,A,Casablanca,Member,Male,Fashion accessories,89.87,8,35.948,754.91,03/29/2019,14:57,Ewallet,718.96,4.761904762,35.948,5.6
+750207-82-7375,A,Casablanca,Normal,Male,Electronic accessories,62.83,7,21.9905,461.8,01/21/2019,19:15,Cash,439.81,4.761904762,21.9905,9.6
+750208-39-2245,C,Marrakech,Normal,Female,Fashion accessories,22.59,2,2.259,47.44,01/07/2019,11:27,Cash,45.18,4.761904762,2.259,7.0
+750209-33-7227,B,Rabat,Normal,Female,Health and beauty,67.06,8,26.824,563.3,03/12/2019,16:27,Cash,536.48,4.761904762,26.824,6.9
+750210-59-6188,A,Casablanca,Normal,Male,Fashion accessories,16.61,5,4.1525,87.2,03/23/2019,12:47,Credit card,83.05,4.761904762,4.1525,4.9
+750211-33-8061,B,Rabat,Member,Male,Health and beauty,94.86,8,37.944,796.82,01/14/2019,12:05,Cash,758.88,4.761904762,37.944,6.2
+750212-47-7779,B,Rabat,Normal,Male,Health and beauty,18.06,9,8.127,170.67,02/11/2019,16:00,Credit card,162.54,4.761904762,8.127,4.6
+750213-28-2036,B,Rabat,Member,Male,Food and beverages,56.89,92,261.694,5495.57,02/08/2019,14:31,Cash,5233.88,4.761904762,261.694,5.0
+750214-88-4203,A,Casablanca,Normal,Female,Sports and travel,36.97,2,3.697,77.64,03/22/2019,17:38,Ewallet,73.94,4.761904762,3.697,6.2
+750215-52-8055,B,Rabat,Member,Male,Home and lifestyle,10.61,7,3.7135,77.98,02/18/2019,15:28,Credit card,74.27,4.761904762,3.7135,6.0
+750216-98-9044,C,Marrakech,Member,Female,Home and lifestyle,64.28,4,12.856,269.98,02/20/2019,15:18,Ewallet,257.12,4.761904762,12.856,6.9
+750217-33-1440,C,Marrakech,Member,Female,Sports and travel,35.22,7,12.327,258.87,01/26/2019,19:34,Credit card,246.54,4.761904762,12.327,6.2
+750218-91-5961,C,Marrakech,Normal,Male,Sports and travel,81.78,2,8.178,171.74,03/28/2019,17:08,Cash,163.56,4.761904762,8.178,8.9
+750219-78-9300,A,Casablanca,Normal,Male,Fashion accessories,48.08,7,16.828,353.39,03/03/2019,19:25,Credit card,336.56,4.761904762,16.828,4.4
+750220-95-6816,C,Marrakech,Normal,Male,Home and lifestyle,73.14,9,32.913,691.17,01/14/2019,13:42,Ewallet,658.26,4.761904762,32.913,7.6
+750221-76-4621,A,Casablanca,Member,Female,Home and lifestyle,96.9,7,33.915,712.22,02/03/2019,13:32,Ewallet,678.3,4.761904762,33.915,4.6
+750222-23-5840,B,Rabat,Normal,Female,Sports and travel,79.5,10,39.75,834.75,02/14/2019,10:30,Ewallet,795.0,4.761904762,39.75,8.1
+750223-70-2599,B,Rabat,Member,Male,Fashion accessories,22.75,5,5.6875,119.44,03/08/2019,17:22,Ewallet,113.75,4.761904762,5.6875,6.1
+750224-31-4996,B,Rabat,Normal,Female,Health and beauty,37.02,2,3.702,77.74,03/24/2019,11:43,Cash,74.04,4.761904762,3.702,4.1
+750225-91-8080,C,Marrakech,Member,Male,Home and lifestyle,60.38,8,24.152,507.19,03/22/2019,12:11,Cash,483.04,4.761904762,24.152,5.4
+750226-18-2667,B,Rabat,Member,Male,Sports and travel,63.29,7,22.1515,465.18,01/27/2019,14:48,Ewallet,443.03,4.761904762,22.1515,4.0
+750227-86-7367,C,Marrakech,Member,Female,Home and lifestyle,27.73,2,2.773,58.23,03/09/2019,20:20,Cash,55.46,4.761904762,2.773,5.6
+750228-20-3194,C,Marrakech,Normal,Male,Home and lifestyle,41.68,8,16.672,350.11,02/08/2019,19:37,Credit card,333.44,4.761904762,16.672,7.7
+750229-27-7286,B,Rabat,Member,Male,Home and lifestyle,20.52,6,6.156,129.28,02/19/2019,16:38,Credit card,123.12,4.761904762,6.156,8.2
+750230-50-8389,B,Rabat,Member,Female,Fashion accessories,58.36,3,8.754,183.83,02/06/2019,12:11,Cash,175.08,4.761904762,8.754,7.3
+750231-62-9056,C,Marrakech,Member,Female,Health and beauty,53.61,4,10.722,225.16,03/06/2019,20:31,Credit card,214.44,4.761904762,10.722,8.9
+750232-38-9808,B,Rabat,Normal,Female,Electronic accessories,17.44,1,0.872,18.31,02/07/2019,10:17,Ewallet,17.44,4.761904762,0.872,8.8
+750233-79-7010,B,Rabat,Member,Female,Food and beverages,76.82,8,30.728,645.29,03/15/2019,11:17,Ewallet,614.56,4.761904762,30.728,7.3
+750234-14-8368,C,Marrakech,Member,Female,Food and beverages,29.67,7,10.3845,218.07,02/01/2019,14:55,Credit card,207.69,4.761904762,10.3845,4.6
+750235-54-8015,B,Rabat,Normal,Male,Sports and travel,87.87,2,8.787,184.53,01/27/2019,19:44,Ewallet,175.74,4.761904762,8.787,8.7
+750236-51-5794,A,Casablanca,Member,Male,Electronic accessories,82.48,10,41.24,866.04,03/18/2019,18:10,Cash,824.8,4.761904762,41.24,6.1
+750237-26-5090,B,Rabat,Normal,Male,Electronic accessories,96.64,7,33.824,710.3,03/25/2019,12:44,Cash,676.48,4.761904762,33.824,9.5
+750238-67-2237,A,Casablanca,Normal,Male,Fashion accessories,45.34,3,6.801,142.82,03/22/2019,16:24,Cash,136.02,4.761904762,6.801,7.5
+750239-21-8511,C,Marrakech,Member,Female,Food and beverages,77.47,6,23.241,488.06,02/11/2019,19:00,Cash,464.82,4.761904762,23.241,6.7
+750240-46-6533,C,Marrakech,Normal,Male,Food and beverages,45.79,7,16.0265,336.56,02/04/2019,15:53,Cash,320.53,4.761904762,16.0265,8.9
+750241-30-8230,C,Marrakech,Member,Female,Home and lifestyle,90.46,1,4.523,94.98,02/28/2019,10:07,Credit card,90.46,4.761904762,4.523,4.3
+750242-93-6905,B,Rabat,Member,Female,Electronic accessories,99.6,3,14.94,313.74,01/21/2019,14:05,Cash,298.8,4.761904762,14.94,9.3
+750243-93-2494,B,Rabat,Member,Female,Fashion accessories,91.33,3,13.6995,287.69,02/09/2019,13:27,Credit card,273.99,4.761904762,13.6995,4.3
+750244-11-6629,C,Marrakech,Member,Male,Electronic accessories,52.91,3,7.9365,166.67,03/29/2019,17:00,Credit card,158.73,4.761904762,7.9365,7.6
+750245-48-3246,A,Casablanca,Normal,Male,Sports and travel,16.37,7,5.7295,120.32,01/14/2019,15:23,Ewallet,114.59,4.761904762,5.7295,4.5
+750246-37-3480,B,Rabat,Member,Male,Health and beauty,57.74,1,2.887,60.63,02/26/2019,15:46,Ewallet,57.74,4.761904762,2.887,7.7
+750247-50-3290,B,Rabat,Normal,Male,Health and beauty,90.68,3,13.602,285.64,02/19/2019,15:27,Credit card,272.04,4.761904762,13.602,8.5
+750248-94-5942,A,Casablanca,Normal,Male,Electronic accessories,59.8,10,29.9,627.9,03/30/2019,10:54,Cash,598.0,4.761904762,29.9,8.3
+750249-86-2163,A,Casablanca,Member,Female,Home and lifestyle,68.15,4,13.63,286.23,01/31/2019,17:40,Ewallet,272.6,4.761904762,13.63,7.0
+750250-70-2195,C,Marrakech,Member,Female,Home and lifestyle,21.88,10,10.94,229.74,03/29/2019,12:48,Credit card,218.8,4.761904762,10.94,6.5
+750251-74-7806,A,Casablanca,Member,Male,Home and lifestyle,29.41,1,1.4705,30.88,03/06/2019,14:40,Cash,29.41,4.761904762,1.4705,9.7
+750252-36-3545,B,Rabat,Normal,Male,Fashion accessories,58.29,10,29.145,612.04,02/09/2019,11:32,Ewallet,582.9,4.761904762,29.145,4.9
+750253-21-8118,C,Marrakech,Normal,Female,Food and beverages,67.08,2,6.708,140.87,01/31/2019,10:15,Cash,134.16,4.761904762,6.708,5.9
+750254-73-6680,A,Casablanca,Normal,Male,Home and lifestyle,69.94,3,10.491,220.31,01/18/2019,10:10,Credit card,209.82,4.761904762,10.491,4.7
+750255-64-5456,C,Marrakech,Normal,Male,Home and lifestyle,21.42,5,5.355,112.46,01/04/2019,15:51,Ewallet,107.1,4.761904762,5.355,8.4
+750256-82-3734,C,Marrakech,Member,Female,Fashion accessories,97.74,2,9.774,205.25,02/16/2019,10:31,Credit card,195.48,4.761904762,9.774,7.0
+750257-11-5006,B,Rabat,Member,Female,Health and beauty,90.48,2,9.048,190.01,01/01/2019,10:54,Credit card,180.96,4.761904762,9.048,5.4
+750258-38-6272,A,Casablanca,Normal,Female,Sports and travel,92.81,3,13.9215,292.35,03/12/2019,20:26,Ewallet,278.43,4.761904762,13.9215,9.6
+750259-38-9450,A,Casablanca,Normal,Female,Home and lifestyle,84.33,10,42.165,885.46,03/28/2019,10:11,Credit card,843.3,4.761904762,42.165,6.2
+750260-35-5777,A,Casablanca,Normal,Male,Sports and travel,87.93,5,21.9825,461.63,02/28/2019,10:23,Credit card,439.65,4.761904762,21.9825,6.0
+750261-10-7718,C,Marrakech,Normal,Male,Sports and travel,43.14,8,17.256,362.38,03/11/2019,13:09,Ewallet,345.12,4.761904762,17.256,10.0
+750262-49-2703,A,Casablanca,Member,Female,Fashion accessories,85.55,1,4.2775,89.83,03/26/2019,16:54,Ewallet,85.55,4.761904762,4.2775,9.7
+750263-76-7767,A,Casablanca,Member,Female,Sports and travel,96.5,3,14.475,303.98,01/06/2019,13:57,Ewallet,289.5,4.761904762,14.475,8.3
+750264-82-2020,C,Marrakech,Normal,Female,Fashion accessories,17.64,2,1.764,37.04,02/20/2019,11:37,Credit card,35.28,4.761904762,1.764,7.0
+750265-67-5455,B,Rabat,Member,Male,Home and lifestyle,33.49,6,10.047,210.99,03/31/2019,15:20,Cash,200.94,4.761904762,10.047,9.6
+750266-50-7660,A,Casablanca,Member,Male,Electronic accessories,80.19,10,40.095,842.0,01/22/2019,17:29,Ewallet,801.9,4.761904762,40.095,4.7
+750267-99-1660,A,Casablanca,Normal,Male,Sports and travel,37.74,5,9.435,198.14,01/21/2019,20:19,Ewallet,188.7,4.761904762,9.435,9.1
+750268-32-1509,A,Casablanca,Normal,Male,Health and beauty,74.0,6,22.2,466.2,03/28/2019,14:16,Ewallet,444.0,4.761904762,22.2,6.4
+750269-61-7098,B,Rabat,Normal,Male,Health and beauty,51.58,3,7.737,162.48,01/29/2019,12:12,Ewallet,154.74,4.761904762,7.737,4.7
+750270-52-3007,C,Marrakech,Member,Female,Health and beauty,11.96,2,1.196,25.12,02/26/2019,12:05,Credit card,23.92,4.761904762,1.196,5.2
+750271-97-7990,A,Casablanca,Normal,Male,Electronic accessories,93.16,7,32.606,684.73,03/05/2019,10:24,Cash,652.12,4.761904762,32.606,8.9
+750272-41-5835,A,Casablanca,Normal,Male,Electronic accessories,34.75,8,13.9,291.9,03/20/2019,19:39,Ewallet,278.0,4.761904762,13.9,9.3
+750273-90-9907,B,Rabat,Normal,Female,Health and beauty,17.89,7,6.2615,131.49,03/24/2019,18:15,Ewallet,125.23,4.761904762,6.2615,4.8
+750274-44-3946,A,Casablanca,Normal,Female,Sports and travel,59.0,8,23.6,495.6,03/06/2019,15:24,Credit card,472.0,4.761904762,23.6,6.1
+750275-84-4813,A,Casablanca,Normal,Male,Health and beauty,90.61,5,22.6525,475.7,03/09/2019,15:49,Cash,453.05,4.761904762,22.6525,4.4
+750276-59-6813,A,Casablanca,Member,Male,Fashion accessories,31.7,9,14.265,299.56,01/08/2019,13:36,Credit card,285.3,4.761904762,14.265,8.9
+750277-82-3328,A,Casablanca,Member,Male,Food and beverages,38.62,6,11.586,243.31,03/31/2019,15:36,Ewallet,231.72,4.761904762,11.586,9.5
+750278-12-9625,C,Marrakech,Member,Female,Food and beverages,37.81,8,15.124,317.6,01/30/2019,19:14,Ewallet,302.48,4.761904762,15.124,4.2
+750279-28-3320,B,Rabat,Member,Female,Food and beverages,28.13,3,4.2195,88.61,02/11/2019,10:01,Ewallet,84.39,4.761904762,4.2195,6.0
+750280-30-8157,A,Casablanca,Normal,Male,Home and lifestyle,73.4,7,25.69,539.49,02/08/2019,15:08,Cash,513.8,4.761904762,25.69,7.5
+750281-85-3872,C,Marrakech,Normal,Female,Electronic accessories,73.64,9,33.138,695.9,02/15/2019,13:42,Credit card,662.76,4.761904762,33.138,8.2
+750282-33-6213,B,Rabat,Normal,Female,Electronic accessories,25.99,1,1.2995,27.29,02/20/2019,19:02,Credit card,25.99,4.761904762,1.2995,9.7
+750283-21-6500,C,Marrakech,Member,Male,Sports and travel,22.66,2,2.266,47.59,01/22/2019,20:56,Cash,45.32,4.761904762,2.266,5.4
+750284-66-7875,B,Rabat,Member,Female,Electronic accessories,32.46,2,3.246,68.17,01/01/2019,10:24,Ewallet,64.92,4.761904762,3.246,6.1
+750285-97-4695,A,Casablanca,Normal,Female,Sports and travel,41.61,7,14.5635,305.83,03/15/2019,20:48,Cash,291.27,4.761904762,14.5635,4.6
+750286-58-3636,A,Casablanca,Normal,Male,Health and beauty,36.54,6,10.962,230.2,01/10/2019,15:10,Ewallet,219.24,4.761904762,10.962,5.6
+750287-31-8113,C,Marrakech,Member,Male,Home and lifestyle,63.46,10,31.73,666.33,01/04/2019,16:41,Credit card,634.6,4.761904762,31.73,9.4
+750288-46-5872,A,Casablanca,Member,Male,Home and lifestyle,28.5,4,5.7,119.7,03/11/2019,14:42,Credit card,114.0,4.761904762,5.7,6.5
+750289-47-8869,A,Casablanca,Member,Male,Sports and travel,61.45,8,24.58,516.18,01/01/2019,16:05,Cash,491.6,4.761904762,24.58,4.9
+750290-60-8715,A,Casablanca,Member,Male,Electronic accessories,25.37,5,6.3425,133.19,01/15/2019,14:50,Cash,126.85,4.761904762,6.3425,9.9
+750291-15-5313,B,Rabat,Normal,Male,Fashion accessories,58.97,3,8.8455,185.76,02/17/2019,12:28,Cash,176.91,4.761904762,8.8455,6.2
+750292-95-6632,B,Rabat,Normal,Female,Electronic accessories,85.33,10,42.665,895.96,03/27/2019,11:05,Credit card,853.3,4.761904762,42.665,4.4
+750293-70-4860,C,Marrakech,Normal,Male,Food and beverages,15.49,7,5.4215,113.85,03/10/2019,20:55,Cash,108.43,4.761904762,5.4215,8.9
+750294-28-2970,B,Rabat,Normal,Male,Sports and travel,91.24,1,4.562,95.8,03/15/2019,20:39,Credit card,91.24,4.761904762,4.562,7.0
+750295-90-3422,B,Rabat,Member,Male,Electronic accessories,82.75,3,12.4125,260.66,03/29/2019,16:12,Ewallet,248.25,4.761904762,12.4125,4.3
+750296-45-9514,C,Marrakech,Normal,Female,Fashion accessories,92.27,2,9.227,193.77,02/20/2019,18:20,Credit card,184.54,4.761904762,9.227,4.5
+750297-22-5687,B,Rabat,Member,Female,Health and beauty,47.3,3,7.095,148.99,01/13/2019,11:36,Credit card,141.9,4.761904762,7.095,7.4
+750298-61-3356,C,Marrakech,Normal,Female,Home and lifestyle,44.47,8,17.788,373.55,01/05/2019,12:17,Cash,355.76,4.761904762,17.788,7.4
+750299-57-1331,C,Marrakech,Normal,Male,Sports and travel,90.05,6,27.015,567.31,03/02/2019,14:57,Ewallet,540.3,4.761904762,27.015,8.1
+750300-66-6257,B,Rabat,Normal,Female,Home and lifestyle,85.85,2,8.585,180.28,01/18/2019,14:47,Ewallet,171.7,4.761904762,8.585,9.8
+750301-30-2075,B,Rabat,Normal,Male,Electronic accessories,49.75,7,17.4125,365.66,02/17/2019,10:32,Credit card,348.25,4.761904762,17.4125,8.4
+750302-68-1828,B,Rabat,Normal,Male,Food and beverages,89.13,1,4.4565,93.59,01/08/2019,13:02,Ewallet,89.13,4.761904762,4.4565,5.0
+750303-57-9008,B,Rabat,Member,Female,Home and lifestyle,84.11,9,37.8495,794.84,03/29/2019,10:15,Ewallet,756.99,4.761904762,37.8495,6.4
+750304-13-7333,C,Marrakech,Normal,Male,Sports and travel,62.81,6,18.843,395.7,03/30/2019,11:18,Cash,376.86,4.761904762,18.843,6.1
+750305-97-1145,A,Casablanca,Member,Male,Electronic accessories,68.26,4,13.652,286.69,03/07/2019,10:55,Cash,273.04,4.761904762,13.652,5.6
+750306-58-6713,B,Rabat,Member,Male,Food and beverages,82.07,4,16.414,344.69,03/24/2019,14:27,Cash,328.28,4.761904762,16.414,5.5
+750307-75-7131,B,Rabat,Normal,Male,Sports and travel,37.19,9,16.7355,351.45,03/16/2019,11:00,Cash,334.71,4.761904762,16.7355,8.9
+750308-45-5278,C,Marrakech,Normal,Female,Fashion accessories,19.73,2,1.973,41.43,03/23/2019,15:55,Cash,39.46,4.761904762,1.973,6.0
+750309-97-3292,C,Marrakech,Normal,Male,Electronic accessories,56.55,4,11.31,237.51,02/21/2019,20:20,Credit card,226.2,4.761904762,11.31,9.4
+750310-83-4111,C,Marrakech,Member,Female,Home and lifestyle,33.35,7,11.6725,245.12,01/05/2019,19:45,Credit card,233.45,4.761904762,11.6725,6.4
+750311-22-8713,B,Rabat,Member,Female,Fashion accessories,42.26,5,10.565,221.86,03/13/2019,12:18,Credit card,211.3,4.761904762,10.565,9.1
+750312-52-7089,A,Casablanca,Normal,Male,Fashion accessories,90.95,2,9.095,191.0,02/09/2019,16:50,Ewallet,181.9,4.761904762,9.095,5.3
+750313-34-9199,B,Rabat,Normal,Female,Health and beauty,52.34,10,26.17,549.57,01/10/2019,17:56,Credit card,523.4,4.761904762,26.17,7.5
+750314-68-3346,A,Casablanca,Normal,Female,Sports and travel,14.87,3,2.2305,46.84,02/13/2019,16:36,Ewallet,44.61,4.761904762,2.2305,4.8
+750315-36-3762,B,Rabat,Member,Male,Sports and travel,39.93,3,5.9895,125.78,01/01/2019,17:17,Ewallet,119.79,4.761904762,5.9895,5.9
+750316-10-1618,C,Marrakech,Member,Female,Health and beauty,21.65,7,7.5775,159.13,02/24/2019,17:24,Cash,151.55,4.761904762,7.5775,7.8
+750317-41-4707,C,Marrakech,Member,Female,Health and beauty,90.27,9,40.6215,853.05,01/01/2019,20:46,Credit card,812.43,4.761904762,40.6215,5.1
+750318-47-8469,C,Marrakech,Normal,Female,Electronic accessories,19.24,9,8.658,181.82,01/09/2019,10:19,Ewallet,173.16,4.761904762,8.658,7.5
+750319-61-1313,C,Marrakech,Normal,Female,Fashion accessories,99.58,6,29.874,627.35,02/15/2019,13:10,Cash,597.48,4.761904762,29.874,10.0
+750320-14-7147,A,Casablanca,Member,Male,Electronic accessories,76.06,10,38.03,798.63,02/16/2019,20:50,Ewallet,760.6,4.761904762,38.03,7.0
+750321-66-7230,C,Marrakech,Normal,Male,Food and beverages,99.51,2,9.951,208.97,01/07/2019,11:26,Ewallet,199.02,4.761904762,9.951,7.9
+750322-44-3247,A,Casablanca,Normal,Female,Fashion accessories,23.78,1,1.189,24.97,01/13/2019,20:33,Credit card,23.78,4.761904762,1.189,5.8
+750323-76-4304,B,Rabat,Member,Male,Home and lifestyle,20.26,2,2.026,42.55,01/26/2019,14:53,Credit card,40.52,4.761904762,2.026,7.0
+750324-10-1208,B,Rabat,Normal,Female,Electronic accessories,13.55,8,5.42,113.82,03/03/2019,15:15,Credit card,108.4,4.761904762,5.42,9.5
+750325-42-4787,C,Marrakech,Member,Male,Food and beverages,70.21,3,10.5315,221.16,01/10/2019,11:57,Credit card,210.63,4.761904762,10.5315,9.7
+750326-64-2898,B,Rabat,Normal,Female,Sports and travel,14.51,3,2.1765,45.71,02/16/2019,20:20,Cash,43.53,4.761904762,2.1765,9.2
+750327-21-7105,A,Casablanca,Member,Male,Electronic accessories,69.7,3,10.455,219.56,03/21/2019,14:56,Cash,209.1,4.761904762,10.455,6.0
+750328-63-3732,B,Rabat,Member,Male,Sports and travel,46.02,8,18.408,386.57,03/30/2019,17:51,Cash,368.16,4.761904762,18.408,5.6
+750329-88-7221,A,Casablanca,Member,Male,Electronic accessories,19.33,10,9.665,202.96,03/28/2019,17:11,Credit card,193.3,4.761904762,9.665,6.9
+750330-93-6148,B,Rabat,Member,Male,Sports and travel,92.83,2,9.283,194.94,01/06/2019,11:16,Cash,185.66,4.761904762,9.283,9.3
+750331-94-7305,A,Casablanca,Member,Female,Food and beverages,57.07,10,28.535,599.24,02/01/2019,17:22,Credit card,570.7,4.761904762,28.535,4.6
+750332-72-6253,A,Casablanca,Member,Male,Fashion accessories,94.08,9,42.336,889.06,01/22/2019,11:48,Cash,846.72,4.761904762,42.336,9.1
+750333-66-8341,A,Casablanca,Normal,Female,Health and beauty,55.62,9,25.029,525.61,01/31/2019,11:29,Cash,500.58,4.761904762,25.029,7.9
+750334-14-9996,A,Casablanca,Normal,Female,Home and lifestyle,20.68,8,8.272,173.71,01/14/2019,16:26,Ewallet,165.44,4.761904762,8.272,8.5
+750335-68-6439,A,Casablanca,Member,Female,Food and beverages,60.6,8,24.24,509.04,01/07/2019,13:54,Cash,484.8,4.761904762,24.24,9.7
+750336-91-5783,C,Marrakech,Normal,Female,Fashion accessories,50.72,2,5.072,106.51,01/01/2019,15:22,Ewallet,101.44,4.761904762,5.072,8.6
+750337-88-4209,C,Marrakech,Normal,Male,Health and beauty,90.71,8,36.284,761.96,02/22/2019,11:16,Credit card,725.68,4.761904762,36.284,4.8
+750338-91-3018,A,Casablanca,Member,Female,Electronic accessories,51.13,4,10.226,214.75,02/23/2019,10:59,Ewallet,204.52,4.761904762,10.226,8.3
+750339-75-3903,B,Rabat,Normal,Male,Sports and travel,10.39,1,0.5195,10.91,03/16/2019,17:59,Cash,10.39,4.761904762,0.5195,7.3
+750340-87-5067,C,Marrakech,Member,Male,Health and beauty,44.86,10,22.43,471.03,03/06/2019,16:26,Cash,448.6,4.761904762,22.43,7.6
+750341-99-9975,B,Rabat,Normal,Female,Home and lifestyle,50.75,3,7.6125,159.86,03/31/2019,18:19,Credit card,152.25,4.761904762,7.6125,4.8
+750342-74-9888,B,Rabat,Member,Male,Electronic accessories,66.17,5,16.5425,347.39,01/17/2019,20:11,Credit card,330.85,4.761904762,16.5425,8.1
+750343-78-5684,C,Marrakech,Normal,Male,Home and lifestyle,60.6,10,30.3,636.3,02/23/2019,20:47,Credit card,606.0,4.761904762,30.3,7.4
+750344-97-5105,B,Rabat,Member,Male,Health and beauty,44.27,1,2.2135,46.48,02/04/2019,12:18,Ewallet,44.27,4.761904762,2.2135,8.0
+750345-96-4675,A,Casablanca,Member,Female,Electronic accessories,77.82,1,3.891,81.71,01/14/2019,19:55,Cash,77.82,4.761904762,3.891,6.2
+750346-97-6122,C,Marrakech,Normal,Male,Food and beverages,80.58,5,20.145,423.04,02/18/2019,16:26,Ewallet,402.9,4.761904762,20.145,8.2
+750347-92-7025,C,Marrakech,Member,Male,Fashion accessories,32.62,10,16.31,342.51,01/29/2019,20:45,Cash,326.2,4.761904762,16.31,9.2
+750348-15-8020,C,Marrakech,Member,Male,Home and lifestyle,50.39,2,5.039,105.82,03/07/2019,11:24,Ewallet,100.78,4.761904762,5.039,5.1
+750349-51-1833,B,Rabat,Normal,Male,Electronic accessories,62.55,5,15.6375,328.39,01/20/2019,10:09,Cash,312.75,4.761904762,15.6375,4.0
+750350-76-2117,C,Marrakech,Normal,Female,Food and beverages,59.51,2,5.951,124.97,03/09/2019,13:11,Cash,119.02,4.761904762,5.951,8.7
+750351-56-5809,C,Marrakech,Member,Female,Food and beverages,58.33,2,5.833,122.49,03/26/2019,15:21,Ewallet,116.66,4.761904762,5.833,6.1
+750352-15-6258,A,Casablanca,Normal,Male,Health and beauty,70.2,8,28.08,589.68,03/20/2019,19:15,Credit card,561.6,4.761904762,28.08,5.4
+750353-75-8300,B,Rabat,Member,Female,Home and lifestyle,58.62,5,14.655,307.75,02/17/2019,18:51,Credit card,293.1,4.761904762,14.655,4.1
+750354-10-2072,B,Rabat,Member,Female,Fashion accessories,27.32,9,12.294,258.17,01/22/2019,18:34,Ewallet,245.88,4.761904762,12.294,4.5
+750355-68-6434,A,Casablanca,Member,Female,Health and beauty,28.5,7,9.975,209.47,03/29/2019,12:01,Ewallet,199.5,4.761904762,9.975,7.9
+750356-59-8391,A,Casablanca,Member,Male,Health and beauty,26.02,5,6.505,136.6,01/30/2019,14:26,Credit card,130.1,4.761904762,6.505,7.3
+750357-84-1745,C,Marrakech,Normal,Female,Home and lifestyle,11.52,2,1.152,24.19,03/21/2019,11:48,Credit card,23.04,4.761904762,1.152,7.2
+750358-94-1504,C,Marrakech,Member,Female,Food and beverages,19.55,5,4.8875,102.64,02/26/2019,16:25,Cash,97.75,4.761904762,4.8875,7.6
+750359-92-7113,B,Rabat,Member,Male,Electronic accessories,77.2,9,34.74,729.54,01/19/2019,14:43,Credit card,694.8,4.761904762,34.74,5.8
+750360-54-4469,A,Casablanca,Member,Male,Health and beauty,10.45,10,5.225,109.72,01/11/2019,14:13,Credit card,104.5,4.761904762,5.225,6.4
+750361-16-9992,B,Rabat,Member,Male,Electronic accessories,29.87,5,7.4675,156.82,03/27/2019,19:54,Ewallet,149.35,4.761904762,7.4675,5.2
+750362-26-4842,B,Rabat,Member,Female,Fashion accessories,16.06,2,1.606,33.73,03/04/2019,15:22,Credit card,32.12,4.761904762,1.606,5.2
+750363-82-6971,A,Casablanca,Normal,Male,Electronic accessories,38.6,8,15.44,324.24,02/09/2019,19:09,Credit card,308.8,4.761904762,15.44,6.0
+750364-56-3200,B,Rabat,Normal,Male,Health and beauty,38.19,4,7.638,160.4,02/25/2019,14:53,Credit card,152.76,4.761904762,7.638,8.3
+750365-20-5597,C,Marrakech,Normal,Female,Sports and travel,50.08,5,12.52,262.92,01/23/2019,20:38,Ewallet,250.4,4.761904762,12.52,6.9
+750366-84-7637,A,Casablanca,Member,Female,Fashion accessories,89.76,2,8.976,188.5,03/06/2019,20:01,Ewallet,179.52,4.761904762,8.976,8.4
+750367-85-5767,C,Marrakech,Member,Male,Food and beverages,33.45,9,15.0525,316.1,02/16/2019,16:14,Ewallet,301.05,4.761904762,15.0525,6.8
+750368-75-3299,A,Casablanca,Normal,Male,Sports and travel,42.74,1,2.137,44.88,03/29/2019,12:48,Credit card,42.74,4.761904762,2.137,8.0
+750369-72-4796,B,Rabat,Member,Male,Food and beverages,95.37,3,14.3055,300.42,02/15/2019,10:14,Cash,286.11,4.761904762,14.3055,8.4
+750370-68-1760,A,Casablanca,Normal,Female,Electronic accessories,13.85,4,2.77,58.17,02/19/2019,17:58,Cash,55.4,4.761904762,2.77,7.1
+750371-32-7171,A,Casablanca,Normal,Male,Fashion accessories,97.15,5,24.2875,510.04,03/16/2019,18:36,Cash,485.75,4.761904762,24.2875,9.0
+750372-55-6653,C,Marrakech,Normal,Female,Food and beverages,68.79,2,6.879,144.46,01/29/2019,18:25,Cash,137.58,4.761904762,6.879,7.1
+750373-37-3461,B,Rabat,Normal,Male,Food and beverages,89.37,8,35.748,750.71,03/07/2019,20:17,Ewallet,714.96,4.761904762,35.748,5.0
+750374-96-8844,A,Casablanca,Member,Female,Food and beverages,74.55,2,7.455,156.56,02/12/2019,11:30,Cash,149.1,4.761904762,7.455,8.0
+750375-27-9399,B,Rabat,Member,Male,Fashion accessories,84.99,1,4.2495,89.24,03/15/2019,19:10,Ewallet,84.99,4.761904762,4.2495,5.5
+750376-12-5644,A,Casablanca,Member,Male,Electronic accessories,33.24,3,4.986,104.71,03/18/2019,19:40,Cash,99.72,4.761904762,4.986,7.1
+750377-84-3979,A,Casablanca,Member,Female,Food and beverages,99.34,8,39.736,834.46,03/18/2019,12:50,Cash,794.72,4.761904762,39.736,5.0
+750378-26-2778,C,Marrakech,Normal,Male,Fashion accessories,71.7,8,28.68,602.28,01/30/2019,16:24,Ewallet,573.6,4.761904762,28.68,7.6
+750379-78-9246,A,Casablanca,Member,Female,Electronic accessories,64.49,3,9.6735,203.14,03/18/2019,10:56,Credit card,193.47,4.761904762,9.6735,6.9
+750380-76-7892,A,Casablanca,Member,Female,Fashion accessories,21.73,10,10.865,228.17,03/28/2019,20:27,Ewallet,217.3,4.761904762,10.865,7.2
+750381-99-2600,B,Rabat,Member,Female,Electronic accessories,94.45,8,37.78,793.38,02/14/2019,19:51,Cash,755.6,4.761904762,37.78,8.7
+750382-10-1116,B,Rabat,Member,Female,Sports and travel,78.92,2,7.892,165.73,02/22/2019,14:12,Credit card,157.84,4.761904762,7.892,5.7
+750383-84-5155,C,Marrakech,Member,Male,Sports and travel,68.9,6,20.67,434.07,01/20/2019,16:41,Ewallet,413.4,4.761904762,20.67,6.5
+750384-32-7065,B,Rabat,Normal,Female,Food and beverages,34.8,7,12.18,255.78,03/12/2019,18:30,Cash,243.6,4.761904762,12.18,8.5
+750385-99-3650,C,Marrakech,Normal,Female,Home and lifestyle,61.98,7,21.693,455.55,01/16/2019,13:28,Credit card,433.86,4.761904762,21.693,8.4
+750386-91-1086,A,Casablanca,Member,Female,Home and lifestyle,82.07,10,41.035,861.73,01/07/2019,12:24,Credit card,820.7,4.761904762,41.035,8.2
+750387-59-7564,A,Casablanca,Member,Female,Food and beverages,49.18,2,4.918,103.28,01/11/2019,19:02,Cash,98.36,4.761904762,4.918,5.6
+750388-14-9364,C,Marrakech,Normal,Male,Electronic accessories,67.62,8,27.048,568.01,03/08/2019,14:12,Credit card,540.96,4.761904762,27.048,4.1
+750389-61-6785,C,Marrakech,Member,Male,Fashion accessories,13.25,4,2.65,55.65,01/12/2019,14:49,Ewallet,53.0,4.761904762,2.65,7.9
+750390-81-6703,C,Marrakech,Normal,Female,Food and beverages,28.03,1,1.4015,29.43,01/12/2019,18:18,Ewallet,28.03,4.761904762,1.4015,8.4
+750391-62-9294,B,Rabat,Normal,Male,Food and beverages,96.67,8,38.668,812.03,01/01/2019,14:11,Credit card,773.36,4.761904762,38.668,9.6
+750392-66-7178,A,Casablanca,Member,Female,Home and lifestyle,95.22,9,42.849,899.83,03/15/2019,14:44,Credit card,856.98,4.761904762,42.849,9.7
+750393-43-2106,C,Marrakech,Normal,Male,Home and lifestyle,96.5,8,38.6,810.6,01/04/2019,17:07,Credit card,772.0,4.761904762,38.6,8.1
+750394-46-2523,B,Rabat,Member,Male,Home and lifestyle,47.11,6,14.133,296.79,03/31/2019,14:15,Ewallet,282.66,4.761904762,14.133,7.1
+750395-97-4115,B,Rabat,Normal,Male,Food and beverages,93.82,8,37.528,788.09,03/15/2019,14:11,Ewallet,750.56,4.761904762,37.528,5.9
+750396-29-2747,B,Rabat,Member,Male,Fashion accessories,31.78,5,7.945,166.84,02/01/2019,19:22,Ewallet,158.9,4.761904762,7.945,5.2
+750397-73-5501,A,Casablanca,Member,Female,Food and beverages,10.6,9,4.77,100.17,02/17/2019,19:20,Cash,95.4,4.761904762,4.77,9.7
+750398-14-9232,B,Rabat,Member,Female,Sports and travel,29.99,10,14.995,314.89,02/24/2019,17:34,Credit card,299.9,4.761904762,14.995,4.8
+750399-36-7216,B,Rabat,Normal,Male,Sports and travel,97.88,9,44.046,924.97,01/02/2019,10:43,Credit card,880.92,4.761904762,44.046,6.8
+750400-88-6621,C,Marrakech,Member,Female,Home and lifestyle,65.14,5,16.285,341.99,01/31/2019,14:30,Cash,325.7,4.761904762,16.285,5.1
+750401-83-3148,B,Rabat,Member,Female,Sports and travel,28.95,6,8.685,182.38,02/05/2019,17:11,Cash,173.7,4.761904762,8.685,6.2
+750402-29-8749,C,Marrakech,Member,Male,Fashion accessories,34.29,4,6.858,144.02,01/26/2019,12:51,Cash,137.16,4.761904762,6.858,7.3
+750403-81-1781,A,Casablanca,Member,Female,Sports and travel,22.1,9,9.945,208.84,03/04/2019,14:16,Cash,198.9,4.761904762,9.945,7.2
+750404-52-5256,B,Rabat,Member,Male,Health and beauty,29.39,5,7.3475,154.3,01/13/2019,17:47,Credit card,146.95,4.761904762,7.3475,6.9
+750405-83-9821,B,Rabat,Normal,Female,Home and lifestyle,11.78,2,1.178,24.74,03/19/2019,13:36,Credit card,23.56,4.761904762,1.178,6.1
+750406-46-8598,A,Casablanca,Normal,Female,Home and lifestyle,70.58,8,28.232,592.87,01/11/2019,16:39,Cash,564.64,4.761904762,28.232,8.6
+750407-19-2296,C,Marrakech,Member,Male,Fashion accessories,82.69,6,24.807,520.95,03/15/2019,16:54,Credit card,496.14,4.761904762,24.807,6.5
+750408-66-6950,A,Casablanca,Normal,Male,Home and lifestyle,38.52,5,9.63,202.23,03/24/2019,16:17,Credit card,192.6,4.761904762,9.63,8.3
+750409-99-2311,C,Marrakech,Normal,Female,Electronic accessories,26.55,1,1.3275,27.88,03/26/2019,14:47,Ewallet,26.55,4.761904762,1.3275,4.8
+750410-20-2702,A,Casablanca,Member,Female,Health and beauty,18.6,8,7.44,156.24,02/20/2019,18:48,Ewallet,148.8,4.761904762,7.44,7.3
+750411-26-3150,B,Rabat,Member,Male,Fashion accessories,93.83,7,32.8405,689.65,02/06/2019,17:40,Ewallet,656.81,4.761904762,32.8405,5.9
+750412-66-3213,C,Marrakech,Member,Male,Health and beauty,69.71,6,20.913,439.17,03/11/2019,14:35,Cash,418.26,4.761904762,20.913,9.2
+750413-54-8891,C,Marrakech,Member,Female,Fashion accessories,77.39,10,38.695,812.6,03/23/2019,18:19,Credit card,773.9,4.761904762,38.695,6.6
+750414-27-6634,C,Marrakech,Member,Male,Sports and travel,37.71,7,13.1985,277.17,01/02/2019,10:33,Cash,263.97,4.761904762,13.1985,5.6
+750415-10-9981,B,Rabat,Normal,Male,Fashion accessories,92.98,8,37.192,781.03,02/07/2019,19:14,Cash,743.84,4.761904762,37.192,5.8
+750416-58-4614,B,Rabat,Member,Female,Food and beverages,49.34,4,9.868,207.23,03/24/2019,16:53,Credit card,197.36,4.761904762,9.868,5.0
+750417-78-5404,B,Rabat,Member,Female,Fashion accessories,31.56,10,15.78,331.38,02/04/2019,14:41,Credit card,315.6,4.761904762,15.78,8.8
+750418-89-9060,B,Rabat,Member,Male,Electronic accessories,22.29,2,2.229,46.81,02/27/2019,14:44,Credit card,44.58,4.761904762,2.229,7.8
+750419-66-1134,A,Casablanca,Normal,Male,Electronic accessories,14.47,9,6.5115,136.74,02/06/2019,14:08,Ewallet,130.23,4.761904762,6.5115,4.1
+750420-14-6410,A,Casablanca,Member,Male,Health and beauty,54.42,6,16.326,342.85,02/17/2019,17:44,Cash,326.52,4.761904762,16.326,6.5
+750421-58-1206,A,Casablanca,Member,Male,Home and lifestyle,79.8,2,7.98,167.58,01/25/2019,14:52,Ewallet,159.6,4.761904762,7.98,7.3
+750422-36-8746,A,Casablanca,Member,Female,Sports and travel,32.24,1,1.612,33.85,01/13/2019,18:42,Credit card,32.24,4.761904762,1.612,5.2
+750423-71-5895,B,Rabat,Normal,Female,Electronic accessories,66.62,1,3.331,69.95,03/08/2019,11:16,Credit card,66.62,4.761904762,3.331,8.5
+750424-45-2960,A,Casablanca,Normal,Male,Fashion accessories,29.6,2,2.96,62.16,02/11/2019,10:10,Cash,59.2,4.761904762,2.96,5.4
+750425-30-9190,B,Rabat,Member,Male,Health and beauty,62.29,8,24.916,523.24,02/17/2019,11:15,Ewallet,498.32,4.761904762,24.916,8.1
+750426-50-6690,A,Casablanca,Normal,Male,Health and beauty,41.99,3,6.2985,132.27,01/17/2019,17:14,Ewallet,125.97,4.761904762,6.2985,8.2
+750427-47-9892,B,Rabat,Member,Male,Fashion accessories,44.0,3,6.6,138.6,03/04/2019,17:35,Ewallet,132.0,4.761904762,6.6,5.5
+750428-80-3627,C,Marrakech,Normal,Male,Food and beverages,26.79,6,8.037,168.78,02/05/2019,19:58,Cash,160.74,4.761904762,8.037,5.9
+750429-33-1306,A,Casablanca,Member,Female,Home and lifestyle,83.74,9,37.683,791.34,03/23/2019,18:24,Ewallet,753.66,4.761904762,37.683,6.2
+750430-80-3525,C,Marrakech,Normal,Male,Home and lifestyle,74.88,9,33.696,707.62,03/09/2019,20:31,Ewallet,673.92,4.761904762,33.696,8.9
+750431-26-3926,C,Marrakech,Normal,Female,Sports and travel,67.67,2,6.767,142.11,01/09/2019,10:53,Credit card,135.34,4.761904762,6.767,4.6
+750432-89-5193,A,Casablanca,Member,Male,Sports and travel,27.24,1,1.362,28.6,03/26/2019,17:33,Cash,27.24,4.761904762,1.362,7.4
+750433-20-8668,A,Casablanca,Normal,Male,Food and beverages,74.6,1,3.73,78.33,03/25/2019,17:59,Ewallet,74.6,4.761904762,3.73,9.6
+750434-77-1666,C,Marrakech,Member,Female,Food and beverages,76.91,7,26.9185,565.29,01/08/2019,19:17,Credit card,538.37,4.761904762,26.9185,8.9
+750435-34-4164,C,Marrakech,Member,Female,Health and beauty,95.0,9,42.75,897.75,01/30/2019,18:24,Credit card,855.0,4.761904762,42.75,4.6
+750436-68-7997,C,Marrakech,Member,Male,Food and beverages,77.42,7,27.097,569.04,03/15/2019,15:43,Credit card,541.94,4.761904762,27.097,8.5
+750437-55-6163,A,Casablanca,Member,Male,Food and beverages,46.14,6,13.842,290.68,03/18/2019,17:59,Credit card,276.84,4.761904762,13.842,7.9
+750438-79-4504,C,Marrakech,Normal,Female,Sports and travel,78.77,7,27.5695,578.96,03/19/2019,13:36,Cash,551.39,4.761904762,27.5695,9.0
+750439-76-3213,B,Rabat,Normal,Female,Sports and travel,50.27,7,17.5945,369.48,02/06/2019,19:01,Ewallet,351.89,4.761904762,17.5945,4.0
+750440-81-3534,B,Rabat,Member,Female,Electronic accessories,29.33,6,8.799,184.78,02/05/2019,18:32,Credit card,175.98,4.761904762,8.799,4.1
+750441-48-2505,A,Casablanca,Member,Female,Home and lifestyle,24.05,5,6.0125,126.26,02/01/2019,13:16,Credit card,120.25,4.761904762,6.0125,6.2
+750442-22-5921,C,Marrakech,Normal,Male,Fashion accessories,16.95,6,5.085,106.78,03/04/2019,19:52,Ewallet,101.7,4.761904762,5.085,8.8
+750443-39-1187,A,Casablanca,Normal,Male,Health and beauty,92.96,6,27.888,585.65,02/23/2019,11:55,Cash,557.76,4.761904762,27.888,6.1
+750444-38-3509,C,Marrakech,Normal,Male,Home and lifestyle,57.19,6,17.157,360.3,02/11/2019,18:44,Ewallet,343.14,4.761904762,17.157,7.2
+750445-53-2352,A,Casablanca,Normal,Female,Food and beverages,61.77,2,6.177,129.72,02/20/2019,12:08,Cash,123.54,4.761904762,6.177,5.3
+750446-81-4245,B,Rabat,Member,Female,Home and lifestyle,17.66,9,7.947,166.89,01/17/2019,12:30,Credit card,158.94,4.761904762,7.947,6.6
+750447-97-2467,B,Rabat,Normal,Male,Food and beverages,65.43,9,29.4435,618.31,02/04/2019,16:20,Ewallet,588.87,4.761904762,29.4435,5.5
+750448-54-8245,A,Casablanca,Normal,Female,Home and lifestyle,41.34,6,12.402,260.44,01/04/2019,14:10,Credit card,248.04,4.761904762,12.402,6.1
+750449-16-4982,C,Marrakech,Member,Female,Health and beauty,93.17,4,18.634,391.31,01/20/2019,11:07,Cash,372.68,4.761904762,18.634,5.2
+750450-78-4471,C,Marrakech,Member,Female,Health and beauty,40.89,2,4.089,85.87,01/03/2019,15:13,Cash,81.78,4.761904762,4.089,5.8
+750451-94-9631,A,Casablanca,Normal,Female,Food and beverages,75.69,3,11.3535,238.42,01/03/2019,16:37,Credit card,227.07,4.761904762,11.3535,8.2
+750452-59-5445,A,Casablanca,Normal,Male,Health and beauty,35.56,10,17.78,373.38,03/25/2019,10:04,Cash,355.6,4.761904762,17.78,5.6
+750453-50-8940,C,Marrakech,Normal,Male,Health and beauty,36.32,7,12.712,266.95,03/07/2019,11:57,Cash,254.24,4.761904762,12.712,5.4
+750454-77-5995,C,Marrakech,Member,Male,Electronic accessories,55.05,8,22.02,462.42,01/03/2019,10:15,Credit card,440.4,4.761904762,22.02,7.4
+750455-74-5519,B,Rabat,Normal,Female,Fashion accessories,24.13,6,7.239,152.02,03/22/2019,14:15,Cash,144.78,4.761904762,7.239,8.1
+750456-21-7262,A,Casablanca,Normal,Female,Health and beauty,94.96,88,417.824,8774.3,02/20/2019,20:08,Cash,8356.48,4.761904762,417.824,5.4
+750457-26-4387,C,Marrakech,Member,Female,Electronic accessories,61.56,7,21.546,452.47,02/12/2019,17:34,Credit card,430.92,4.761904762,21.546,9.8
+750458-82-3589,C,Marrakech,Member,Male,Electronic accessories,37.81,9,17.0145,357.3,01/19/2019,20:59,Cash,340.29,4.761904762,17.0145,9.5
+750459-66-5485,B,Rabat,Member,Male,Electronic accessories,38.58,3,5.787,121.53,02/22/2019,16:19,Cash,115.74,4.761904762,5.787,8.4
+750460-86-4804,A,Casablanca,Member,Male,Electronic accessories,26.63,10,13.315,279.62,03/14/2019,19:14,Credit card,266.3,4.761904762,13.315,7.7
+750461-33-7348,A,Casablanca,Member,Female,Health and beauty,71.93,8,28.772,604.21,03/02/2019,20:23,Credit card,575.44,4.761904762,28.772,4.8
+750462-95-4323,B,Rabat,Normal,Male,Electronic accessories,27.39,1,1.3695,28.76,02/04/2019,16:14,Ewallet,27.39,4.761904762,1.3695,6.5
+750463-15-7232,A,Casablanca,Member,Male,Sports and travel,88.03,8,35.212,739.45,02/01/2019,16:25,Cash,704.24,4.761904762,35.212,8.1
+750464-23-8399,C,Marrakech,Normal,Female,Food and beverages,94.51,10,47.255,992.36,03/24/2019,10:33,Credit card,945.1,4.761904762,47.255,7.6
+750465-47-8201,B,Rabat,Member,Male,Food and beverages,58.4,1,2.92,61.32,03/22/2019,10:12,Credit card,58.4,4.761904762,2.92,7.3
+750466-28-8595,B,Rabat,Normal,Female,Sports and travel,24.98,5,6.245,131.15,03/30/2019,18:57,Ewallet,124.9,4.761904762,6.245,7.7
+750467-62-6299,C,Marrakech,Normal,Male,Fashion accessories,55.05,3,8.2575,173.41,03/11/2019,12:25,Credit card,165.15,4.761904762,8.2575,8.7
+750468-93-3686,B,Rabat,Member,Male,Sports and travel,63.12,4,12.624,265.1,02/02/2019,15:44,Ewallet,252.48,4.761904762,12.624,9.3
+750469-30-7204,C,Marrakech,Member,Male,Health and beauty,73.55,6,22.065,463.36,02/19/2019,18:39,Credit card,441.3,4.761904762,22.065,4.5
+750470-16-7874,C,Marrakech,Normal,Male,Electronic accessories,92.09,10,46.045,966.95,01/21/2019,12:11,Ewallet,920.9,4.761904762,46.045,9.2
+750471-42-1200,B,Rabat,Normal,Female,Home and lifestyle,66.37,2,6.637,139.38,01/01/2019,19:48,Ewallet,132.74,4.761904762,6.637,9.4
+750472-70-8434,B,Rabat,Normal,Female,Food and beverages,82.66,10,41.33,867.93,01/28/2019,19:42,Ewallet,826.6,4.761904762,41.33,9.3
+750473-36-1801,B,Rabat,Normal,Male,Food and beverages,64.0,4,12.8,268.8,03/21/2019,20:35,Cash,256.0,4.761904762,12.8,9.3
+750474-52-2436,A,Casablanca,Member,Male,Fashion accessories,41.41,3,6.2115,130.44,03/15/2019,19:19,Credit card,124.23,4.761904762,6.2115,9.1
+750475-81-3906,A,Casablanca,Member,Female,Electronic accessories,24.52,5,6.13,128.73,03/31/2019,19:36,Credit card,122.6,4.761904762,6.13,7.7
+750476-80-2063,B,Rabat,Normal,Male,Health and beauty,79.16,6,23.748,498.71,01/09/2019,16:53,Cash,474.96,4.761904762,23.748,6.2
+750477-36-1953,B,Rabat,Normal,Male,Health and beauty,72.51,5,18.1275,380.68,03/09/2019,13:44,Cash,362.55,4.761904762,18.1275,6.0
+750478-89-6797,A,Casablanca,Member,Female,Fashion accessories,71.97,5,17.9925,377.84,02/03/2019,18:36,Cash,359.85,4.761904762,17.9925,6.6
+750479-13-8616,A,Casablanca,Normal,Female,Sports and travel,82.71,10,41.355,868.45,01/25/2019,10:07,Cash,827.1,4.761904762,41.355,5.4
+750480-11-4296,C,Marrakech,Member,Male,Food and beverages,99.9,7,34.965,734.27,03/13/2019,20:13,Cash,699.3,4.761904762,34.965,4.3
+750481-53-7488,C,Marrakech,Normal,Female,Health and beauty,37.7,9,16.965,356.26,01/15/2019,20:21,Ewallet,339.3,4.761904762,16.965,7.3
+750482-27-8888,C,Marrakech,Member,Male,Electronic accessories,39.74,6,11.922,250.36,03/02/2019,10:41,Cash,238.44,4.761904762,11.922,9.5
+750483-96-6169,A,Casablanca,Normal,Female,Sports and travel,80.55,7,28.1925,592.04,03/08/2019,14:36,Ewallet,563.85,4.761904762,28.1925,9.6
+750484-58-9753,C,Marrakech,Member,Male,Food and beverages,71.69,6,21.507,451.65,02/05/2019,10:21,Ewallet,430.14,4.761904762,21.507,4.4
+750485-21-9143,A,Casablanca,Normal,Male,Food and beverages,20.51,5,5.1275,107.68,01/05/2019,14:26,Cash,102.55,4.761904762,5.1275,8.2
+750486-21-8270,A,Casablanca,Normal,Female,Home and lifestyle,29.45,5,7.3625,154.61,01/05/2019,13:58,Cash,147.25,4.761904762,7.3625,5.1
+750487-51-3347,C,Marrakech,Member,Female,Food and beverages,23.87,6,7.161,150.38,03/09/2019,14:49,Credit card,143.22,4.761904762,7.161,9.5
+750488-15-2426,A,Casablanca,Member,Male,Fashion accessories,13.29,7,4.6515,97.68,01/15/2019,10:19,Credit card,93.03,4.761904762,4.6515,8.3
+750489-35-4154,B,Rabat,Normal,Male,Health and beauty,56.85,5,14.2125,298.46,03/23/2019,13:20,Cash,284.25,4.761904762,14.2125,4.1
+750490-81-9422,B,Rabat,Normal,Female,Sports and travel,70.39,5,17.5975,369.55,01/15/2019,10:39,Cash,351.95,4.761904762,17.5975,4.9
+750491-19-6101,A,Casablanca,Member,Female,Food and beverages,38.66,3,5.799,121.78,03/15/2019,13:10,Cash,115.98,4.761904762,5.799,9.7
+750492-21-7987,C,Marrakech,Normal,Female,Health and beauty,21.71,8,8.684,182.36,01/14/2019,16:03,Ewallet,173.68,4.761904762,8.684,9.4
+750493-69-3159,B,Rabat,Member,Female,Food and beverages,42.0,6,12.6,264.6,03/27/2019,18:05,Credit card,252.0,4.761904762,12.6,8.9
+750494-56-7423,A,Casablanca,Normal,Male,Sports and travel,37.93,8,15.172,318.61,01/19/2019,19:16,Ewallet,303.44,4.761904762,15.172,6.8
+750495-31-5624,A,Casablanca,Normal,Female,Sports and travel,53.87,2,5.387,113.13,03/03/2019,17:54,Cash,107.74,4.761904762,5.387,6.9
+750496-69-7566,B,Rabat,Member,Male,Sports and travel,83.57,2,8.357,175.5,01/10/2019,14:34,Credit card,167.14,4.761904762,8.357,6.0
+750497-98-8063,C,Marrakech,Normal,Male,Food and beverages,31.93,3,4.7895,100.58,01/09/2019,15:13,Cash,95.79,4.761904762,4.7895,9.8
+750498-85-8584,B,Rabat,Normal,Male,Electronic accessories,69.63,2,6.963,146.22,03/15/2019,17:07,Credit card,139.26,4.761904762,6.963,8.4
+750499-58-6364,B,Rabat,Member,Female,Electronic accessories,37.72,7,13.202,277.24,03/29/2019,19:49,Ewallet,264.04,4.761904762,13.202,4.4
+750500-29-8421,B,Rabat,Member,Male,Electronic accessories,83.52,10,41.76,876.96,01/01/2019,12:42,Credit card,835.2,4.761904762,41.76,9.4
+750501-96-5989,C,Marrakech,Normal,Female,Food and beverages,62.01,4,12.402,260.44,02/08/2019,19:50,Cash,248.04,4.761904762,12.402,5.2
+750502-80-1870,B,Rabat,Normal,Male,Food and beverages,10.73,9,4.8285,101.4,02/07/2019,10:23,Ewallet,96.57,4.761904762,4.8285,6.4
+750503-58-7652,A,Casablanca,Normal,Male,Home and lifestyle,87.9,4,17.58,369.18,02/20/2019,20:20,Credit card,351.6,4.761904762,17.58,6.6
+750504-46-3056,B,Rabat,Normal,Male,Fashion accessories,25.61,3,3.8415,80.67,02/16/2019,16:09,Cash,76.83,4.761904762,3.8415,5.1
+750505-63-8471,A,Casablanca,Member,Male,Fashion accessories,11.41,8,4.564,95.84,01/11/2019,12:41,Ewallet,91.28,4.761904762,4.564,7.9
+750506-64-1121,C,Marrakech,Normal,Male,Sports and travel,55.84,9,25.128,527.69,02/15/2019,13:11,Cash,502.56,4.761904762,25.128,8.9
+750507-82-8917,C,Marrakech,Normal,Male,Fashion accessories,55.15,7,19.3025,405.35,02/16/2019,10:02,Credit card,386.05,4.761904762,19.3025,9.6
+750508-76-2281,C,Marrakech,Normal,Male,Food and beverages,53.33,2,5.333,111.99,03/09/2019,14:29,Credit card,106.66,4.761904762,5.333,4.9
+750509-16-6628,C,Marrakech,Member,Male,Sports and travel,66.75,2,6.675,140.18,03/16/2019,14:39,Credit card,133.5,4.761904762,6.675,8.1
+750510-47-5738,C,Marrakech,Member,Female,Sports and travel,56.13,8,22.452,471.49,02/23/2019,15:51,Cash,449.04,4.761904762,22.452,7.4
+750511-16-5780,A,Casablanca,Member,Female,Fashion accessories,80.64,5,20.16,423.36,03/16/2019,12:36,Cash,403.2,4.761904762,20.16,4.4
+750512-45-5509,C,Marrakech,Member,Female,Sports and travel,17.43,9,7.8435,164.71,02/02/2019,12:39,Cash,156.87,4.761904762,7.8435,4.5
+750513-32-5280,B,Rabat,Member,Male,Food and beverages,25.71,10,12.855,269.96,02/27/2019,15:51,Credit card,257.1,4.761904762,12.855,8.4
+750514-29-9125,C,Marrakech,Member,Female,Electronic accessories,81.94,1,4.097,86.04,01/19/2019,19:59,Ewallet,81.94,4.761904762,4.097,6.1
+750515-43-2900,B,Rabat,Normal,Male,Fashion accessories,49.61,3,7.4415,156.27,02/14/2019,10:41,Credit card,148.83,4.761904762,7.4415,5.3
+750516-59-8775,A,Casablanca,Member,Female,Sports and travel,52.86,8,21.144,444.02,01/30/2019,16:43,Credit card,422.88,4.761904762,21.144,8.5
+750517-22-9704,B,Rabat,Member,Female,Health and beauty,35.99,8,14.396,302.32,03/09/2019,20:02,Cash,287.92,4.761904762,14.396,6.3
+750518-84-7408,C,Marrakech,Normal,Female,Food and beverages,92.61,5,23.1525,486.2,01/13/2019,14:41,Cash,463.05,4.761904762,23.1525,6.0
+750519-18-1195,B,Rabat,Member,Male,Food and beverages,40.36,3,6.054,127.13,03/28/2019,10:53,Ewallet,121.08,4.761904762,6.054,5.9
+750520-89-2506,B,Rabat,Member,Male,Fashion accessories,50.13,4,10.026,210.55,01/25/2019,10:01,Cash,200.52,4.761904762,10.026,8.4
+750521-92-4027,A,Casablanca,Member,Male,Fashion accessories,96.19,2,9.619,202.0,02/18/2019,20:48,Ewallet,192.38,4.761904762,9.619,9.1
+750522-51-5216,A,Casablanca,Member,Female,Home and lifestyle,52.02,2,5.202,109.24,02/24/2019,20:49,Cash,104.04,4.761904762,5.202,7.8
+750523-18-9056,A,Casablanca,Member,Female,Health and beauty,44.45,6,13.335,280.04,02/03/2019,12:28,Cash,266.7,4.761904762,13.335,10.0
+750524-23-8234,A,Casablanca,Normal,Male,Fashion accessories,54.28,3,8.142,170.98,01/28/2019,19:41,Cash,162.84,4.761904762,8.142,7.2
+750525-93-1014,C,Marrakech,Normal,Male,Health and beauty,16.56,10,8.28,173.88,01/03/2019,17:09,Cash,165.6,4.761904762,8.28,8.4
+750526-61-2148,A,Casablanca,Normal,Female,Electronic accessories,73.0,7,25.55,536.55,03/04/2019,17:27,Credit card,511.0,4.761904762,25.55,7.4
+750527-48-7563,C,Marrakech,Member,Male,Sports and travel,95.86,8,38.344,805.22,02/15/2019,15:43,Credit card,766.88,4.761904762,38.344,4.7
+750528-32-1644,A,Casablanca,Member,Female,Food and beverages,86.79,6,26.037,546.78,02/07/2019,20:12,Cash,520.74,4.761904762,26.037,4.5
+750529-90-8175,B,Rabat,Member,Female,Fashion accessories,45.11,2,4.511,94.73,03/04/2019,11:56,Cash,90.22,4.761904762,4.511,7.8
+750530-49-9186,C,Marrakech,Member,Male,Health and beauty,27.38,10,13.69,287.49,01/09/2019,18:41,Cash,273.8,4.761904762,13.69,5.4
+750531-93-9570,C,Marrakech,Normal,Male,Health and beauty,40.53,6,12.159,255.34,02/21/2019,11:13,Ewallet,243.18,4.761904762,12.159,8.7
+750532-41-3138,B,Rabat,Member,Male,Health and beauty,13.32,3,1.998,41.96,03/02/2019,19:02,Ewallet,39.96,4.761904762,1.998,6.9
+750533-23-2870,A,Casablanca,Member,Male,Home and lifestyle,83.86,2,8.386,176.11,03/17/2019,11:52,Ewallet,167.72,4.761904762,8.386,6.7
+750534-51-4493,B,Rabat,Member,Male,Electronic accessories,48.35,7,16.9225,355.37,03/15/2019,18:08,Credit card,338.45,4.761904762,16.9225,5.9
+750535-31-8187,A,Casablanca,Member,Female,Health and beauty,20.87,3,3.1305,65.74,03/31/2019,15:35,Ewallet,62.61,4.761904762,3.1305,8.5
+750536-10-1118,A,Casablanca,Member,Male,Health and beauty,81.19,10,40.595,852.5,01/03/2019,17:05,Ewallet,811.9,4.761904762,40.595,6.3
+750537-76-8379,A,Casablanca,Member,Female,Sports and travel,72.41,8,28.964,608.24,01/19/2019,20:17,Ewallet,579.28,4.761904762,28.964,8.2
+750538-48-6699,B,Rabat,Member,Male,Food and beverages,72.24,10,36.12,758.52,03/20/2019,11:40,Cash,722.4,4.761904762,36.12,5.1
+750539-38-8605,B,Rabat,Member,Male,Electronic accessories,20.57,9,9.2565,194.39,02/16/2019,18:32,Credit card,185.13,4.761904762,9.2565,9.9
+750540-95-1706,C,Marrakech,Member,Female,Health and beauty,27.43,3,4.1145,86.4,03/05/2019,12:10,Cash,82.29,4.761904762,4.1145,8.1
+750541-16-9804,A,Casablanca,Normal,Female,Electronic accessories,49.12,6,14.736,309.46,01/06/2019,11:47,Cash,294.72,4.761904762,14.736,7.7
+750542-51-7865,A,Casablanca,Member,Male,Sports and travel,56.34,2,5.634,118.31,02/26/2019,19:37,Credit card,112.68,4.761904762,5.634,9.4
+750543-38-2204,A,Casablanca,Normal,Male,Health and beauty,39.35,2,3.935,82.64,01/26/2019,16:57,Cash,78.7,4.761904762,3.935,5.4
+750544-34-6875,B,Rabat,Normal,Male,Sports and travel,23.04,10,11.52,241.92,02/17/2019,12:29,Cash,230.4,4.761904762,11.52,6.7
+750545-63-3804,B,Rabat,Member,Female,Electronic accessories,12.89,10,6.445,135.34,01/15/2019,17:29,Ewallet,128.9,4.761904762,6.445,4.4
+750546-62-9548,B,Rabat,Member,Female,Food and beverages,24.11,10,12.055,253.16,03/12/2019,13:05,Credit card,241.1,4.761904762,12.055,9.4
+750547-84-4643,B,Rabat,Member,Female,Sports and travel,35.12,7,12.292,258.13,02/01/2019,15:27,Ewallet,245.84,4.761904762,12.292,8.4
+750548-77-7460,C,Marrakech,Member,Male,Sports and travel,98.21,1,4.9105,103.12,03/06/2019,10:27,Credit card,98.21,4.761904762,4.9105,9.9
+750549-55-5846,B,Rabat,Member,Female,Sports and travel,31.64,9,14.238,299.0,02/22/2019,13:08,Credit card,284.76,4.761904762,14.238,8.5
+750550-69-3271,A,Casablanca,Member,Male,Sports and travel,70.21,3,10.5315,221.16,03/16/2019,10:29,Credit card,210.63,4.761904762,10.5315,8.2
+750551-14-5859,C,Marrakech,Normal,Male,Home and lifestyle,66.41,1,3.3205,69.73,02/19/2019,15:33,Ewallet,66.41,4.761904762,3.3205,9.2
+750552-16-2818,B,Rabat,Normal,Male,Fashion accessories,17.29,6,5.187,108.93,03/07/2019,20:23,Ewallet,103.74,4.761904762,5.187,8.4
+750553-36-3267,B,Rabat,Normal,Female,Food and beverages,13.68,6,4.104,86.18,01/09/2019,18:45,Credit card,82.08,4.761904762,4.104,5.1
+750554-55-5380,B,Rabat,Member,Male,Fashion accessories,53.06,10,26.53,557.13,01/27/2019,13:20,Credit card,530.6,4.761904762,26.53,9.2
+750555-78-9730,C,Marrakech,Normal,Female,Health and beauty,15.7,6,4.71,98.91,03/09/2019,11:30,Credit card,94.2,4.761904762,4.71,6.7
+750556-32-5724,B,Rabat,Normal,Female,Fashion accessories,95.07,2,9.507,199.65,01/12/2019,11:25,Cash,190.14,4.761904762,9.507,5.1
+750557-47-7824,A,Casablanca,Member,Male,Home and lifestyle,20.08,3,3.012,63.25,03/08/2019,20:01,Ewallet,60.24,4.761904762,3.012,7.0
+750558-76-6503,C,Marrakech,Member,Female,Home and lifestyle,47.81,1,2.3905,50.2,01/03/2019,13:53,Ewallet,47.81,4.761904762,2.3905,5.7
+750559-26-6021,B,Rabat,Normal,Female,Sports and travel,63.4,9,28.53,599.13,02/28/2019,14:36,Cash,570.6,4.761904762,28.53,9.1
+750560-68-3725,A,Casablanca,Normal,Male,Sports and travel,43.47,5,10.8675,228.22,01/19/2019,15:18,Ewallet,217.35,4.761904762,10.8675,8.6
+750561-26-8223,C,Marrakech,Member,Female,Electronic accessories,97.58,3,14.637,307.38,01/06/2019,15:36,Ewallet,292.74,4.761904762,14.637,5.0
+750562-79-3663,B,Rabat,Normal,Male,Electronic accessories,60.62,1,3.031,63.65,01/19/2019,15:28,Cash,60.62,4.761904762,3.031,8.0
+750563-79-9313,C,Marrakech,Normal,Male,Health and beauty,46.41,8,18.564,389.84,02/10/2019,12:00,Cash,371.28,4.761904762,18.564,8.6
+750564-24-8847,B,Rabat,Normal,Female,Home and lifestyle,97.25,10,48.625,1021.12,02/26/2019,15:44,Credit card,972.5,4.761904762,48.625,8.0
+750565-17-4197,A,Casablanca,Member,Male,Home and lifestyle,12.23,10,6.115,128.42,02/15/2019,11:20,Cash,122.3,4.761904762,6.115,9.0
+750566-60-4185,C,Marrakech,Member,Female,Electronic accessories,12.03,9,5.4135,113.68,03/27/2019,11:32,Credit card,108.27,4.761904762,5.4135,9.1
+750567-11-5663,B,Rabat,Normal,Male,Fashion accessories,42.49,3,6.3735,133.84,02/17/2019,16:23,Cash,127.47,4.761904762,6.3735,8.3
+750568-30-7944,B,Rabat,Normal,Female,Sports and travel,88.68,2,8.868,186.23,02/23/2019,17:18,Cash,177.36,4.761904762,8.868,5.3
+750569-85-7156,C,Marrakech,Normal,Male,Food and beverages,63.81,3,9.5715,201.0,03/09/2019,15:04,Cash,191.43,4.761904762,9.5715,5.2
+750570-33-7254,A,Casablanca,Member,Female,Fashion accessories,92.29,7,32.3015,678.33,03/14/2019,12:12,Cash,646.03,4.761904762,32.3015,5.0
+750571-10-3523,B,Rabat,Normal,Male,Home and lifestyle,85.1,5,21.275,446.77,03/01/2019,13:01,Credit card,425.5,4.761904762,21.275,7.0
+750572-13-2955,B,Rabat,Normal,Female,Health and beauty,68.84,5,17.21,361.41,03/30/2019,20:15,Cash,344.2,4.761904762,17.21,6.5
+750573-70-2959,B,Rabat,Normal,Male,Food and beverages,77.09,10,38.545,809.45,02/03/2019,20:43,Cash,770.9,4.761904762,38.545,6.9
+750574-16-5467,B,Rabat,Member,Female,Electronic accessories,62.34,3,9.351,196.37,01/18/2019,15:10,Credit card,187.02,4.761904762,9.351,5.9
+750575-90-4002,B,Rabat,Normal,Female,Health and beauty,36.08,9,16.236,340.96,03/07/2019,13:49,Ewallet,324.72,4.761904762,16.236,7.8
+750576-78-6761,A,Casablanca,Member,Female,Home and lifestyle,84.41,5,21.1025,443.15,03/30/2019,15:06,Credit card,422.05,4.761904762,21.1025,5.6
+750577-74-4622,A,Casablanca,Member,Male,Food and beverages,35.32,8,14.128,296.69,01/14/2019,13:09,Ewallet,282.56,4.761904762,14.128,6.5
+750578-98-6940,A,Casablanca,Member,Female,Sports and travel,92.43,2,9.243,194.1,03/03/2019,15:19,Ewallet,184.86,4.761904762,9.243,8.9
+750579-98-3332,A,Casablanca,Normal,Female,Electronic accessories,73.88,1,3.694,77.57,01/29/2019,12:54,Ewallet,73.88,4.761904762,3.694,8.5
+750580-71-8065,C,Marrakech,Member,Female,Electronic accessories,28.88,2,2.888,60.65,01/10/2019,10:49,Ewallet,57.76,4.761904762,2.888,6.5
+750581-18-5942,A,Casablanca,Member,Male,Health and beauty,81.37,9,36.6165,768.95,01/16/2019,14:02,Cash,732.33,4.761904762,36.6165,7.6
+750582-13-2487,C,Marrakech,Member,Male,Health and beauty,92.8,4,18.56,389.76,01/24/2019,20:22,Ewallet,371.2,4.761904762,18.56,7.5
+750583-18-2623,A,Casablanca,Normal,Female,Home and lifestyle,24.45,9,11.0025,231.05,01/31/2019,18:36,Credit card,220.05,4.761904762,11.0025,8.7
+750584-37-9260,C,Marrakech,Member,Male,Fashion accessories,27.24,5,6.81,143.01,01/01/2019,11:59,Credit card,136.2,4.761904762,6.81,5.0
+750585-64-4510,C,Marrakech,Normal,Female,Fashion accessories,63.04,8,25.216,529.54,01/24/2019,15:24,Ewallet,504.32,4.761904762,25.216,8.0
+750586-56-5723,C,Marrakech,Member,Female,Health and beauty,78.52,6,23.556,494.68,03/08/2019,12:31,Ewallet,471.12,4.761904762,23.556,4.7
+750587-66-4700,C,Marrakech,Member,Male,Home and lifestyle,54.43,7,19.0505,400.06,02/09/2019,20:53,Credit card,381.01,4.761904762,19.0505,5.7
+750588-11-9055,C,Marrakech,Normal,Female,Sports and travel,26.99,2,2.699,56.68,03/28/2019,15:11,Cash,53.98,4.761904762,2.699,9.4
+750589-31-2060,C,Marrakech,Member,Female,Sports and travel,57.03,2,5.703,119.76,02/21/2019,19:06,Cash,114.06,4.761904762,5.703,4.7
+750590-84-5472,B,Rabat,Member,Female,Electronic accessories,63.54,7,22.239,467.02,03/05/2019,14:48,Cash,444.78,4.761904762,22.239,4.7
+750591-68-2770,C,Marrakech,Normal,Female,Sports and travel,69.99,7,24.4965,514.43,02/05/2019,12:49,Credit card,489.93,4.761904762,24.4965,9.9
+750592-96-1438,A,Casablanca,Normal,Female,Sports and travel,30.77,3,4.6155,96.93,01/07/2019,11:31,Credit card,92.31,4.761904762,4.6155,4.2
+750593-73-8635,A,Casablanca,Normal,Female,Electronic accessories,37.24,10,18.62,391.02,03/26/2019,18:49,Ewallet,372.4,4.761904762,18.62,4.6
+750594-14-8051,A,Casablanca,Normal,Female,Sports and travel,55.43,9,24.9435,523.81,03/11/2019,10:48,Credit card,498.87,4.761904762,24.9435,6.1
+750595-48-3689,A,Casablanca,Normal,Female,Home and lifestyle,86.75,8,34.7,728.7,01/23/2019,18:42,Ewallet,694.0,4.761904762,34.7,6.8
+750596-80-9837,B,Rabat,Normal,Male,Home and lifestyle,74.41,8,29.764,625.04,03/28/2019,17:42,Credit card,595.28,4.761904762,29.764,8.6
+750597-88-6779,C,Marrakech,Normal,Female,Food and beverages,86.88,9,39.096,821.02,03/05/2019,19:24,Cash,781.92,4.761904762,39.096,4.3
+750598-90-6591,B,Rabat,Normal,Male,Health and beauty,63.14,3,9.471,198.89,03/16/2019,10:48,Cash,189.42,4.761904762,9.471,9.0
+750599-92-6113,B,Rabat,Member,Female,Home and lifestyle,99.27,7,34.7445,729.63,02/01/2019,13:15,Credit card,694.89,4.761904762,34.7445,6.1
+750600-64-9433,C,Marrakech,Member,Male,Home and lifestyle,20.3,3,3.045,63.95,01/05/2019,17:42,Cash,60.9,4.761904762,3.045,4.1
+750601-83-2601,B,Rabat,Normal,Male,Fashion accessories,52.27,1,2.6135,54.88,03/15/2019,16:20,Cash,52.27,4.761904762,2.6135,9.9
+750602-73-2234,B,Rabat,Member,Male,Home and lifestyle,54.7,6,16.41,344.61,02/16/2019,16:12,Cash,328.2,4.761904762,16.41,5.0
+750603-84-2552,C,Marrakech,Member,Female,Home and lifestyle,14.28,10,7.14,149.94,03/21/2019,11:45,Ewallet,142.8,4.761904762,7.14,6.4
+750604-48-9268,C,Marrakech,Normal,Female,Health and beauty,60.97,9,27.4365,576.17,02/14/2019,11:41,Ewallet,548.73,4.761904762,27.4365,6.9
+750605-12-9457,B,Rabat,Normal,Female,Electronic accessories,47.28,5,11.82,248.22,03/27/2019,18:11,Cash,236.4,4.761904762,11.82,7.7
+750606-65-1981,A,Casablanca,Normal,Male,Fashion accessories,96.58,8,38.632,811.27,03/10/2019,19:54,Credit card,772.64,4.761904762,38.632,5.6
+750607-18-4335,C,Marrakech,Member,Female,Sports and travel,23.3,3,3.495,73.4,02/25/2019,16:20,Cash,69.9,4.761904762,3.495,8.5
+750608-13-5023,B,Rabat,Normal,Female,Fashion accessories,24.45,10,12.225,256.73,01/15/2019,12:12,Ewallet,244.5,4.761904762,12.225,5.4
+750609-27-1477,B,Rabat,Normal,Female,Food and beverages,99.21,7,34.7235,729.19,01/26/2019,12:17,Ewallet,694.47,4.761904762,34.7235,7.9
+750610-48-2041,B,Rabat,Normal,Male,Fashion accessories,86.72,8,34.688,728.45,01/11/2019,15:38,Ewallet,693.76,4.761904762,34.688,8.7
+750611-95-9605,B,Rabat,Normal,Male,Sports and travel,94.88,3,14.232,298.87,03/06/2019,11:33,Credit card,284.64,4.761904762,14.232,5.4
+750612-64-4571,B,Rabat,Normal,Male,Electronic accessories,63.98,6,19.194,403.07,02/19/2019,13:59,Credit card,383.88,4.761904762,19.194,6.0
+750613-57-2850,A,Casablanca,Member,Male,Electronic accessories,97.28,8,38.912,817.15,01/08/2019,17:34,Credit card,778.24,4.761904762,38.912,6.5
+750614-57-6049,B,Rabat,Normal,Female,Fashion accessories,32.17,5,8.0425,168.89,02/16/2019,17:45,Ewallet,160.85,4.761904762,8.0425,9.3
+750615-56-2999,A,Casablanca,Member,Male,Fashion accessories,92.56,4,18.512,388.75,02/09/2019,20:44,Cash,370.24,4.761904762,18.512,5.5
+750616-40-5872,C,Marrakech,Member,Female,Sports and travel,10.71,7,3.7485,78.72,02/08/2019,11:59,Cash,74.97,4.761904762,3.7485,9.6
+750617-62-6451,A,Casablanca,Member,Female,Fashion accessories,38.54,7,13.489,283.27,01/11/2019,17:30,Cash,269.78,4.761904762,13.489,8.7
+750618-51-8426,C,Marrakech,Normal,Male,Electronic accessories,72.86,9,32.787,688.53,03/19/2019,18:47,Cash,655.74,4.761904762,32.787,4.4
+750619-90-6006,C,Marrakech,Member,Male,Fashion accessories,67.74,8,27.096,569.02,01/01/2019,16:12,Ewallet,541.92,4.761904762,27.096,8.7
+750620-71-3187,B,Rabat,Member,Male,Electronic accessories,32.46,3,4.869,102.25,02/22/2019,15:28,Credit card,97.38,4.761904762,4.869,9.1
+750621-12-1376,B,Rabat,Member,Female,Home and lifestyle,27.88,7,9.758,204.92,02/18/2019,19:14,Cash,195.16,4.761904762,9.758,6.2
+750622-29-2459,C,Marrakech,Member,Male,Sports and travel,27.84,3,4.176,87.7,02/24/2019,19:16,Credit card,83.52,4.761904762,4.176,4.3
+750623-38-4328,B,Rabat,Member,Male,Health and beauty,74.67,7,26.1345,548.82,03/28/2019,17:07,Cash,522.69,4.761904762,26.1345,8.6
+750624-46-4102,A,Casablanca,Normal,Female,Fashion accessories,54.47,3,8.1705,171.58,03/18/2019,13:52,Ewallet,163.41,4.761904762,8.1705,6.6
+750625-97-8506,B,Rabat,Member,Female,Electronic accessories,12.59,5,3.1475,66.1,02/01/2019,15:37,Cash,62.95,4.761904762,3.1475,5.4
+750626-86-5198,A,Casablanca,Member,Female,Electronic accessories,88.42,7,30.947,649.89,02/19/2019,16:47,Credit card,618.94,4.761904762,30.947,8.1
+750627-86-1745,A,Casablanca,Member,Male,Health and beauty,39.95,4,7.99,167.79,03/19/2019,20:51,Cash,159.8,4.761904762,7.99,6.8
+750628-43-3783,A,Casablanca,Normal,Female,Home and lifestyle,97.97,6,29.391,617.21,01/06/2019,19:11,Credit card,587.82,4.761904762,29.391,4.8
+750629-50-1723,C,Marrakech,Normal,Female,Sports and travel,21.87,6,6.561,137.78,01/19/2019,14:07,Cash,131.22,4.761904762,6.561,8.3
+750630-50-8139,A,Casablanca,Normal,Female,Fashion accessories,42.45,7,14.8575,312.01,03/20/2019,14:33,Cash,297.15,4.761904762,14.8575,5.7
+750631-14-8704,A,Casablanca,Normal,Female,Electronic accessories,60.01,8,24.004,504.08,01/07/2019,13:11,Ewallet,480.08,4.761904762,24.004,4.3
+750632-73-2843,B,Rabat,Member,Female,Sports and travel,20.44,8,8.176,171.7,03/13/2019,17:29,Cash,163.52,4.761904762,8.176,4.2
+750633-94-4479,C,Marrakech,Member,Male,Home and lifestyle,18.42,5,4.605,96.71,03/07/2019,14:36,Ewallet,92.1,4.761904762,4.605,5.1
+750634-46-2998,C,Marrakech,Member,Male,Sports and travel,92.83,4,18.566,389.89,01/13/2019,15:01,Credit card,371.32,4.761904762,18.566,8.6
+750635-90-5412,B,Rabat,Normal,Male,Home and lifestyle,23.84,2,2.384,50.06,03/26/2019,17:29,Credit card,47.68,4.761904762,2.384,6.8
+750636-16-5635,C,Marrakech,Member,Female,Health and beauty,69.05,8,27.62,580.02,03/14/2019,12:13,Credit card,552.4,4.761904762,27.62,5.9
+750637-61-2461,B,Rabat,Member,Male,Food and beverages,95.66,7,33.481,703.1,01/23/2019,13:49,Cash,669.62,4.761904762,33.481,4.6
+750638-72-8083,A,Casablanca,Member,Male,Sports and travel,80.15,5,20.0375,420.79,01/20/2019,11:19,Credit card,400.75,4.761904762,20.0375,7.9
+750639-44-7931,C,Marrakech,Normal,Male,Home and lifestyle,69.89,6,20.967,440.31,02/27/2019,16:30,Cash,419.34,4.761904762,20.967,7.1
+750640-38-3540,A,Casablanca,Normal,Female,Food and beverages,26.77,7,9.3695,196.76,02/13/2019,17:43,Credit card,187.39,4.761904762,9.3695,4.6
+750641-41-9570,B,Rabat,Member,Female,Sports and travel,49.36,8,19.744,414.62,03/29/2019,14:53,Ewallet,394.88,4.761904762,19.744,5.8
+750642-69-5151,B,Rabat,Normal,Male,Food and beverages,16.89,1,0.8445,17.73,02/24/2019,16:06,Credit card,16.89,4.761904762,0.8445,7.1
+750643-63-5876,B,Rabat,Normal,Male,Food and beverages,11.46,8,4.584,96.26,02/20/2019,10:05,Ewallet,91.68,4.761904762,4.584,5.1
+750644-87-5248,B,Rabat,Normal,Female,Food and beverages,82.7,6,24.81,521.01,01/28/2019,12:05,Ewallet,496.2,4.761904762,24.81,9.8
+750645-98-7637,C,Marrakech,Member,Female,Food and beverages,11.61,7,4.0635,85.33,03/25/2019,17:29,Ewallet,81.27,4.761904762,4.0635,4.7
+750646-48-2435,C,Marrakech,Normal,Female,Food and beverages,83.17,10,41.585,873.29,03/30/2019,20:25,Credit card,831.7,4.761904762,41.585,6.2
+750647-93-3378,A,Casablanca,Member,Male,Electronic accessories,20.07,1,1.0035,21.07,01/04/2019,13:30,Ewallet,20.07,4.761904762,1.0035,8.2
+750648-64-1357,C,Marrakech,Member,Female,Fashion accessories,87.23,9,39.2535,824.32,03/01/2019,12:30,Cash,785.07,4.761904762,39.2535,5.1
+750649-47-7418,A,Casablanca,Member,Male,Fashion accessories,73.23,8,29.292,615.13,03/16/2019,13:12,Cash,585.84,4.761904762,29.292,6.8
+750650-80-5764,A,Casablanca,Normal,Male,Health and beauty,66.73,7,23.3555,490.47,03/16/2019,19:46,Cash,467.11,4.761904762,23.3555,9.9
+750651-12-7914,A,Casablanca,Normal,Female,Sports and travel,56.2,10,28.1,590.1,01/30/2019,10:33,Cash,562.0,4.761904762,28.1,9.6
+750652-54-8345,C,Marrakech,Normal,Male,Home and lifestyle,90.35,7,31.6225,664.07,03/05/2019,19:41,Ewallet,632.45,4.761904762,31.6225,9.3
+750653-85-6556,C,Marrakech,Normal,Male,Electronic accessories,35.92,4,7.184,150.86,01/30/2019,18:14,Cash,143.68,4.761904762,7.184,6.8
+750654-70-3654,C,Marrakech,Normal,Male,Home and lifestyle,75.06,7,26.271,551.69,03/25/2019,15:50,Credit card,525.42,4.761904762,26.271,9.8
+750655-22-7815,C,Marrakech,Member,Female,Fashion accessories,77.43,8,30.972,650.41,01/21/2019,19:31,Ewallet,619.44,4.761904762,30.972,4.8
+750656-32-9248,B,Rabat,Normal,Male,Electronic accessories,60.11,1,3.0055,63.12,02/15/2019,20:10,Cash,60.11,4.761904762,3.0055,6.2
+750657-55-1764,A,Casablanca,Member,Female,Sports and travel,20.26,4,4.052,85.09,03/04/2019,14:21,Ewallet,81.04,4.761904762,4.052,4.7
+750658-68-2817,C,Marrakech,Normal,Male,Fashion accessories,88.62,10,44.31,930.51,01/07/2019,17:51,Credit card,886.2,4.761904762,44.31,8.0
+750659-66-9288,A,Casablanca,Member,Male,Food and beverages,19.49,2,1.949,40.93,01/21/2019,14:45,Cash,38.98,4.761904762,1.949,9.2
+750660-10-5019,B,Rabat,Member,Male,Fashion accessories,42.73,3,6.4095,134.6,02/26/2019,16:49,Ewallet,128.19,4.761904762,6.4095,4.7
+750661-41-3483,B,Rabat,Normal,Female,Food and beverages,25.41,5,6.3525,133.4,02/16/2019,20:42,Cash,127.05,4.761904762,6.3525,6.2
+750662-13-8251,C,Marrakech,Normal,Male,Electronic accessories,82.15,7,28.7525,603.8,03/08/2019,20:23,Cash,575.05,4.761904762,28.7525,9.5
+750663-14-3473,A,Casablanca,Member,Male,Health and beauty,40.44,7,14.154,297.23,02/25/2019,10:25,Ewallet,283.08,4.761904762,14.154,9.9
+750664-45-9647,C,Marrakech,Member,Female,Sports and travel,46.18,9,20.781,436.4,02/10/2019,15:00,Credit card,415.62,4.761904762,20.781,9.2
+750665-54-7627,C,Marrakech,Member,Female,Sports and travel,67.94,9,30.573,642.03,03/25/2019,17:44,Credit card,611.46,4.761904762,30.573,7.7
+750666-46-4501,A,Casablanca,Normal,Male,Health and beauty,58.36,7,20.426,428.95,01/17/2019,18:34,Credit card,408.52,4.761904762,20.426,8.4
+750667-48-7926,A,Casablanca,Normal,Female,Fashion accessories,24.4,1,1.22,25.62,03/17/2019,14:15,Credit card,24.4,4.761904762,1.22,9.3
+750668-48-1085,C,Marrakech,Member,Male,Home and lifestyle,33.38,9,15.021,315.44,03/25/2019,11:28,Ewallet,300.42,4.761904762,15.021,6.1
+750669-86-4831,B,Rabat,Normal,Male,Fashion accessories,99.0,10,49.5,1039.5,03/27/2019,18:54,Credit card,990.0,4.761904762,49.5,8.3
+750670-41-2724,B,Rabat,Normal,Female,Fashion accessories,80.62,10,40.31,846.51,02/18/2019,18:47,Credit card,806.2,4.761904762,40.31,8.0
+750671-26-8802,B,Rabat,Member,Female,Sports and travel,18.82,7,6.587,138.33,01/12/2019,10:27,Ewallet,131.74,4.761904762,6.587,9.0
+750672-73-7937,A,Casablanca,Normal,Male,Home and lifestyle,70.91,7,24.8185,521.19,02/20/2019,14:37,Credit card,496.37,4.761904762,24.8185,7.5
+750673-77-2934,B,Rabat,Normal,Female,Electronic accessories,22.99,3,3.4485,72.42,01/17/2019,18:55,Cash,68.97,4.761904762,3.4485,6.9
+750674-62-2807,C,Marrakech,Member,Female,Sports and travel,12.93,3,1.9395,40.73,01/16/2019,19:54,Cash,38.79,4.761904762,1.9395,9.7
+750675-13-3340,A,Casablanca,Normal,Female,Health and beauty,57.04,2,5.704,119.78,02/08/2019,14:31,Cash,114.08,4.761904762,5.704,6.2
+750676-80-6712,A,Casablanca,Normal,Male,Home and lifestyle,90.01,4,18.002,378.04,03/04/2019,10:07,Credit card,360.04,4.761904762,18.002,5.1
+750677-87-3175,A,Casablanca,Member,Female,Sports and travel,61.57,10,30.785,646.49,02/18/2019,17:53,Cash,615.7,4.761904762,30.785,6.7
+750678-59-4814,A,Casablanca,Normal,Female,Fashion accessories,50.41,6,15.123,317.58,03/27/2019,19:26,Credit card,302.46,4.761904762,15.123,4.5
+750679-49-3028,B,Rabat,Normal,Male,Fashion accessories,90.09,5,22.5225,472.97,01/04/2019,19:40,Ewallet,450.45,4.761904762,22.5225,7.9
+750680-12-2970,C,Marrakech,Member,Male,Food and beverages,58.76,1,2.938,61.7,01/25/2019,17:32,Credit card,58.76,4.761904762,2.938,9.7
+750681-78-6249,C,Marrakech,Member,Male,Home and lifestyle,80.8,4,16.16,339.36,02/26/2019,11:51,Credit card,323.2,4.761904762,16.16,9.0
+750682-21-2878,B,Rabat,Member,Female,Health and beauty,40.59,3,6.0885,127.86,02/10/2019,16:16,Credit card,121.77,4.761904762,6.0885,6.5
+750683-88-6329,A,Casablanca,Member,Female,Electronic accessories,26.44,2,2.644,55.52,03/28/2019,12:03,Cash,52.88,4.761904762,2.644,4.9
+750684-25-1849,A,Casablanca,Member,Male,Home and lifestyle,45.09,6,13.527,284.07,02/03/2019,16:52,Cash,270.54,4.761904762,13.527,4.9
+750685-69-7669,A,Casablanca,Member,Male,Sports and travel,55.77,9,25.0965,527.03,02/04/2019,10:20,Ewallet,501.93,4.761904762,25.0965,6.3
+750686-81-3057,A,Casablanca,Normal,Male,Sports and travel,67.01,1,3.3505,70.36,03/28/2019,11:15,Credit card,67.01,4.761904762,3.3505,5.6
+750687-41-9806,B,Rabat,Normal,Female,Health and beauty,86.16,9,38.772,814.21,02/17/2019,18:10,Ewallet,775.44,4.761904762,38.772,5.2
+750688-71-5477,B,Rabat,Normal,Male,Health and beauty,83.13,10,41.565,872.87,01/01/2019,10:59,Ewallet,831.3,4.761904762,41.565,5.7
+750689-78-2145,C,Marrakech,Normal,Female,Home and lifestyle,85.81,4,17.162,360.4,02/06/2019,10:10,Credit card,343.24,4.761904762,17.162,7.5
+750690-74-6215,B,Rabat,Member,Female,Fashion accessories,21.07,3,3.1605,66.37,02/25/2019,13:39,Cash,63.21,4.761904762,3.1605,8.4
+750691-86-6381,C,Marrakech,Normal,Female,Fashion accessories,50.74,4,10.148,213.11,02/13/2019,13:29,Cash,202.96,4.761904762,10.148,8.0
+750692-60-9816,A,Casablanca,Member,Male,Food and beverages,52.88,1,2.644,55.52,03/13/2019,17:48,Cash,52.88,4.761904762,2.644,8.0
+750693-32-1138,A,Casablanca,Member,Male,Fashion accessories,50.06,2,5.006,105.13,03/18/2019,15:24,Cash,100.12,4.761904762,5.006,6.1
+750694-21-5967,A,Casablanca,Normal,Female,Electronic accessories,50.01,4,10.002,210.04,03/29/2019,15:12,Cash,200.04,4.761904762,10.002,8.5
+750695-35-7489,C,Marrakech,Member,Male,Sports and travel,97.05,1,4.8525,101.9,03/19/2019,13:00,Credit card,97.05,4.761904762,4.8525,5.7
+750696-85-3101,A,Casablanca,Normal,Female,Electronic accessories,59.66,10,29.83,626.43,03/14/2019,12:04,Credit card,596.6,4.761904762,29.83,8.0
+750697-96-1378,C,Marrakech,Member,Male,Home and lifestyle,94.01,4,18.802,394.84,02/05/2019,13:54,Credit card,376.04,4.761904762,18.802,9.3
+750698-25-9491,C,Marrakech,Normal,Female,Health and beauty,94.4,1,4.72,99.12,02/25/2019,16:17,Cash,94.4,4.761904762,4.72,9.1
+750699-10-7420,B,Rabat,Normal,Female,Food and beverages,78.3,4,15.66,328.86,03/10/2019,17:20,Cash,313.2,4.761904762,15.66,4.3
+750700-31-6394,A,Casablanca,Normal,Male,Food and beverages,82.68,4,16.536,347.26,01/10/2019,13:12,Cash,330.72,4.761904762,16.536,9.9
+750701-23-8759,B,Rabat,Member,Male,Health and beauty,53.19,1,2.6595,55.85,02/12/2019,14:15,Credit card,53.19,4.761904762,2.6595,7.6
+750702-22-8314,A,Casablanca,Normal,Male,Home and lifestyle,56.77,4,11.354,238.43,03/21/2019,17:48,Credit card,227.08,4.761904762,11.354,9.7
+750703-66-1897,C,Marrakech,Member,Male,Health and beauty,92.5,7,32.375,679.88,01/09/2019,12:03,Credit card,647.5,4.761904762,32.375,5.9
+750704-62-4819,B,Rabat,Normal,Male,Health and beauty,70.97,9,31.9365,670.67,02/21/2019,11:39,Cash,638.73,4.761904762,31.9365,4.3
+750705-96-1425,C,Marrakech,Member,Female,Sports and travel,51.77,7,18.1195,380.51,01/13/2019,15:41,Credit card,362.39,4.761904762,18.1195,9.3
+750706-91-9337,B,Rabat,Normal,Male,Health and beauty,19.24,10,9.62,202.02,01/25/2019,19:08,Credit card,192.4,4.761904762,9.62,8.3
+750707-49-8140,B,Rabat,Normal,Female,Sports and travel,75.21,8,30.084,631.76,01/06/2019,10:08,Ewallet,601.68,4.761904762,30.084,5.1
+750708-57-1132,C,Marrakech,Normal,Female,Food and beverages,89.66,3,13.449,282.43,03/19/2019,15:18,Cash,268.98,4.761904762,13.449,4.9
+750709-91-4297,C,Marrakech,Member,Male,Electronic accessories,55.63,9,25.0335,525.7,02/14/2019,13:12,Cash,500.67,4.761904762,25.0335,9.2
+750710-88-5909,A,Casablanca,Normal,Male,Fashion accessories,52.81,8,21.124,443.6,03/16/2019,19:21,Cash,422.48,4.761904762,21.124,7.6
+750711-39-8643,B,Rabat,Normal,Male,Health and beauty,50.88,1,2.544,53.42,03/23/2019,13:44,Ewallet,50.88,4.761904762,2.544,7.0
+750712-10-6944,C,Marrakech,Member,Male,Sports and travel,76.11,6,22.833,479.49,01/27/2019,16:11,Cash,456.66,4.761904762,22.833,8.8
+750713-56-1719,A,Casablanca,Member,Female,Health and beauty,59.92,3,8.988,188.75,03/22/2019,19:58,Ewallet,179.76,4.761904762,8.988,5.7
+750714-35-1352,A,Casablanca,Member,Male,Home and lifestyle,25.67,5,6.4175,134.77,03/12/2019,13:11,Cash,128.35,4.761904762,6.4175,8.3
+750715-68-4934,A,Casablanca,Normal,Male,Health and beauty,84.82,3,12.723,267.18,02/13/2019,13:19,Ewallet,254.46,4.761904762,12.723,6.3
+750716-26-4107,B,Rabat,Normal,Male,Food and beverages,97.93,10,48.965,1028.27,01/09/2019,11:09,Credit card,979.3,4.761904762,48.965,9.3
+750717-78-5819,A,Casablanca,Normal,Female,Home and lifestyle,63.95,4,12.79,268.59,03/17/2019,13:54,Credit card,255.8,4.761904762,12.79,9.5
+750718-20-8711,A,Casablanca,Normal,Male,Health and beauty,66.65,5,16.6625,349.91,03/16/2019,17:13,Credit card,333.25,4.761904762,16.6625,9.2
+750719-57-9609,C,Marrakech,Member,Male,Food and beverages,44.93,9,20.2185,424.59,03/01/2019,12:20,Credit card,404.37,4.761904762,20.2185,6.2
+750720-38-4325,C,Marrakech,Normal,Female,Sports and travel,34.15,7,11.9525,251.0,03/25/2019,10:13,Credit card,239.05,4.761904762,11.9525,7.8
+750721-27-2376,B,Rabat,Member,Female,Electronic accessories,37.54,7,13.139,275.92,02/02/2019,18:05,Cash,262.78,4.761904762,13.139,7.4
+750722-65-7700,B,Rabat,Normal,Female,Electronic accessories,62.55,8,25.02,525.42,02/24/2019,17:29,Cash,500.4,4.761904762,25.02,7.1
+750723-20-5825,B,Rabat,Normal,Female,Home and lifestyle,44.41,3,6.6615,139.89,03/24/2019,11:22,Cash,133.23,4.761904762,6.6615,6.7
+750724-96-6394,C,Marrakech,Member,Female,Electronic accessories,18.86,2,1.886,39.61,01/26/2019,15:12,Credit card,37.72,4.761904762,1.886,6.2
+750725-48-5617,B,Rabat,Normal,Female,Electronic accessories,73.5,3,11.025,231.53,03/11/2019,14:00,Credit card,220.5,4.761904762,11.025,10.0
+750726-39-4438,B,Rabat,Normal,Female,Food and beverages,78.19,1,3.9095,82.1,01/20/2019,16:14,Credit card,78.19,4.761904762,3.9095,6.8
+750727-99-7843,B,Rabat,Member,Female,Fashion accessories,83.29,6,24.987,524.73,01/25/2019,16:49,Cash,499.74,4.761904762,24.987,8.8
+750728-94-6810,A,Casablanca,Normal,Female,Food and beverages,12.71,3,1.9065,40.04,02/09/2019,10:31,Ewallet,38.13,4.761904762,1.9065,7.5
+750729-85-1380,B,Rabat,Member,Female,Sports and travel,71.71,7,25.0985,527.07,03/10/2019,14:20,Credit card,501.97,4.761904762,25.0985,8.6
+750730-60-7247,C,Marrakech,Member,Male,Electronic accessories,97.94,6,29.382,617.02,03/19/2019,19:55,Credit card,587.64,4.761904762,29.382,7.4
+750731-48-2527,A,Casablanca,Normal,Male,Food and beverages,44.78,8,17.912,376.15,02/27/2019,20:57,Credit card,358.24,4.761904762,17.912,4.7
+750732-59-5650,A,Casablanca,Member,Male,Health and beauty,84.37,10,42.185,885.88,01/26/2019,11:58,Ewallet,843.7,4.761904762,42.185,6.9
+750733-62-7407,A,Casablanca,Member,Female,Fashion accessories,57.19,8,22.876,480.4,01/02/2019,12:20,Credit card,457.52,4.761904762,22.876,4.3
+750734-65-8778,A,Casablanca,Member,Male,Food and beverages,47.65,2,4.765,100.06,01/17/2019,13:19,Ewallet,95.3,4.761904762,4.765,6.3
+750735-61-5044,A,Casablanca,Normal,Male,Food and beverages,74.5,8,29.8,625.8,01/19/2019,17:04,Ewallet,596.0,4.761904762,29.8,5.7
+750736-99-5873,C,Marrakech,Normal,Female,Sports and travel,51.64,1,2.582,54.22,03/24/2019,17:22,Cash,51.64,4.761904762,2.582,8.4
+750737-99-2565,B,Rabat,Member,Female,Electronic accessories,26.16,10,13.08,274.68,02/19/2019,20:11,Cash,261.6,4.761904762,13.08,8.4
+750738-73-7738,B,Rabat,Member,Male,Electronic accessories,34.64,9,15.588,327.35,03/31/2019,13:58,Ewallet,311.76,4.761904762,15.588,5.8
+750739-42-4397,C,Marrakech,Member,Female,Health and beauty,77.98,9,35.091,736.91,02/22/2019,17:10,Cash,701.82,4.761904762,35.091,8.6
+750740-14-1175,C,Marrakech,Member,Female,Health and beauty,16.59,8,6.636,139.36,02/21/2019,13:25,Credit card,132.72,4.761904762,6.636,6.3
+750741-41-8171,B,Rabat,Member,Male,Home and lifestyle,70.32,8,28.128,590.69,01/11/2019,18:42,Ewallet,562.56,4.761904762,28.128,6.9
+750742-60-3759,A,Casablanca,Normal,Female,Electronic accessories,25.35,1,1.2675,26.62,02/07/2019,11:34,Ewallet,25.35,4.761904762,1.2675,7.6
+750743-66-1782,A,Casablanca,Member,Female,Electronic accessories,49.65,3,7.4475,156.4,03/28/2019,18:13,Ewallet,148.95,4.761904762,7.4475,5.3
+750744-41-7138,C,Marrakech,Member,Female,Fashion accessories,37.75,1,1.8875,39.64,02/18/2019,13:59,Ewallet,37.75,4.761904762,1.8875,7.6
+750745-38-2582,A,Casablanca,Member,Male,Health and beauty,47.95,1,2.3975,50.35,03/29/2019,20:04,Ewallet,47.95,4.761904762,2.3975,6.0
+750746-89-4393,C,Marrakech,Member,Male,Health and beauty,47.41,2,4.741,99.56,03/13/2019,20:12,Cash,94.82,4.761904762,4.741,8.9
+750747-50-1196,C,Marrakech,Normal,Female,Health and beauty,30.91,2,3.091,64.91,01/02/2019,16:41,Ewallet,61.82,4.761904762,3.091,6.1
+750748-37-7735,B,Rabat,Member,Female,Electronic accessories,15.94,5,3.985,83.69,01/06/2019,11:56,Cash,79.7,4.761904762,3.985,7.9
+750749-99-7366,B,Rabat,Normal,Male,Fashion accessories,58.25,10,29.125,611.62,03/18/2019,15:40,Ewallet,582.5,4.761904762,29.125,5.0
+750750-12-8354,C,Marrakech,Member,Female,Electronic accessories,67.18,6,20.154,423.23,03/03/2019,11:21,Credit card,403.08,4.761904762,20.154,9.9
+750751-20-1981,B,Rabat,Member,Male,Electronic accessories,11.91,2,1.191,25.01,02/24/2019,13:39,Credit card,23.82,4.761904762,1.191,5.9
+750752-52-3199,A,Casablanca,Normal,Female,Home and lifestyle,28.18,7,9.863,207.12,01/31/2019,19:28,Ewallet,197.26,4.761904762,9.863,5.2
+750753-52-6615,B,Rabat,Normal,Male,Food and beverages,81.25,7,28.4375,597.19,01/04/2019,13:54,Cash,568.75,4.761904762,28.4375,7.9
+750754-66-1099,A,Casablanca,Member,Male,Fashion accessories,98.94,4,19.788,415.55,03/08/2019,15:11,Cash,395.76,4.761904762,19.788,7.6
+750755-80-4348,A,Casablanca,Normal,Male,Electronic accessories,14.69,3,2.2035,46.27,01/12/2019,12:37,Ewallet,44.07,4.761904762,2.2035,9.6
+750756-41-5966,A,Casablanca,Member,Female,Fashion accessories,52.03,3,7.8045,163.89,02/24/2019,12:38,Ewallet,156.09,4.761904762,7.8045,8.3
+750757-70-8231,B,Rabat,Normal,Male,Home and lifestyle,87.61,8,35.044,735.92,02/20/2019,16:10,Cash,700.88,4.761904762,35.044,4.5
+750758-29-3878,B,Rabat,Normal,Male,Sports and travel,11.78,7,4.123,86.58,02/08/2019,19:34,Ewallet,82.46,4.761904762,4.123,6.6
+750759-70-4206,B,Rabat,Normal,Female,Home and lifestyle,50.82,7,17.787,373.53,01/10/2019,15:08,Cash,355.74,4.761904762,17.787,7.4
+750760-72-6043,A,Casablanca,Member,Male,Health and beauty,87.54,6,26.262,551.5,02/20/2019,15:24,Cash,525.24,4.761904762,26.262,6.9
+750761-65-5182,C,Marrakech,Member,Female,Health and beauty,99.31,2,9.931,208.55,01/21/2019,13:48,Credit card,198.62,4.761904762,9.931,6.3
+750762-14-6921,C,Marrakech,Normal,Female,Fashion accessories,71.96,1,3.598,75.56,02/01/2019,13:30,Cash,71.96,4.761904762,3.598,7.9
+750763-30-1202,C,Marrakech,Member,Male,Home and lifestyle,64.48,3,9.672,203.11,03/16/2019,20:53,Credit card,193.44,4.761904762,9.672,5.5
+750764-64-5143,A,Casablanca,Member,Female,Sports and travel,73.54,2,7.354,154.43,02/24/2019,12:53,Ewallet,147.08,4.761904762,7.354,7.1
+750765-83-6642,C,Marrakech,Normal,Female,Food and beverages,37.72,7,13.202,277.24,01/12/2019,11:40,Credit card,264.04,4.761904762,13.202,8.5
+750766-18-7845,A,Casablanca,Normal,Male,Fashion accessories,45.81,5,11.4525,240.5,03/04/2019,10:06,Ewallet,229.05,4.761904762,11.4525,4.0
+750767-33-9234,C,Marrakech,Normal,Female,Fashion accessories,48.78,3,7.317,153.66,01/18/2019,13:31,Credit card,146.34,4.761904762,7.317,6.2
+750768-90-2789,A,Casablanca,Normal,Male,Electronic accessories,28.08,3,4.212,88.45,02/03/2019,16:28,Ewallet,84.24,4.761904762,4.212,8.9
+750769-71-8949,C,Marrakech,Member,Male,Home and lifestyle,17.71,2,1.771,37.19,01/04/2019,19:15,Cash,35.42,4.761904762,1.771,5.7
+750770-10-7154,C,Marrakech,Member,Male,Health and beauty,33.94,1,1.697,35.64,01/13/2019,13:33,Ewallet,33.94,4.761904762,1.697,8.0
+750771-40-6918,C,Marrakech,Normal,Female,Sports and travel,78.11,10,39.055,820.15,03/29/2019,15:20,Cash,781.1,4.761904762,39.055,6.6
+750772-99-7583,C,Marrakech,Normal,Female,Food and beverages,15.15,6,4.545,95.45,01/01/2019,17:55,Ewallet,90.9,4.761904762,4.545,9.2
+750773-89-8785,C,Marrakech,Member,Male,Food and beverages,21.06,9,9.477,199.02,02/01/2019,15:28,Credit card,189.54,4.761904762,9.477,5.7
+750774-66-4826,C,Marrakech,Normal,Male,Health and beauty,98.75,6,29.625,622.12,01/06/2019,15:43,Cash,592.5,4.761904762,29.625,4.1
+750775-59-5814,C,Marrakech,Normal,Female,Fashion accessories,65.13,2,6.513,136.77,03/26/2019,11:46,Cash,130.26,4.761904762,6.513,6.1
+750776-96-9990,C,Marrakech,Member,Male,Food and beverages,88.85,9,39.9825,839.63,01/12/2019,14:53,Cash,799.65,4.761904762,39.9825,4.2
+750777-21-2728,B,Rabat,Member,Female,Health and beauty,53.39,9,24.0255,504.54,01/22/2019,20:44,Ewallet,480.51,4.761904762,24.0255,5.4
+750778-95-3016,B,Rabat,Member,Male,Home and lifestyle,91.23,5,22.8075,478.96,03/27/2019,17:57,Cash,456.15,4.761904762,22.8075,5.3
+750779-53-7176,C,Marrakech,Member,Female,Health and beauty,81.59,6,24.477,514.02,03/18/2019,11:41,Credit card,489.54,4.761904762,24.477,9.2
+750780-85-4082,C,Marrakech,Normal,Female,Electronic accessories,30.12,2,3.012,63.25,01/12/2019,15:47,Ewallet,60.24,4.761904762,3.012,5.7
+750781-78-4110,C,Marrakech,Member,Female,Electronic accessories,86.79,7,30.3765,637.91,02/09/2019,10:37,Ewallet,607.53,4.761904762,30.3765,7.5
+750782-60-1150,B,Rabat,Normal,Female,Home and lifestyle,81.77,3,12.2655,257.58,03/17/2019,13:06,Credit card,245.31,4.761904762,12.2655,7.1
+750783-86-5643,C,Marrakech,Normal,Female,Electronic accessories,83.45,5,20.8625,438.11,03/29/2019,17:09,Cash,417.25,4.761904762,20.8625,9.0
+750784-37-9110,A,Casablanca,Member,Female,Home and lifestyle,55.21,2,5.521,115.94,03/15/2019,17:40,Credit card,110.42,4.761904762,5.521,5.6
+750785-32-8987,B,Rabat,Normal,Male,Home and lifestyle,23.74,4,4.748,99.71,03/31/2019,10:59,Ewallet,94.96,4.761904762,4.748,9.1
+750786-96-8756,C,Marrakech,Normal,Female,Fashion accessories,92.1,3,13.815,290.11,02/20/2019,15:27,Credit card,276.3,4.761904762,13.815,9.9
+750787-22-3144,B,Rabat,Normal,Female,Health and beauty,57.5,5,14.375,301.88,03/31/2019,18:25,Ewallet,287.5,4.761904762,14.375,5.7
+750788-28-4436,B,Rabat,Member,Female,Sports and travel,68.91,10,34.455,723.55,03/03/2019,14:57,Credit card,689.1,4.761904762,34.455,4.8
+750789-31-1922,A,Casablanca,Member,Male,Home and lifestyle,75.33,98,369.117,7751.46,02/18/2019,16:43,Ewallet,7382.34,4.761904762,369.117,4.6
+750790-29-7619,A,Casablanca,Normal,Female,Electronic accessories,95.05,2,9.505,199.6,02/13/2019,19:27,Credit card,190.1,4.761904762,9.505,9.9
+750791-98-2468,A,Casablanca,Member,Male,Electronic accessories,45.69,5,11.4225,239.87,03/25/2019,16:49,Ewallet,228.45,4.761904762,11.4225,8.1
+750792-92-9351,B,Rabat,Normal,Female,Fashion accessories,68.78,6,20.634,433.31,01/11/2019,11:31,Ewallet,412.68,4.761904762,20.634,4.1
+750793-99-8105,A,Casablanca,Member,Female,Home and lifestyle,72.43,2,7.243,152.1,02/19/2019,17:41,Ewallet,144.86,4.761904762,7.243,8.8
+750794-78-9684,B,Rabat,Member,Male,Home and lifestyle,15.71,9,7.0695,148.46,01/03/2019,16:35,Credit card,141.39,4.761904762,7.0695,5.1
+750795-81-8327,B,Rabat,Member,Male,Electronic accessories,96.9,2,9.69,203.49,03/30/2019,12:00,Credit card,193.8,4.761904762,9.69,5.1
+750796-74-5891,B,Rabat,Member,Male,Electronic accessories,61.75,3,9.2625,194.51,01/05/2019,11:07,Cash,185.25,4.761904762,9.2625,4.5
+750797-66-3291,B,Rabat,Member,Female,Fashion accessories,10.01,5,2.5025,52.55,02/07/2019,20:34,Credit card,50.05,4.761904762,2.5025,4.3
+750798-15-4884,C,Marrakech,Normal,Female,Food and beverages,91.96,6,27.588,579.35,01/27/2019,11:42,Credit card,551.76,4.761904762,27.588,7.6
+750799-55-5544,A,Casablanca,Member,Male,Home and lifestyle,87.04,4,17.408,365.57,03/12/2019,13:37,Credit card,348.16,4.761904762,17.408,9.7
+750800-42-7968,A,Casablanca,Normal,Male,Food and beverages,32.94,7,11.529,242.11,02/21/2019,17:05,Ewallet,230.58,4.761904762,11.529,7.9
+750801-57-9379,C,Marrakech,Member,Male,Health and beauty,66.65,5,16.6625,349.91,03/24/2019,13:45,Credit card,333.25,4.761904762,16.6625,10.0
+750802-25-9707,C,Marrakech,Member,Female,Electronic accessories,38.47,7,13.4645,282.75,02/01/2019,11:17,Credit card,269.29,4.761904762,13.4645,6.3
+750803-11-2604,A,Casablanca,Normal,Male,Home and lifestyle,67.61,6,20.283,425.94,01/19/2019,13:17,Cash,405.66,4.761904762,20.283,9.5
+750804-72-2565,B,Rabat,Member,Female,Health and beauty,80.44,2,8.044,168.92,02/09/2019,19:52,Credit card,160.88,4.761904762,8.044,5.1
+750805-54-9711,C,Marrakech,Normal,Female,Food and beverages,34.39,2,3.439,72.22,02/10/2019,16:11,Ewallet,68.78,4.761904762,3.439,9.4
+750806-28-7206,C,Marrakech,Normal,Female,Food and beverages,21.48,1,1.074,22.55,01/20/2019,20:08,Credit card,21.48,4.761904762,1.074,8.1
+750807-68-3999,C,Marrakech,Normal,Male,Fashion accessories,67.52,6,20.256,425.38,03/28/2019,19:26,Ewallet,405.12,4.761904762,20.256,8.2
+750808-21-6007,B,Rabat,Normal,Female,Food and beverages,35.81,7,12.5335,263.2,01/30/2019,14:40,Credit card,250.67,4.761904762,12.5335,7.1
+750809-46-9074,B,Rabat,Normal,Male,Fashion accessories,17.15,4,3.43,72.03,03/15/2019,10:05,Ewallet,68.6,4.761904762,3.43,9.7
+750810-10-7962,A,Casablanca,Normal,Male,Sports and travel,54.8,9,24.66,517.86,01/02/2019,19:12,Cash,493.2,4.761904762,24.66,8.2
+750811-96-9577,C,Marrakech,Normal,Male,Fashion accessories,69.5,9,31.275,656.77,03/19/2019,17:10,Ewallet,625.5,4.761904762,31.275,8.1
+750812-31-7115,A,Casablanca,Member,Male,Home and lifestyle,85.54,9,38.493,808.35,02/24/2019,17:24,Ewallet,769.86,4.761904762,38.493,6.1
+750813-10-7449,A,Casablanca,Normal,Male,Food and beverages,86.56,2,8.656,181.78,02/07/2019,14:13,Cash,173.12,4.761904762,8.656,5.7
+750814-48-6798,A,Casablanca,Normal,Male,Sports and travel,90.32,8,36.128,758.69,03/20/2019,17:21,Ewallet,722.56,4.761904762,36.128,4.3
+750815-77-9426,A,Casablanca,Member,Female,Fashion accessories,26.75,6,8.025,168.53,03/04/2019,13:05,Cash,160.5,4.761904762,8.025,4.1
+750816-64-3984,A,Casablanca,Normal,Male,Sports and travel,10.62,5,2.655,55.75,02/17/2019,14:23,Cash,53.1,4.761904762,2.655,5.4
+750817-35-2813,C,Marrakech,Normal,Male,Sports and travel,69.06,8,27.624,580.1,02/25/2019,10:22,Cash,552.48,4.761904762,27.624,5.0
+750818-95-5354,A,Casablanca,Normal,Male,Electronic accessories,45.51,6,13.653,286.71,03/27/2019,13:30,Ewallet,273.06,4.761904762,13.653,9.4
+750819-24-2767,A,Casablanca,Normal,Female,Food and beverages,54.6,3,8.19,171.99,03/06/2019,16:08,Cash,163.8,4.761904762,8.19,5.9
+750820-11-8116,A,Casablanca,Member,Male,Home and lifestyle,55.0,4,11.0,231.0,02/24/2019,19:47,Cash,220.0,4.761904762,11.0,4.3
+750821-45-2884,B,Rabat,Normal,Female,Sports and travel,17.43,7,6.1005,128.11,03/07/2019,12:15,Ewallet,122.01,4.761904762,6.1005,5.5
+750822-85-3436,B,Rabat,Member,Female,Electronic accessories,52.65,2,5.265,110.56,03/20/2019,12:12,Credit card,105.3,4.761904762,5.265,8.2
+750823-21-1834,A,Casablanca,Member,Male,Sports and travel,13.45,4,2.69,56.49,01/03/2019,19:12,Cash,53.8,4.761904762,2.69,9.6
+750824-64-1846,B,Rabat,Normal,Female,Fashion accessories,66.99,4,13.398,281.36,03/03/2019,10:32,Cash,267.96,4.761904762,13.398,5.3
+750825-15-1008,B,Rabat,Member,Female,Home and lifestyle,35.25,6,10.575,222.07,02/10/2019,10:11,Ewallet,211.5,4.761904762,10.575,8.3
+750826-52-5986,A,Casablanca,Normal,Male,Home and lifestyle,52.48,10,26.24,551.04,02/02/2019,17:23,Ewallet,524.8,4.761904762,26.24,4.6
+750827-87-7088,A,Casablanca,Member,Male,Fashion accessories,59.65,3,8.9475,187.9,02/16/2019,19:33,Credit card,178.95,4.761904762,8.9475,6.0
+750828-85-4120,A,Casablanca,Normal,Male,Food and beverages,44.56,2,4.456,93.58,03/19/2019,11:02,Credit card,89.12,4.761904762,4.456,4.8
+750829-29-1717,A,Casablanca,Normal,Male,Health and beauty,94.75,10,47.375,994.88,03/02/2019,13:34,Credit card,947.5,4.761904762,47.375,6.1
+750830-25-8145,A,Casablanca,Member,Female,Food and beverages,74.04,9,33.318,699.68,02/27/2019,20:45,Cash,666.36,4.761904762,33.318,9.9
+750831-26-5745,A,Casablanca,Normal,Female,Food and beverages,93.81,9,42.2145,886.5,03/18/2019,14:44,Ewallet,844.29,4.761904762,42.2145,8.7
+750832-75-7293,A,Casablanca,Member,Male,Fashion accessories,83.3,8,33.32,699.72,01/10/2019,12:28,Credit card,666.4,4.761904762,33.32,8.1
+750833-11-9401,C,Marrakech,Normal,Female,Food and beverages,34.43,3,5.1645,108.45,01/28/2019,19:44,Credit card,103.29,4.761904762,5.1645,4.0
+750834-40-5781,B,Rabat,Normal,Female,Electronic accessories,36.67,5,9.1675,192.52,01/29/2019,10:34,Ewallet,183.35,4.761904762,9.1675,7.3
+750835-10-6692,A,Casablanca,Member,Female,Electronic accessories,34.34,1,1.717,36.06,01/27/2019,18:07,Ewallet,34.34,4.761904762,1.717,7.9
+750836-51-1938,C,Marrakech,Normal,Female,Health and beauty,95.17,9,42.8265,899.36,02/22/2019,19:18,Ewallet,856.53,4.761904762,42.8265,5.6
+750837-84-2743,C,Marrakech,Member,Female,Electronic accessories,75.74,5,18.935,397.63,03/10/2019,20:55,Ewallet,378.7,4.761904762,18.935,5.1
+750838-36-7479,C,Marrakech,Normal,Female,Fashion accessories,67.08,9,30.186,633.91,01/29/2019,15:17,Cash,603.72,4.761904762,30.186,5.2
+750839-68-4031,A,Casablanca,Normal,Male,Fashion accessories,75.36,6,22.608,474.77,01/12/2019,17:11,Cash,452.16,4.761904762,22.608,4.9
+750840-87-4077,A,Casablanca,Member,Female,Fashion accessories,26.23,5,6.5575,137.71,01/23/2019,16:43,Ewallet,131.15,4.761904762,6.5575,4.1
+750841-22-7191,A,Casablanca,Member,Male,Sports and travel,32.07,7,11.2245,235.71,01/18/2019,10:38,Credit card,224.49,4.761904762,11.2245,4.6
+750842-86-1221,B,Rabat,Member,Male,Health and beauty,78.7,1,3.935,82.64,02/04/2019,12:40,Ewallet,78.7,4.761904762,3.935,4.8
+750843-52-8846,A,Casablanca,Member,Female,Fashion accessories,17.65,3,2.6475,55.6,02/26/2019,12:19,Credit card,52.95,4.761904762,2.6475,6.9
+750844-23-9381,A,Casablanca,Member,Male,Food and beverages,72.28,9,32.526,683.05,01/14/2019,18:18,Ewallet,650.52,4.761904762,32.526,4.7
+750845-97-7303,B,Rabat,Member,Male,Electronic accessories,12.16,7,4.256,89.38,03/25/2019,14:14,Cash,85.12,4.761904762,4.256,6.3
+750846-52-2939,C,Marrakech,Member,Female,Electronic accessories,99.16,4,19.832,416.47,02/15/2019,11:39,Cash,396.64,4.761904762,19.832,4.6
+750847-29-5940,B,Rabat,Member,Male,Food and beverages,23.6,7,8.26,173.46,01/24/2019,20:27,Credit card,165.2,4.761904762,8.26,7.2
+750848-29-3401,C,Marrakech,Normal,Female,Health and beauty,34.4,8,13.76,288.96,01/10/2019,10:55,Cash,275.2,4.761904762,13.76,8.0
+750849-45-3370,B,Rabat,Member,Female,Sports and travel,74.91,8,29.964,629.24,03/15/2019,16:46,Ewallet,599.28,4.761904762,29.964,8.9
+750850-91-6463,A,Casablanca,Normal,Male,Electronic accessories,79.07,6,23.721,498.14,03/03/2019,16:38,Cash,474.42,4.761904762,23.721,5.9
+750851-20-7911,A,Casablanca,Member,Female,Sports and travel,59.44,9,26.748,561.71,03/10/2019,13:24,Credit card,534.96,4.761904762,26.748,7.2
+750852-27-2804,C,Marrakech,Member,Male,Electronic accessories,42.55,4,8.51,178.71,02/16/2019,18:30,Ewallet,170.2,4.761904762,8.51,10.0
+750853-38-1915,A,Casablanca,Normal,Female,Electronic accessories,36.52,3,5.478,115.04,02/23/2019,13:13,Credit card,109.56,4.761904762,5.478,9.0
+750854-99-2736,C,Marrakech,Member,Male,Fashion accessories,73.35,7,25.6725,539.12,02/24/2019,15:03,Credit card,513.45,4.761904762,25.6725,8.4
+750855-11-7823,C,Marrakech,Member,Female,Food and beverages,88.33,1,4.4165,92.75,01/11/2019,13:04,Ewallet,88.33,4.761904762,4.4165,4.9
+750856-53-8274,A,Casablanca,Member,Female,Fashion accessories,22.61,9,10.1745,213.66,03/02/2019,16:46,Cash,203.49,4.761904762,10.1745,8.2
+750857-60-7940,C,Marrakech,Member,Female,Health and beauty,24.03,1,1.2015,25.23,03/06/2019,12:00,Ewallet,24.03,4.761904762,1.2015,7.6
+750858-58-3050,C,Marrakech,Normal,Female,Food and beverages,55.16,4,11.032,231.67,02/04/2019,11:33,Ewallet,220.64,4.761904762,11.032,6.5
+750859-19-8674,C,Marrakech,Member,Female,Food and beverages,15.04,7,5.264,110.54,03/13/2019,19:53,Credit card,105.28,4.761904762,5.264,5.1
+750860-19-6942,B,Rabat,Normal,Female,Sports and travel,24.83,6,7.449,156.43,02/04/2019,11:06,Ewallet,148.98,4.761904762,7.449,7.9
+750861-49-4075,C,Marrakech,Normal,Male,Electronic accessories,35.4,9,15.93,334.53,03/18/2019,10:48,Ewallet,318.6,4.761904762,15.93,4.6
+750862-50-2527,C,Marrakech,Member,Male,Electronic accessories,34.22,10,17.11,359.31,03/03/2019,10:03,Credit card,342.2,4.761904762,17.11,7.4
+750863-96-2595,B,Rabat,Member,Female,Home and lifestyle,96.28,9,43.326,909.85,02/15/2019,12:44,Cash,866.52,4.761904762,43.326,5.2
+750864-14-5753,B,Rabat,Normal,Male,Food and beverages,82.67,3,12.4005,260.41,03/03/2019,19:55,Cash,248.01,4.761904762,12.4005,4.1
+750865-28-3638,A,Casablanca,Member,Female,Health and beauty,89.66,2,8.966,188.29,01/28/2019,20:41,Ewallet,179.32,4.761904762,8.966,9.7
+750866-40-4421,C,Marrakech,Normal,Female,Electronic accessories,40.51,6,12.153,255.21,01/06/2019,20:24,Cash,243.06,4.761904762,12.153,7.7
+750867-21-9174,C,Marrakech,Member,Male,Food and beverages,66.49,8,26.596,558.52,01/19/2019,14:35,Ewallet,531.92,4.761904762,26.596,4.6
+750868-19-3935,A,Casablanca,Normal,Female,Electronic accessories,94.06,3,14.109,296.29,02/16/2019,15:05,Credit card,282.18,4.761904762,14.109,4.4
+750869-15-6955,C,Marrakech,Normal,Female,Sports and travel,98.05,8,39.22,823.62,01/16/2019,19:31,Ewallet,784.4,4.761904762,39.22,7.9
+750870-20-7769,B,Rabat,Normal,Female,Food and beverages,92.53,3,13.8795,291.47,03/21/2019,15:23,Credit card,277.59,4.761904762,13.8795,6.6
+750871-29-2725,C,Marrakech,Normal,Female,Fashion accessories,13.84,1,0.692,14.53,03/31/2019,18:00,Ewallet,13.84,4.761904762,0.692,8.4
+750872-69-8675,B,Rabat,Normal,Male,Food and beverages,45.93,2,4.593,96.45,03/27/2019,11:22,Cash,91.86,4.761904762,4.593,5.3
+750873-52-2056,C,Marrakech,Normal,Male,Health and beauty,26.22,2,2.622,55.06,02/25/2019,13:25,Cash,52.44,4.761904762,2.622,9.5
+750874-70-3384,B,Rabat,Normal,Female,Electronic accessories,73.2,8,29.28,614.88,01/05/2019,18:09,Cash,585.6,4.761904762,29.28,4.7
+750875-37-1886,C,Marrakech,Member,Female,Food and beverages,12.82,10,6.41,134.61,02/16/2019,16:30,Ewallet,128.2,4.761904762,6.41,8.6
+750876-48-8396,A,Casablanca,Member,Female,Home and lifestyle,32.68,3,4.902,102.94,02/05/2019,16:05,Ewallet,98.04,4.761904762,4.902,4.5
+750877-35-6722,B,Rabat,Member,Female,Electronic accessories,84.74,2,8.474,177.95,02/13/2019,14:10,Cash,169.48,4.761904762,8.474,9.4
+750878-11-4253,B,Rabat,Normal,Female,Food and beverages,71.99,3,10.7985,226.77,02/15/2019,19:24,Cash,215.97,4.761904762,10.7985,9.8
+750879-50-2861,A,Casablanca,Member,Female,Fashion accessories,98.76,6,29.628,622.19,01/19/2019,17:55,Cash,592.56,4.761904762,29.628,4.1
+750880-84-2596,C,Marrakech,Normal,Female,Food and beverages,75.0,8,30.0,630.0,03/23/2019,17:40,Ewallet,600.0,4.761904762,30.0,9.7
+750881-96-1235,A,Casablanca,Member,Male,Sports and travel,72.67,3,10.9005,228.91,02/14/2019,13:12,Ewallet,218.01,4.761904762,10.9005,7.6
+750882-68-7783,B,Rabat,Normal,Male,Home and lifestyle,90.69,9,40.8105,857.02,03/31/2019,17:41,Ewallet,816.21,4.761904762,40.8105,8.9
+750883-32-3664,B,Rabat,Normal,Female,Food and beverages,48.32,6,14.496,304.42,02/28/2019,16:23,Ewallet,289.92,4.761904762,14.496,4.7
+750884-23-2468,C,Marrakech,Normal,Female,Home and lifestyle,86.05,7,30.1175,632.47,03/21/2019,11:05,Credit card,602.35,4.761904762,30.1175,7.8
+750885-84-1534,C,Marrakech,Member,Female,Health and beauty,54.67,10,27.335,574.04,03/23/2019,17:32,Ewallet,546.7,4.761904762,27.335,9.6
+750886-54-8601,C,Marrakech,Normal,Female,Electronic accessories,30.06,8,12.024,252.5,01/26/2019,17:07,Ewallet,240.48,4.761904762,12.024,7.3
+750887-63-4957,B,Rabat,Normal,Male,Home and lifestyle,80.39,9,36.1755,759.69,02/03/2019,14:53,Credit card,723.51,4.761904762,36.1755,5.7
+750888-31-8045,A,Casablanca,Normal,Male,Health and beauty,12.36,6,3.708,77.87,03/18/2019,15:21,Credit card,74.16,4.761904762,3.708,9.0
+750889-59-3846,A,Casablanca,Normal,Male,Food and beverages,67.99,1,3.3995,71.39,02/24/2019,12:40,Credit card,67.99,4.761904762,3.3995,8.8
+750890-90-5263,B,Rabat,Normal,Male,Sports and travel,30.78,3,4.617,96.96,03/15/2019,16:53,Credit card,92.34,4.761904762,4.617,7.0
+750891-89-9907,C,Marrakech,Member,Female,Electronic accessories,18.39,1,0.9195,19.31,03/17/2019,12:01,Credit card,18.39,4.761904762,0.9195,6.6
+750892-38-5864,A,Casablanca,Normal,Male,Fashion accessories,76.07,8,30.428,638.99,01/24/2019,13:41,Cash,608.56,4.761904762,30.428,7.8
+750893-84-2694,A,Casablanca,Member,Female,Home and lifestyle,69.33,5,17.3325,363.98,03/22/2019,10:40,Ewallet,346.65,4.761904762,17.3325,4.5
+750894-56-4407,A,Casablanca,Normal,Male,Health and beauty,22.76,5,5.69,119.49,01/10/2019,17:54,Ewallet,113.8,4.761904762,5.69,9.4
+750895-58-6137,B,Rabat,Member,Female,Health and beauty,47.23,8,18.892,396.73,01/27/2019,20:26,Ewallet,377.84,4.761904762,18.892,9.8
+750896-53-6681,C,Marrakech,Normal,Male,Electronic accessories,36.88,3,5.532,116.17,03/19/2019,10:07,Credit card,110.64,4.761904762,5.532,8.0
+750897-75-3496,B,Rabat,Member,Male,Food and beverages,76.75,2,7.675,161.18,03/10/2019,10:33,Ewallet,153.5,4.761904762,7.675,5.2
+750898-45-8890,A,Casablanca,Normal,Male,Electronic accessories,12.65,3,1.8975,39.85,03/30/2019,12:17,Credit card,37.95,4.761904762,1.8975,5.3
+750899-34-5097,A,Casablanca,Member,Female,Fashion accessories,59.63,5,14.9075,313.06,02/25/2019,18:25,Cash,298.15,4.761904762,14.9075,6.8
+750900-67-7942,A,Casablanca,Member,Female,Sports and travel,19.26,10,9.63,202.23,03/04/2019,16:56,Ewallet,192.6,4.761904762,9.63,5.9
+750901-90-2052,C,Marrakech,Normal,Female,Food and beverages,19.68,7,6.888,144.65,02/15/2019,15:57,Credit card,137.76,4.761904762,6.888,6.6
+750902-13-2878,B,Rabat,Member,Male,Food and beverages,32.77,7,11.4695,240.86,03/09/2019,15:25,Credit card,229.39,4.761904762,11.4695,5.8
+750903-50-3003,A,Casablanca,Normal,Female,Electronic accessories,42.19,2,4.219,88.6,02/17/2019,12:49,Cash,84.38,4.761904762,4.219,5.3
+750904-59-5646,A,Casablanca,Normal,Male,Fashion accessories,39.59,8,15.836,332.56,01/30/2019,18:04,Cash,316.72,4.761904762,15.836,7.4
+750905-92-7909,C,Marrakech,Member,Male,Health and beauty,60.48,10,30.24,635.04,01/10/2019,19:57,Credit card,604.8,4.761904762,30.24,9.7
+750906-25-3033,C,Marrakech,Normal,Female,Home and lifestyle,27.83,1,1.3915,29.22,01/06/2019,14:26,Cash,27.83,4.761904762,1.3915,8.8
+750907-69-5659,B,Rabat,Member,Female,Food and beverages,44.45,10,22.225,466.73,03/24/2019,19:00,Ewallet,444.5,4.761904762,22.225,4.1
+750908-63-5931,A,Casablanca,Normal,Male,Food and beverages,92.61,1,4.6305,97.24,01/09/2019,17:06,Ewallet,92.61,4.761904762,4.6305,6.0
+750909-68-9082,B,Rabat,Normal,Female,Sports and travel,17.18,6,5.154,108.23,02/20/2019,14:44,Ewallet,103.08,4.761904762,5.154,7.0
+750910-98-8138,C,Marrakech,Member,Female,Food and beverages,19.25,4,3.85,80.85,01/18/2019,11:20,Ewallet,77.0,4.761904762,3.85,4.3
+750911-15-2815,A,Casablanca,Member,Male,Electronic accessories,75.16,6,22.548,473.51,01/01/2019,10:16,Credit card,450.96,4.761904762,22.548,8.9
+750912-27-8548,A,Casablanca,Normal,Male,Home and lifestyle,39.64,10,19.82,416.22,02/04/2019,12:59,Cash,396.4,4.761904762,19.82,8.7
+750913-40-8830,A,Casablanca,Member,Female,Electronic accessories,77.77,7,27.2195,571.61,01/16/2019,18:33,Credit card,544.39,4.761904762,27.2195,7.8
+750914-81-4971,C,Marrakech,Normal,Female,Home and lifestyle,79.53,8,31.812,668.05,02/07/2019,11:22,Cash,636.24,4.761904762,31.812,5.4
+750915-59-4078,C,Marrakech,Member,Male,Health and beauty,97.45,1,4.8725,102.32,01/28/2019,17:52,Credit card,97.45,4.761904762,4.8725,5.3
+750916-29-9265,B,Rabat,Member,Female,Electronic accessories,83.25,9,37.4625,786.71,02/09/2019,17:41,Cash,749.25,4.761904762,37.4625,7.1
+750917-18-5552,A,Casablanca,Member,Male,Home and lifestyle,44.7,8,17.88,375.48,01/26/2019,16:12,Credit card,357.6,4.761904762,17.88,9.2
+750918-68-4064,B,Rabat,Member,Female,Food and beverages,68.35,3,10.2525,215.3,01/15/2019,13:01,Ewallet,205.05,4.761904762,10.2525,6.8
+750919-37-3467,B,Rabat,Member,Female,Fashion accessories,57.77,6,17.331,363.95,01/11/2019,15:27,Credit card,346.62,4.761904762,17.331,5.6
+750920-47-4103,B,Rabat,Normal,Female,Health and beauty,49.72,6,14.916,313.24,02/18/2019,16:12,Credit card,298.32,4.761904762,14.916,4.6
+750921-24-4597,B,Rabat,Member,Female,Food and beverages,64.66,9,29.097,611.04,01/07/2019,20:15,Credit card,581.94,4.761904762,29.097,6.6
+750922-61-7421,A,Casablanca,Member,Male,Food and beverages,33.95,2,3.395,71.3,01/29/2019,19:44,Cash,67.9,4.761904762,3.395,7.2
+750923-46-5718,B,Rabat,Member,Male,Fashion accessories,84.16,5,21.04,441.84,01/27/2019,15:40,Ewallet,420.8,4.761904762,21.04,7.0
+750924-50-2137,C,Marrakech,Member,Male,Electronic accessories,55.29,10,27.645,580.54,03/30/2019,13:10,Cash,552.9,4.761904762,27.645,6.9
+750925-43-2261,A,Casablanca,Member,Female,Sports and travel,22.76,1,1.138,23.9,02/12/2019,10:11,Cash,22.76,4.761904762,1.138,8.0
+750926-12-5762,A,Casablanca,Member,Female,Sports and travel,62.48,8,24.992,524.83,01/15/2019,10:52,Cash,499.84,4.761904762,24.992,9.2
+750927-94-8970,A,Casablanca,Member,Male,Health and beauty,19.0,6,5.7,119.7,02/14/2019,18:16,Credit card,114.0,4.761904762,5.7,6.7
+750928-24-5422,B,Rabat,Normal,Female,Health and beauty,84.49,5,21.1225,443.57,03/26/2019,19:30,Credit card,422.45,4.761904762,21.1225,8.3
+750929-99-8056,C,Marrakech,Member,Male,Sports and travel,87.06,3,13.059,274.24,02/01/2019,19:47,Ewallet,261.18,4.761904762,13.059,6.1
+750930-67-9632,B,Rabat,Member,Male,Electronic accessories,92.85,7,32.4975,682.45,03/22/2019,20:34,Cash,649.95,4.761904762,32.4975,7.8
+750931-84-9520,A,Casablanca,Normal,Female,Home and lifestyle,45.19,7,15.8165,332.15,02/09/2019,13:02,Cash,316.33,4.761904762,15.8165,9.7
+750932-73-3410,C,Marrakech,Normal,Male,Sports and travel,81.57,10,40.785,856.48,02/06/2019,11:00,Cash,815.7,4.761904762,40.785,9.8
+750933-68-1670,B,Rabat,Member,Female,Food and beverages,60.23,3,9.0345,189.72,01/09/2019,14:00,Cash,180.69,4.761904762,9.0345,5.8
+750934-27-6737,A,Casablanca,Normal,Male,Health and beauty,53.95,1,2.6975,56.65,01/01/2019,10:16,Credit card,53.95,4.761904762,2.6975,6.6
+750935-70-6810,B,Rabat,Member,Male,Fashion accessories,34.36,4,6.872,144.31,02/07/2019,13:02,Ewallet,137.44,4.761904762,6.872,6.6
+750936-82-8140,A,Casablanca,Normal,Female,Sports and travel,97.01,2,9.701,203.72,03/18/2019,14:11,Cash,194.02,4.761904762,9.701,9.4
+750937-20-5871,C,Marrakech,Normal,Male,Fashion accessories,79.08,5,19.77,415.17,01/26/2019,14:19,Credit card,395.4,4.761904762,19.77,4.8
+750938-97-6858,C,Marrakech,Normal,Male,Sports and travel,80.41,7,28.1435,591.01,02/26/2019,15:32,Credit card,562.87,4.761904762,28.1435,4.6
+750939-27-5954,B,Rabat,Normal,Female,Sports and travel,47.84,7,16.744,351.62,01/04/2019,16:05,Credit card,334.88,4.761904762,16.744,6.8
+750940-95-1097,A,Casablanca,Normal,Male,Food and beverages,58.89,10,29.445,618.35,02/20/2019,12:25,Ewallet,588.9,4.761904762,29.445,9.3
+750941-98-6428,B,Rabat,Normal,Male,Health and beauty,14.92,2,1.492,31.33,02/07/2019,19:30,Ewallet,29.84,4.761904762,1.492,6.0
+750942-96-3535,A,Casablanca,Member,Male,Fashion accessories,28.45,3,4.2675,89.62,01/18/2019,13:57,Cash,85.35,4.761904762,4.2675,7.4
+750943-25-9516,B,Rabat,Normal,Male,Sports and travel,66.12,4,13.224,277.7,01/20/2019,19:56,Ewallet,264.48,4.761904762,13.224,4.7
+750944-71-4015,A,Casablanca,Member,Male,Health and beauty,52.63,9,23.6835,497.35,01/16/2019,14:25,Ewallet,473.67,4.761904762,23.6835,6.7
+750945-94-4943,A,Casablanca,Normal,Female,Fashion accessories,65.54,7,22.939,481.72,01/24/2019,12:52,Ewallet,458.78,4.761904762,22.939,4.9
+750946-60-7321,A,Casablanca,Member,Female,Sports and travel,36.1,2,3.61,75.81,02/17/2019,20:17,Cash,72.2,4.761904762,3.61,9.8
+750947-11-5960,C,Marrakech,Member,Female,Sports and travel,83.21,3,12.4815,262.11,01/16/2019,19:24,Cash,249.63,4.761904762,12.4815,4.2
+750948-55-9202,A,Casablanca,Normal,Male,Home and lifestyle,96.64,8,38.656,811.78,02/05/2019,10:10,Cash,773.12,4.761904762,38.656,9.3
+750949-82-6558,C,Marrakech,Member,Female,Fashion accessories,57.25,9,25.7625,541.01,01/20/2019,15:41,Credit card,515.25,4.761904762,25.7625,4.4
+750950-87-3955,B,Rabat,Member,Female,Fashion accessories,37.26,7,13.041,273.86,03/03/2019,16:30,Credit card,260.82,4.761904762,13.041,4.4
+750951-13-3607,C,Marrakech,Normal,Male,Fashion accessories,39.16,10,19.58,411.18,02/21/2019,11:02,Credit card,391.6,4.761904762,19.58,6.1
+750952-32-7292,A,Casablanca,Member,Male,Sports and travel,94.07,8,37.628,790.19,01/31/2019,11:57,Ewallet,752.56,4.761904762,37.628,5.9
+750953-90-1482,B,Rabat,Member,Male,Food and beverages,32.54,1,1.627,34.17,02/26/2019,15:38,Ewallet,32.54,4.761904762,1.627,9.1
+750954-42-9046,A,Casablanca,Normal,Male,Fashion accessories,50.45,3,7.5675,158.92,03/13/2019,13:12,Credit card,151.35,4.761904762,7.5675,9.9
+750955-90-2576,B,Rabat,Normal,Male,Electronic accessories,76.79,7,26.8765,564.41,01/12/2019,19:01,Ewallet,537.53,4.761904762,26.8765,8.9
+750956-92-9653,A,Casablanca,Member,Male,Health and beauty,42.36,7,14.826,311.35,02/13/2019,12:43,Ewallet,296.52,4.761904762,14.826,7.4
+750957-18-8190,B,Rabat,Member,Male,Food and beverages,84.47,9,38.0115,798.24,03/13/2019,12:51,Credit card,760.23,4.761904762,38.0115,6.1
+750958-86-9856,B,Rabat,Normal,Male,Food and beverages,17.03,9,7.6635,160.93,03/05/2019,13:03,Ewallet,153.27,4.761904762,7.6635,5.8
+750959-19-9755,B,Rabat,Member,Male,Home and lifestyle,93.0,5,23.25,488.25,01/09/2019,12:18,Cash,465.0,4.761904762,23.25,6.3
+750960-43-1491,C,Marrakech,Member,Female,Sports and travel,65.67,9,29.5515,620.58,03/16/2019,17:59,Ewallet,591.03,4.761904762,29.5515,8.2
+750961-17-4860,A,Casablanca,Normal,Female,Home and lifestyle,28.04,1,1.402,29.44,02/12/2019,20:58,Credit card,28.04,4.761904762,1.402,4.8
+750962-26-5432,B,Rabat,Member,Male,Home and lifestyle,98.29,7,34.4015,722.43,01/11/2019,18:30,Credit card,688.03,4.761904762,34.4015,7.6
+750963-39-1351,C,Marrakech,Member,Male,Health and beauty,54.69,4,10.938,229.7,03/03/2019,14:50,Cash,218.76,4.761904762,10.938,7.9
+750964-16-7342,A,Casablanca,Member,Male,Food and beverages,64.73,7,22.6555,475.77,01/03/2019,18:30,Credit card,453.11,4.761904762,22.6555,8.1
+750965-34-6621,B,Rabat,Member,Female,Fashion accessories,48.41,3,7.2615,152.49,03/20/2019,15:22,Ewallet,145.23,4.761904762,7.2615,4.7
+750966-11-5094,B,Rabat,Member,Male,Electronic accessories,18.28,1,0.914,19.19,03/10/2019,19:02,Credit card,18.28,4.761904762,0.914,5.4
+750967-41-5790,A,Casablanca,Member,Male,Electronic accessories,49.47,5,12.3675,259.72,03/19/2019,20:56,Cash,247.35,4.761904762,12.3675,4.3
+750968-55-4609,A,Casablanca,Normal,Female,Fashion accessories,21.01,2,2.101,44.12,01/27/2019,17:45,Credit card,42.02,4.761904762,2.101,4.5
+750969-23-1884,B,Rabat,Normal,Female,Food and beverages,36.34,4,7.268,152.63,02/10/2019,18:32,Cash,145.36,4.761904762,7.268,7.2
+750970-80-4453,B,Rabat,Normal,Female,Home and lifestyle,17.06,3,2.559,53.74,01/30/2019,14:47,Credit card,51.18,4.761904762,2.559,9.0
+750971-14-5428,A,Casablanca,Normal,Male,Health and beauty,98.0,8,39.2,823.2,01/15/2019,10:31,Cash,784.0,4.761904762,39.2,7.9
+750972-15-4677,B,Rabat,Normal,Female,Health and beauty,15.37,10,7.685,161.38,02/18/2019,16:28,Ewallet,153.7,4.761904762,7.685,6.3
+750973-13-6508,A,Casablanca,Normal,Male,Fashion accessories,48.79,1,2.4395,51.23,03/11/2019,15:59,Ewallet,48.79,4.761904762,2.4395,8.0
+750974-59-5709,B,Rabat,Member,Male,Home and lifestyle,75.31,10,37.655,790.75,01/08/2019,11:35,Cash,753.1,4.761904762,37.655,6.6
+750975-11-5598,C,Marrakech,Normal,Female,Food and beverages,74.72,9,33.624,706.1,03/01/2019,13:08,Cash,672.48,4.761904762,33.624,5.6
+750976-56-5403,C,Marrakech,Normal,Male,Electronic accessories,79.41,5,19.8525,416.9,01/05/2019,19:17,Cash,397.05,4.761904762,19.8525,6.0
+750977-66-1145,C,Marrakech,Normal,Male,Health and beauty,37.62,6,11.286,237.01,02/26/2019,17:01,Ewallet,225.72,4.761904762,11.286,9.0
+750978-88-6145,B,Rabat,Member,Female,Sports and travel,67.39,9,30.3255,636.84,03/16/2019,11:17,Ewallet,606.51,4.761904762,30.3255,5.3
+750979-32-3406,A,Casablanca,Normal,Male,Home and lifestyle,78.93,5,19.7325,414.38,01/17/2019,13:40,Cash,394.65,4.761904762,19.7325,5.6
+750980-80-4734,C,Marrakech,Member,Male,Health and beauty,68.91,3,10.3365,217.07,03/16/2019,15:02,Cash,206.73,4.761904762,10.3365,8.1
+750981-23-2269,A,Casablanca,Normal,Female,Health and beauty,71.05,6,21.315,447.61,03/18/2019,13:22,Ewallet,426.3,4.761904762,21.315,7.2
+750982-92-7987,C,Marrakech,Normal,Male,Food and beverages,16.97,4,3.394,71.27,03/29/2019,16:04,Cash,67.88,4.761904762,3.394,6.0
+750983-47-1510,B,Rabat,Member,Male,Home and lifestyle,64.62,6,19.386,407.11,03/25/2019,15:30,Cash,387.72,4.761904762,19.386,6.0
+750984-75-6636,A,Casablanca,Normal,Male,Home and lifestyle,93.72,10,46.86,984.06,01/28/2019,15:32,Credit card,937.2,4.761904762,46.86,4.2
+750985-38-9249,A,Casablanca,Normal,Male,Fashion accessories,75.36,7,26.376,553.9,01/11/2019,11:59,Credit card,527.52,4.761904762,26.376,8.6
+750986-44-4195,C,Marrakech,Normal,Male,Food and beverages,81.83,10,40.915,859.21,03/08/2019,17:20,Credit card,818.3,4.761904762,40.915,6.8
+750987-62-6929,C,Marrakech,Normal,Male,Home and lifestyle,31.87,6,9.561,200.78,01/15/2019,13:28,Cash,191.22,4.761904762,9.561,5.4
+750988-26-9808,A,Casablanca,Normal,Male,Home and lifestyle,68.79,10,34.395,722.3,01/30/2019,19:52,Cash,687.9,4.761904762,34.395,5.4
+750989-74-3431,A,Casablanca,Normal,Male,Food and beverages,33.42,5,8.355,175.46,01/11/2019,16:26,Ewallet,167.1,4.761904762,8.355,6.0
+750990-70-2654,C,Marrakech,Normal,Male,Electronic accessories,88.87,1,4.4435,93.31,02/03/2019,18:45,Cash,88.87,4.761904762,4.4435,5.0
+750991-26-7591,A,Casablanca,Member,Female,Health and beauty,72.1,2,7.21,151.41,02/19/2019,16:22,Credit card,144.2,4.761904762,7.21,4.8
+750992-55-8354,C,Marrakech,Member,Female,Health and beauty,40.31,6,12.093,253.95,01/14/2019,10:04,Credit card,241.86,4.761904762,12.093,7.5
+750993-29-1127,B,Rabat,Normal,Female,Home and lifestyle,78.18,3,11.727,246.27,03/17/2019,18:05,Credit card,234.54,4.761904762,11.727,8.4
+750994-48-9082,C,Marrakech,Normal,Female,Sports and travel,38.84,3,5.826,122.35,02/05/2019,11:14,Credit card,116.52,4.761904762,5.826,7.1
+750995-76-5558,B,Rabat,Member,Female,Home and lifestyle,39.05,6,11.715,246.01,01/06/2019,13:27,Ewallet,234.3,4.761904762,11.715,8.5
+750996-31-5726,C,Marrakech,Normal,Male,Home and lifestyle,35.63,2,3.563,74.82,02/26/2019,13:56,Cash,71.26,4.761904762,3.563,5.7
+750997-15-9844,B,Rabat,Member,Male,Fashion accessories,35.07,2,3.507,73.65,01/22/2019,10:38,Credit card,70.14,4.761904762,3.507,5.2
+750998-66-9534,C,Marrakech,Member,Male,Sports and travel,84.92,1,4.246,89.17,03/15/2019,16:46,Cash,84.92,4.761904762,4.246,6.2
+750999-27-5562,A,Casablanca,Normal,Female,Health and beauty,74.46,2,7.446,156.37,03/05/2019,14:05,Cash,148.92,4.761904762,7.446,6.7

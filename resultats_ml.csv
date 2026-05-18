@@ -1,0 +1,1001 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Total,Date,Payment,Rating,anomalie,nom_segment
+750000-85-7912,C,Marrakech,Member,Male,Fashion accessories,34.75,4,145.95,03/28/2019,Ewallet,4.8,Normal,Petit acheteur
+750001-38-8359,A,Casablanca,Member,Male,Electronic accessories,30.94,10,324.87,03/25/2019,Ewallet,4.2,Normal,Petit acheteur
+750002-58-2584,C,Marrakech,Normal,Male,Electronic accessories,72.83,6,458.83,02/13/2019,Ewallet,5.7,Normal,Acheteur moyen
+750003-90-6925,B,Rabat,Normal,Female,Health and beauty,75.67,9,715.08,01/11/2019,Cash,4.7,Normal,Acheteur moyen
+750004-68-6977,C,Marrakech,Member,Male,Health and beauty,69.51,5,364.93,01/13/2019,Ewallet,9.9,Normal,Petit acheteur
+750005-69-7216,A,Casablanca,Normal,Female,Electronic accessories,70.31,2,147.65,03/10/2019,Ewallet,7.7,Normal,Petit acheteur
+750006-82-6155,B,Rabat,Member,Female,Health and beauty,30.61,1,32.14,02/04/2019,Cash,8.8,Normal,Petit acheteur
+750007-84-8019,A,Casablanca,Normal,Female,Fashion accessories,51.29,5,269.27,03/13/2019,Credit card,4.8,Normal,Petit acheteur
+750008-90-3621,C,Marrakech,Normal,Female,Electronic accessories,99.75,3,314.21,01/07/2019,Ewallet,7.1,Anomalie,Petit acheteur
+750009-24-9797,C,Marrakech,Normal,Male,Sports and travel,44.34,8,372.46,01/02/2019,Credit card,7.2,Normal,Petit acheteur
+750010-32-9317,B,Rabat,Normal,Male,Home and lifestyle,49.12,8,412.61,02/03/2019,Credit card,4.0,Normal,Acheteur moyen
+750011-72-1319,A,Casablanca,Normal,Male,Electronic accessories,43.65,3,137.5,01/01/2019,Credit card,7.2,Normal,Petit acheteur
+750012-78-3060,A,Casablanca,Normal,Female,Electronic accessories,15.21,10,159.71,03/04/2019,Ewallet,9.7,Normal,Petit acheteur
+750013-49-7537,A,Casablanca,Normal,Male,Home and lifestyle,57.49,10,603.64,03/11/2019,Ewallet,6.5,Normal,Acheteur moyen
+750014-39-4608,C,Marrakech,Normal,Female,Food and beverages,50.63,4,212.65,01/03/2019,Cash,5.3,Normal,Petit acheteur
+750015-95-8953,A,Casablanca,Member,Male,Electronic accessories,16.07,1,16.87,03/07/2019,Ewallet,9.2,Normal,Petit acheteur
+750016-64-7735,A,Casablanca,Member,Female,Electronic accessories,80.61,7,592.48,03/26/2019,Ewallet,5.1,Normal,Acheteur moyen
+750017-78-8350,B,Rabat,Member,Male,Health and beauty,46.23,6,291.25,02/01/2019,Ewallet,8.8,Normal,Petit acheteur
+750018-79-1241,A,Casablanca,Normal,Male,Home and lifestyle,51.63,2,108.42,01/13/2019,Credit card,6.7,Normal,Petit acheteur
+750019-59-5345,A,Casablanca,Member,Male,Sports and travel,53.7,4,225.54,01/22/2019,Ewallet,9.2,Normal,Petit acheteur
+750020-37-1958,B,Rabat,Normal,Female,Fashion accessories,96.15,9,908.62,01/20/2019,Cash,8.0,Normal,Acheteur moyen
+750021-20-4044,C,Marrakech,Member,Female,Health and beauty,14.51,8,121.88,01/21/2019,Credit card,7.0,Normal,Petit acheteur
+750022-63-9565,A,Casablanca,Member,Male,Sports and travel,20.79,10,218.29,01/06/2019,Credit card,5.5,Normal,Petit acheteur
+750023-68-6180,B,Rabat,Normal,Male,Fashion accessories,74.45,4,312.69,03/27/2019,Ewallet,5.6,Normal,Petit acheteur
+750024-54-2127,A,Casablanca,Member,Female,Food and beverages,99.85,2,209.69,03/06/2019,Ewallet,4.4,Anomalie,Petit acheteur
+750025-95-5905,A,Casablanca,Normal,Female,Electronic accessories,49.43,9,467.11,03/25/2019,Credit card,8.2,Normal,Acheteur moyen
+750026-36-6617,C,Marrakech,Member,Male,Home and lifestyle,20.39,2,42.82,02/04/2019,Ewallet,8.5,Normal,Petit acheteur
+750027-52-3143,A,Casablanca,Normal,Female,Home and lifestyle,91.47,1,96.04,02/05/2019,Cash,4.6,Anomalie,Petit acheteur
+750028-14-7049,C,Marrakech,Normal,Male,Fashion accessories,49.76,7,365.74,01/10/2019,Ewallet,7.4,Normal,Petit acheteur
+750029-41-2684,C,Marrakech,Member,Female,Electronic accessories,13.76,6,86.69,02/15/2019,Ewallet,9.4,Normal,Petit acheteur
+750030-62-5065,B,Rabat,Normal,Male,Electronic accessories,87.81,3,276.6,01/23/2019,Ewallet,9.3,Normal,Petit acheteur
+750031-39-4652,B,Rabat,Member,Male,Sports and travel,88.49,8,743.32,02/14/2019,Cash,5.3,Normal,Acheteur moyen
+750032-61-9785,A,Casablanca,Member,Female,Home and lifestyle,35.07,2,73.65,02/14/2019,Cash,9.8,Normal,Petit acheteur
+750033-50-8149,B,Rabat,Member,Male,Home and lifestyle,26.07,5,136.87,02/25/2019,Credit card,4.2,Normal,Petit acheteur
+750034-95-4228,C,Marrakech,Member,Female,Food and beverages,27.11,1,28.47,03/08/2019,Ewallet,8.3,Normal,Petit acheteur
+750035-95-7691,B,Rabat,Normal,Male,Fashion accessories,92.86,10,975.03,02/08/2019,Ewallet,5.9,Anomalie,Acheteur moyen
+750036-82-5930,B,Rabat,Normal,Female,Food and beverages,21.45,7,157.66,03/28/2019,Cash,8.0,Normal,Petit acheteur
+750037-96-4501,B,Rabat,Member,Female,Home and lifestyle,28.91,10,303.56,03/01/2019,Cash,7.6,Normal,Petit acheteur
+750038-40-6085,C,Marrakech,Normal,Male,Fashion accessories,17.63,9,166.6,02/12/2019,Credit card,8.0,Normal,Petit acheteur
+750039-90-4185,A,Casablanca,Member,Male,Health and beauty,14.16,8,118.94,02/28/2019,Ewallet,7.7,Normal,Petit acheteur
+750040-99-9486,C,Marrakech,Normal,Female,Sports and travel,31.96,1,33.56,02/24/2019,Ewallet,9.4,Normal,Petit acheteur
+750041-66-9270,B,Rabat,Member,Male,Health and beauty,51.08,8,429.07,03/18/2019,Credit card,8.0,Normal,Acheteur moyen
+750042-76-8939,B,Rabat,Normal,Male,Fashion accessories,87.53,8,735.25,03/23/2019,Ewallet,5.6,Normal,Acheteur moyen
+750043-27-3471,C,Marrakech,Member,Female,Sports and travel,16.97,5,89.09,02/10/2019,Cash,5.4,Normal,Petit acheteur
+750044-36-7883,A,Casablanca,Normal,Male,Fashion accessories,29.25,7,214.99,03/01/2019,Credit card,6.4,Normal,Petit acheteur
+750045-79-4613,B,Rabat,Member,Female,Sports and travel,10.53,6,66.34,02/23/2019,Cash,5.8,Normal,Petit acheteur
+750046-69-3091,B,Rabat,Member,Female,Sports and travel,53.7,7,394.7,02/21/2019,Credit card,6.0,Normal,Petit acheteur
+750047-16-5262,C,Marrakech,Member,Female,Food and beverages,60.79,80,5106.36,01/18/2019,Cash,4.5,Anomalie,Gros acheteur
+750048-12-9837,B,Rabat,Normal,Male,Sports and travel,39.41,7,289.66,02/02/2019,Cash,5.7,Normal,Petit acheteur
+750049-29-4908,A,Casablanca,Normal,Male,Fashion accessories,16.17,1,16.98,01/26/2019,Ewallet,8.5,Normal,Petit acheteur
+750050-24-3683,A,Casablanca,Normal,Male,Food and beverages,95.29,8,800.44,01/22/2019,Cash,8.2,Normal,Acheteur moyen
+750051-98-4978,B,Rabat,Member,Male,Home and lifestyle,61.82,7,454.38,01/26/2019,Credit card,6.4,Normal,Acheteur moyen
+750052-92-6590,A,Casablanca,Normal,Male,Food and beverages,80.43,6,506.71,02/17/2019,Credit card,7.2,Normal,Acheteur moyen
+750053-76-5425,A,Casablanca,Normal,Female,Health and beauty,49.01,6,308.76,01/20/2019,Cash,7.8,Normal,Petit acheteur
+750054-67-4995,C,Marrakech,Normal,Female,Sports and travel,84.31,10,885.25,01/12/2019,Ewallet,5.6,Normal,Acheteur moyen
+750055-45-5526,B,Rabat,Normal,Female,Health and beauty,54.48,6,343.22,02/15/2019,Ewallet,5.1,Normal,Petit acheteur
+750056-72-8342,C,Marrakech,Member,Male,Health and beauty,31.72,7,233.14,03/30/2019,Ewallet,6.9,Normal,Petit acheteur
+750057-77-6632,A,Casablanca,Member,Female,Electronic accessories,46.39,4,194.84,02/17/2019,Credit card,5.8,Normal,Petit acheteur
+750058-78-4033,B,Rabat,Normal,Female,Fashion accessories,50.83,5,266.86,01/25/2019,Ewallet,5.5,Normal,Petit acheteur
+750059-56-3939,A,Casablanca,Member,Female,Home and lifestyle,75.21,9,710.73,01/25/2019,Ewallet,7.6,Normal,Acheteur moyen
+750060-72-2680,B,Rabat,Member,Male,Home and lifestyle,14.1,1,14.8,01/17/2019,Credit card,7.3,Anomalie,Petit acheteur
+750061-18-7565,A,Casablanca,Normal,Female,Sports and travel,49.64,3,156.37,03/03/2019,Cash,9.8,Normal,Petit acheteur
+750062-63-4697,B,Rabat,Member,Male,Electronic accessories,23.43,10,246.02,02/01/2019,Ewallet,9.7,Normal,Petit acheteur
+750063-88-2625,C,Marrakech,Normal,Female,Sports and travel,36.76,10,385.98,03/14/2019,Cash,9.9,Normal,Petit acheteur
+750064-67-8699,A,Casablanca,Member,Female,Fashion accessories,17.31,4,72.7,01/21/2019,Ewallet,5.0,Normal,Petit acheteur
+750065-94-4241,B,Rabat,Member,Male,Home and lifestyle,73.62,8,618.41,02/03/2019,Ewallet,4.4,Normal,Acheteur moyen
+750066-49-5728,B,Rabat,Member,Male,Fashion accessories,23.41,5,122.9,01/08/2019,Ewallet,9.0,Normal,Petit acheteur
+750067-20-1653,B,Rabat,Member,Female,Fashion accessories,37.37,7,274.67,03/11/2019,Credit card,9.7,Normal,Petit acheteur
+750068-15-3870,B,Rabat,Normal,Female,Health and beauty,18.22,10,191.31,03/28/2019,Ewallet,7.5,Normal,Petit acheteur
+750069-62-6460,B,Rabat,Normal,Female,Electronic accessories,99.72,7,732.94,01/12/2019,Cash,7.8,Anomalie,Acheteur moyen
+750070-21-6153,B,Rabat,Member,Male,Home and lifestyle,47.04,8,395.14,03/12/2019,Cash,5.7,Normal,Petit acheteur
+750071-34-9494,B,Rabat,Normal,Male,Sports and travel,87.83,1,92.22,03/01/2019,Credit card,7.9,Anomalie,Petit acheteur
+750072-13-4920,B,Rabat,Normal,Female,Health and beauty,28.32,9,267.62,02/26/2019,Cash,4.8,Normal,Petit acheteur
+750073-29-9165,C,Marrakech,Member,Female,Food and beverages,11.23,7,82.54,03/01/2019,Ewallet,4.6,Normal,Petit acheteur
+750074-86-9327,C,Marrakech,Normal,Female,Sports and travel,85.12,8,715.01,01/19/2019,Credit card,5.5,Normal,Acheteur moyen
+750075-48-9022,C,Marrakech,Member,Male,Home and lifestyle,79.53,7,584.55,02/04/2019,Credit card,6.0,Normal,Acheteur moyen
+750076-59-4826,A,Casablanca,Normal,Female,Home and lifestyle,39.92,9,377.24,01/25/2019,Cash,6.3,Normal,Petit acheteur
+750077-14-3068,B,Rabat,Member,Female,Fashion accessories,52.56,7,386.32,03/25/2019,Credit card,6.3,Normal,Petit acheteur
+750078-19-8692,C,Marrakech,Normal,Male,Sports and travel,18.97,8,159.35,02/22/2019,Ewallet,4.1,Normal,Petit acheteur
+750079-72-9864,B,Rabat,Normal,Female,Fashion accessories,17.23,6,108.55,02/18/2019,Credit card,9.1,Normal,Petit acheteur
+750080-91-2646,A,Casablanca,Member,Male,Fashion accessories,71.59,5,375.85,01/12/2019,Credit card,10.0,Normal,Petit acheteur
+750081-77-7751,B,Rabat,Member,Female,Health and beauty,14.14,1,14.85,02/25/2019,Cash,5.8,Anomalie,Petit acheteur
+750082-39-8555,C,Marrakech,Member,Male,Electronic accessories,17.11,7,125.76,03/05/2019,Ewallet,7.7,Normal,Petit acheteur
+750083-66-6661,C,Marrakech,Normal,Female,Home and lifestyle,70.01,8,588.08,03/11/2019,Credit card,9.4,Normal,Acheteur moyen
+750084-58-6881,C,Marrakech,Normal,Female,Fashion accessories,32.51,5,170.68,03/03/2019,Cash,5.2,Normal,Petit acheteur
+750085-87-9138,C,Marrakech,Normal,Female,Health and beauty,98.01,7,720.37,03/29/2019,Credit card,5.6,Normal,Acheteur moyen
+750086-27-2591,B,Rabat,Member,Female,Electronic accessories,67.29,10,706.55,03/26/2019,Credit card,5.5,Normal,Acheteur moyen
+750087-63-3877,C,Marrakech,Member,Female,Sports and travel,13.0,6,81.9,02/07/2019,Ewallet,8.4,Normal,Petit acheteur
+750088-53-2886,A,Casablanca,Member,Female,Food and beverages,55.16,5,289.59,03/03/2019,Cash,9.0,Normal,Petit acheteur
+750089-60-1228,B,Rabat,Member,Male,Electronic accessories,87.4,7,642.39,02/16/2019,Credit card,9.8,Normal,Acheteur moyen
+750090-39-8724,B,Rabat,Member,Female,Home and lifestyle,70.55,5,370.39,02/17/2019,Credit card,7.5,Normal,Petit acheteur
+750091-27-1742,A,Casablanca,Normal,Male,Fashion accessories,15.69,8,131.8,03/25/2019,Cash,9.5,Normal,Petit acheteur
+750092-99-9850,A,Casablanca,Normal,Female,Health and beauty,18.75,9,177.19,02/17/2019,Cash,4.8,Normal,Petit acheteur
+750093-66-8285,B,Rabat,Member,Female,Fashion accessories,18.91,8,158.84,01/05/2019,Cash,7.7,Normal,Petit acheteur
+750094-68-2501,A,Casablanca,Normal,Male,Fashion accessories,43.06,6,271.28,01/25/2019,Cash,4.4,Normal,Petit acheteur
+750095-80-4394,C,Marrakech,Member,Male,Health and beauty,80.8,4,339.36,01/27/2019,Credit card,9.9,Normal,Petit acheteur
+750096-32-2801,C,Marrakech,Member,Male,Home and lifestyle,79.69,10,836.75,01/17/2019,Ewallet,4.0,Normal,Acheteur moyen
+750097-26-7897,C,Marrakech,Member,Male,Health and beauty,42.24,4,177.41,01/23/2019,Ewallet,7.5,Normal,Petit acheteur
+750098-88-1710,C,Marrakech,Member,Male,Sports and travel,50.34,6,317.14,02/27/2019,Ewallet,7.1,Normal,Petit acheteur
+750099-72-8267,C,Marrakech,Normal,Female,Fashion accessories,96.75,1,101.59,02/24/2019,Cash,10.0,Anomalie,Petit acheteur
+750100-51-7240,A,Casablanca,Member,Female,Food and beverages,23.35,3,73.55,03/16/2019,Credit card,5.7,Normal,Petit acheteur
+750101-80-4522,C,Marrakech,Normal,Female,Food and beverages,64.48,2,135.41,03/25/2019,Ewallet,8.8,Normal,Petit acheteur
+750102-50-5176,B,Rabat,Normal,Male,Sports and travel,40.5,8,340.2,01/13/2019,Credit card,6.4,Normal,Petit acheteur
+750103-17-6400,B,Rabat,Member,Female,Health and beauty,18.21,2,38.24,02/17/2019,Ewallet,4.6,Normal,Petit acheteur
+750104-49-6761,C,Marrakech,Member,Female,Home and lifestyle,88.62,7,651.36,01/07/2019,Credit card,9.2,Normal,Acheteur moyen
+750105-45-4705,A,Casablanca,Member,Male,Fashion accessories,53.39,2,112.12,02/17/2019,Credit card,6.1,Normal,Petit acheteur
+750106-28-7566,B,Rabat,Member,Female,Health and beauty,26.24,5,137.76,01/01/2019,Cash,9.5,Normal,Petit acheteur
+750107-49-6314,A,Casablanca,Member,Male,Health and beauty,77.14,4,323.99,02/13/2019,Cash,6.3,Normal,Petit acheteur
+750108-64-8957,C,Marrakech,Member,Male,Electronic accessories,24.17,10,253.79,02/04/2019,Ewallet,4.3,Normal,Petit acheteur
+750109-96-8972,C,Marrakech,Normal,Female,Home and lifestyle,29.4,9,277.83,01/15/2019,Cash,4.7,Normal,Petit acheteur
+750110-27-5186,C,Marrakech,Normal,Male,Electronic accessories,45.57,10,478.49,02/08/2019,Ewallet,4.3,Anomalie,Acheteur moyen
+750111-81-6802,B,Rabat,Normal,Male,Health and beauty,54.76,7,402.49,03/10/2019,Cash,5.1,Normal,Petit acheteur
+750112-91-7843,A,Casablanca,Normal,Male,Sports and travel,11.69,2,24.55,02/24/2019,Credit card,9.2,Normal,Petit acheteur
+750113-65-2734,B,Rabat,Member,Female,Health and beauty,96.95,3,305.39,02/28/2019,Credit card,8.8,Normal,Petit acheteur
+750114-75-2868,A,Casablanca,Normal,Female,Food and beverages,17.08,5,89.67,02/12/2019,Ewallet,8.5,Normal,Petit acheteur
+750115-87-3504,C,Marrakech,Member,Female,Home and lifestyle,75.46,3,237.7,02/02/2019,Ewallet,5.4,Normal,Petit acheteur
+750116-91-6295,C,Marrakech,Member,Male,Fashion accessories,54.47,10,571.94,03/29/2019,Cash,8.6,Normal,Acheteur moyen
+750117-74-2215,C,Marrakech,Normal,Male,Sports and travel,16.15,8,135.66,03/17/2019,Cash,7.8,Normal,Petit acheteur
+750118-59-8581,B,Rabat,Normal,Female,Health and beauty,15.12,5,79.38,03/20/2019,Ewallet,4.5,Normal,Petit acheteur
+750119-23-6626,C,Marrakech,Member,Female,Food and beverages,68.66,6,432.56,01/20/2019,Credit card,7.6,Normal,Acheteur moyen
+750120-56-7108,C,Marrakech,Member,Male,Health and beauty,32.29,8,271.24,03/08/2019,Credit card,9.9,Normal,Petit acheteur
+750121-22-7333,B,Rabat,Normal,Female,Home and lifestyle,71.09,1,74.64,02/12/2019,Credit card,8.7,Normal,Petit acheteur
+750122-26-2388,B,Rabat,Normal,Male,Home and lifestyle,17.33,3,54.59,03/25/2019,Cash,9.5,Normal,Petit acheteur
+750123-12-6940,B,Rabat,Normal,Female,Electronic accessories,70.3,9,664.33,02/24/2019,Credit card,4.6,Normal,Acheteur moyen
+750124-22-9317,B,Rabat,Member,Male,Home and lifestyle,95.28,8,800.35,01/20/2019,Ewallet,5.2,Normal,Acheteur moyen
+750125-31-8170,C,Marrakech,Member,Female,Food and beverages,21.79,7,160.16,03/30/2019,Ewallet,4.9,Normal,Petit acheteur
+750126-40-6070,A,Casablanca,Normal,Female,Fashion accessories,74.76,8,627.98,02/27/2019,Credit card,7.7,Normal,Acheteur moyen
+750127-63-3655,B,Rabat,Member,Female,Fashion accessories,95.23,8,799.93,02/18/2019,Cash,6.8,Normal,Acheteur moyen
+750128-20-3626,A,Casablanca,Member,Female,Health and beauty,67.7,6,426.51,03/08/2019,Ewallet,7.3,Normal,Acheteur moyen
+750129-60-9224,B,Rabat,Normal,Male,Sports and travel,18.25,4,76.65,01/04/2019,Cash,8.9,Normal,Petit acheteur
+750130-28-3254,B,Rabat,Member,Female,Health and beauty,43.74,1,45.93,03/25/2019,Ewallet,5.9,Normal,Petit acheteur
+750131-37-3449,A,Casablanca,Normal,Female,Fashion accessories,84.79,8,712.24,01/11/2019,Ewallet,6.7,Normal,Acheteur moyen
+750132-18-2816,C,Marrakech,Normal,Male,Home and lifestyle,31.39,2,65.92,03/23/2019,Cash,4.3,Normal,Petit acheteur
+750133-33-2402,B,Rabat,Member,Male,Fashion accessories,22.92,7,168.46,01/31/2019,Cash,4.0,Normal,Petit acheteur
+750134-59-7116,C,Marrakech,Normal,Male,Food and beverages,58.96,9,557.17,03/02/2019,Cash,7.3,Normal,Acheteur moyen
+750135-55-9945,B,Rabat,Member,Female,Health and beauty,41.03,2,86.16,02/12/2019,Credit card,8.6,Normal,Petit acheteur
+750136-35-1717,B,Rabat,Member,Female,Fashion accessories,53.06,3,167.14,02/28/2019,Ewallet,8.9,Normal,Petit acheteur
+750137-55-1783,A,Casablanca,Member,Female,Home and lifestyle,56.38,9,532.79,03/24/2019,Ewallet,6.8,Normal,Acheteur moyen
+750138-33-9129,C,Marrakech,Normal,Female,Health and beauty,81.93,7,602.19,02/26/2019,Credit card,9.3,Normal,Acheteur moyen
+750139-33-9937,C,Marrakech,Normal,Female,Food and beverages,34.0,2,71.4,02/25/2019,Ewallet,8.4,Normal,Petit acheteur
+750140-66-6759,B,Rabat,Normal,Male,Health and beauty,39.51,5,207.43,02/24/2019,Credit card,5.8,Normal,Petit acheteur
+750141-61-6952,B,Rabat,Member,Female,Food and beverages,99.82,5,524.05,01/10/2019,Ewallet,7.8,Anomalie,Acheteur moyen
+750142-56-7272,C,Marrakech,Member,Male,Electronic accessories,86.37,8,725.51,01/31/2019,Ewallet,4.2,Normal,Acheteur moyen
+750143-56-7521,C,Marrakech,Member,Male,Fashion accessories,50.49,6,318.09,03/15/2019,Ewallet,6.2,Normal,Petit acheteur
+750144-43-8311,B,Rabat,Normal,Male,Health and beauty,12.33,3,38.84,03/13/2019,Cash,7.0,Normal,Petit acheteur
+750145-97-6236,A,Casablanca,Normal,Female,Electronic accessories,21.04,2,44.18,02/26/2019,Credit card,6.7,Normal,Petit acheteur
+750146-56-9335,C,Marrakech,Normal,Male,Food and beverages,58.79,5,308.65,03/31/2019,Credit card,9.1,Normal,Petit acheteur
+750147-80-3126,A,Casablanca,Member,Male,Electronic accessories,31.3,8,262.92,03/15/2019,Credit card,4.2,Normal,Petit acheteur
+750148-50-2215,C,Marrakech,Member,Male,Home and lifestyle,45.83,8,384.97,03/15/2019,Cash,7.2,Normal,Petit acheteur
+750149-17-3034,B,Rabat,Normal,Female,Electronic accessories,89.01,9,841.14,01/17/2019,Ewallet,7.8,Normal,Acheteur moyen
+750150-35-5496,C,Marrakech,Member,Female,Electronic accessories,24.58,4,103.24,02/06/2019,Credit card,6.1,Normal,Petit acheteur
+750151-87-6531,A,Casablanca,Normal,Male,Food and beverages,67.68,10,710.64,01/22/2019,Ewallet,9.6,Normal,Acheteur moyen
+750152-91-1496,C,Marrakech,Member,Male,Health and beauty,14.09,10,147.94,03/15/2019,Ewallet,5.6,Normal,Petit acheteur
+750153-66-7809,B,Rabat,Normal,Female,Sports and travel,32.04,7,235.49,03/30/2019,Ewallet,5.8,Normal,Petit acheteur
+750154-57-9437,B,Rabat,Normal,Male,Home and lifestyle,64.59,6,406.92,02/14/2019,Cash,9.2,Normal,Petit acheteur
+750155-59-7850,C,Marrakech,Member,Female,Electronic accessories,51.98,5,272.89,01/13/2019,Ewallet,6.7,Normal,Petit acheteur
+750156-49-9148,A,Casablanca,Member,Female,Food and beverages,74.89,4,314.54,03/07/2019,Cash,8.6,Normal,Petit acheteur
+750157-73-8710,A,Casablanca,Member,Female,Food and beverages,51.15,4,214.83,01/07/2019,Cash,5.3,Normal,Petit acheteur
+750158-16-4189,B,Rabat,Member,Male,Sports and travel,22.05,5,115.76,02/16/2019,Cash,8.4,Normal,Petit acheteur
+750159-26-2584,B,Rabat,Normal,Male,Sports and travel,55.38,9,523.34,03/29/2019,Credit card,5.7,Normal,Acheteur moyen
+750160-15-1637,B,Rabat,Normal,Female,Food and beverages,94.5,3,297.68,02/21/2019,Credit card,5.2,Normal,Petit acheteur
+750161-30-7438,A,Casablanca,Normal,Female,Food and beverages,51.12,10,536.76,02/11/2019,Ewallet,9.4,Normal,Acheteur moyen
+750162-12-7035,C,Marrakech,Normal,Female,Food and beverages,84.54,9,798.9,02/08/2019,Credit card,6.9,Normal,Acheteur moyen
+750163-39-1841,B,Rabat,Member,Female,Food and beverages,37.69,1,39.57,03/25/2019,Cash,7.6,Normal,Petit acheteur
+750164-14-2800,C,Marrakech,Normal,Male,Food and beverages,66.61,10,699.4,01/19/2019,Cash,8.6,Normal,Acheteur moyen
+750165-70-2020,A,Casablanca,Member,Female,Home and lifestyle,47.69,7,350.52,03/06/2019,Cash,8.1,Normal,Petit acheteur
+750166-78-6608,C,Marrakech,Member,Male,Food and beverages,39.25,8,329.7,01/23/2019,Cash,7.2,Normal,Petit acheteur
+750167-46-4396,C,Marrakech,Normal,Female,Food and beverages,53.57,4,224.99,01/29/2019,Cash,5.7,Normal,Petit acheteur
+750168-60-6654,C,Marrakech,Normal,Female,Sports and travel,41.39,5,217.3,03/28/2019,Credit card,5.7,Normal,Petit acheteur
+750169-71-4505,A,Casablanca,Normal,Male,Home and lifestyle,95.97,2,201.54,03/25/2019,Cash,6.1,Normal,Petit acheteur
+750170-91-4814,A,Casablanca,Normal,Female,Electronic accessories,19.83,10,208.21,03/27/2019,Ewallet,5.4,Normal,Petit acheteur
+750171-30-7666,A,Casablanca,Member,Female,Home and lifestyle,74.56,2,156.58,01/01/2019,Ewallet,8.1,Normal,Petit acheteur
+750172-83-4804,C,Marrakech,Normal,Female,Fashion accessories,27.95,5,146.74,01/08/2019,Credit card,5.9,Normal,Petit acheteur
+750173-47-1613,C,Marrakech,Member,Male,Sports and travel,89.39,3,281.58,02/20/2019,Ewallet,9.6,Normal,Petit acheteur
+750174-34-2845,A,Casablanca,Normal,Male,Home and lifestyle,35.61,9,336.51,03/06/2019,Ewallet,7.1,Normal,Petit acheteur
+750175-34-3875,B,Rabat,Member,Female,Fashion accessories,33.15,3,104.42,02/07/2019,Cash,4.1,Normal,Petit acheteur
+750176-41-1111,C,Marrakech,Normal,Female,Food and beverages,39.51,7,290.4,01/18/2019,Ewallet,8.0,Normal,Petit acheteur
+750177-93-6890,B,Rabat,Normal,Male,Sports and travel,77.83,6,490.33,03/15/2019,Credit card,5.8,Normal,Acheteur moyen
+750178-25-5833,C,Marrakech,Member,Male,Fashion accessories,20.64,5,108.36,03/06/2019,Credit card,5.0,Normal,Petit acheteur
+750179-80-8714,B,Rabat,Member,Male,Electronic accessories,53.03,8,445.45,02/17/2019,Credit card,8.5,Normal,Acheteur moyen
+750180-82-2838,C,Marrakech,Member,Male,Fashion accessories,77.92,2,163.63,02/16/2019,Credit card,7.2,Normal,Petit acheteur
+750181-21-9361,A,Casablanca,Member,Male,Electronic accessories,39.53,9,373.56,01/27/2019,Credit card,6.7,Normal,Petit acheteur
+750182-49-1356,B,Rabat,Member,Female,Electronic accessories,56.19,8,472.0,03/01/2019,Credit card,7.4,Normal,Acheteur moyen
+750183-17-2130,B,Rabat,Normal,Male,Fashion accessories,29.61,2,62.18,03/31/2019,Cash,4.3,Normal,Petit acheteur
+750184-58-8348,B,Rabat,Member,Female,Sports and travel,26.2,3,82.53,03/24/2019,Credit card,8.6,Normal,Petit acheteur
+750185-60-9664,B,Rabat,Normal,Male,Fashion accessories,96.76,9,914.38,01/16/2019,Cash,4.8,Normal,Acheteur moyen
+750186-39-5055,A,Casablanca,Member,Male,Health and beauty,98.05,8,823.62,02/24/2019,Credit card,8.0,Normal,Acheteur moyen
+750187-12-4943,B,Rabat,Normal,Male,Home and lifestyle,26.96,2,56.62,02/23/2019,Credit card,4.2,Normal,Petit acheteur
+750188-66-4839,A,Casablanca,Member,Male,Food and beverages,13.02,10,136.71,02/01/2019,Ewallet,8.0,Normal,Petit acheteur
+750189-86-6253,C,Marrakech,Member,Male,Electronic accessories,55.35,5,290.59,03/15/2019,Credit card,5.4,Normal,Petit acheteur
+750190-32-7999,A,Casablanca,Normal,Male,Fashion accessories,56.91,7,418.29,03/13/2019,Ewallet,5.8,Normal,Acheteur moyen
+750191-29-5913,C,Marrakech,Normal,Male,Home and lifestyle,94.73,7,696.27,03/31/2019,Cash,8.7,Normal,Acheteur moyen
+750192-62-7824,B,Rabat,Member,Female,Electronic accessories,86.43,5,453.76,03/01/2019,Ewallet,9.1,Normal,Acheteur moyen
+750193-34-1844,C,Marrakech,Member,Female,Electronic accessories,32.95,6,207.59,02/17/2019,Cash,7.9,Normal,Petit acheteur
+750194-52-5967,B,Rabat,Normal,Male,Health and beauty,26.93,10,282.76,01/28/2019,Credit card,8.3,Normal,Petit acheteur
+750195-40-6269,A,Casablanca,Member,Male,Fashion accessories,20.56,8,172.7,03/19/2019,Credit card,9.5,Normal,Petit acheteur
+750196-70-6246,B,Rabat,Normal,Female,Food and beverages,68.38,5,359.0,03/05/2019,Credit card,5.6,Normal,Petit acheteur
+750197-84-7841,A,Casablanca,Normal,Female,Sports and travel,14.11,4,59.26,02/03/2019,Ewallet,8.4,Normal,Petit acheteur
+750198-53-5216,B,Rabat,Member,Male,Home and lifestyle,30.7,10,322.35,03/12/2019,Cash,9.0,Normal,Petit acheteur
+750199-79-1962,B,Rabat,Normal,Female,Electronic accessories,75.94,6,478.42,03/11/2019,Credit card,5.0,Normal,Acheteur moyen
+750200-29-1149,C,Marrakech,Member,Male,Fashion accessories,14.37,1,15.09,01/30/2019,Credit card,6.5,Anomalie,Petit acheteur
+750201-78-7739,A,Casablanca,Normal,Female,Health and beauty,65.6,10,688.8,03/04/2019,Credit card,9.5,Normal,Acheteur moyen
+750202-32-2753,A,Casablanca,Member,Female,Food and beverages,97.96,1,102.86,03/28/2019,Credit card,7.0,Anomalie,Petit acheteur
+750203-61-8520,A,Casablanca,Member,Male,Electronic accessories,65.77,5,345.29,02/20/2019,Cash,8.9,Normal,Petit acheteur
+750204-58-7179,C,Marrakech,Member,Male,Home and lifestyle,71.56,2,150.28,01/05/2019,Credit card,7.9,Normal,Petit acheteur
+750205-22-9653,C,Marrakech,Normal,Male,Fashion accessories,10.85,3,34.18,03/24/2019,Cash,4.5,Normal,Petit acheteur
+750206-79-1539,A,Casablanca,Member,Male,Fashion accessories,89.87,8,754.91,03/29/2019,Ewallet,5.6,Normal,Acheteur moyen
+750207-82-7375,A,Casablanca,Normal,Male,Electronic accessories,62.83,7,461.8,01/21/2019,Cash,9.6,Normal,Acheteur moyen
+750208-39-2245,C,Marrakech,Normal,Female,Fashion accessories,22.59,2,47.44,01/07/2019,Cash,7.0,Normal,Petit acheteur
+750209-33-7227,B,Rabat,Normal,Female,Health and beauty,67.06,8,563.3,03/12/2019,Cash,6.9,Normal,Acheteur moyen
+750210-59-6188,A,Casablanca,Normal,Male,Fashion accessories,16.61,5,87.2,03/23/2019,Credit card,4.9,Normal,Petit acheteur
+750211-33-8061,B,Rabat,Member,Male,Health and beauty,94.86,8,796.82,01/14/2019,Cash,6.2,Normal,Acheteur moyen
+750212-47-7779,B,Rabat,Normal,Male,Health and beauty,18.06,9,170.67,02/11/2019,Credit card,4.6,Normal,Petit acheteur
+750213-28-2036,B,Rabat,Member,Male,Food and beverages,56.89,92,5495.57,02/08/2019,Cash,5.0,Anomalie,Gros acheteur
+750214-88-4203,A,Casablanca,Normal,Female,Sports and travel,36.97,2,77.64,03/22/2019,Ewallet,6.2,Normal,Petit acheteur
+750215-52-8055,B,Rabat,Member,Male,Home and lifestyle,10.61,7,77.98,02/18/2019,Credit card,6.0,Normal,Petit acheteur
+750216-98-9044,C,Marrakech,Member,Female,Home and lifestyle,64.28,4,269.98,02/20/2019,Ewallet,6.9,Normal,Petit acheteur
+750217-33-1440,C,Marrakech,Member,Female,Sports and travel,35.22,7,258.87,01/26/2019,Credit card,6.2,Normal,Petit acheteur
+750218-91-5961,C,Marrakech,Normal,Male,Sports and travel,81.78,2,171.74,03/28/2019,Cash,8.9,Normal,Petit acheteur
+750219-78-9300,A,Casablanca,Normal,Male,Fashion accessories,48.08,7,353.39,03/03/2019,Credit card,4.4,Normal,Petit acheteur
+750220-95-6816,C,Marrakech,Normal,Male,Home and lifestyle,73.14,9,691.17,01/14/2019,Ewallet,7.6,Normal,Acheteur moyen
+750221-76-4621,A,Casablanca,Member,Female,Home and lifestyle,96.9,7,712.22,02/03/2019,Ewallet,4.6,Normal,Acheteur moyen
+750222-23-5840,B,Rabat,Normal,Female,Sports and travel,79.5,10,834.75,02/14/2019,Ewallet,8.1,Normal,Acheteur moyen
+750223-70-2599,B,Rabat,Member,Male,Fashion accessories,22.75,5,119.44,03/08/2019,Ewallet,6.1,Normal,Petit acheteur
+750224-31-4996,B,Rabat,Normal,Female,Health and beauty,37.02,2,77.74,03/24/2019,Cash,4.1,Normal,Petit acheteur
+750225-91-8080,C,Marrakech,Member,Male,Home and lifestyle,60.38,8,507.19,03/22/2019,Cash,5.4,Normal,Acheteur moyen
+750226-18-2667,B,Rabat,Member,Male,Sports and travel,63.29,7,465.18,01/27/2019,Ewallet,4.0,Normal,Acheteur moyen
+750227-86-7367,C,Marrakech,Member,Female,Home and lifestyle,27.73,2,58.23,03/09/2019,Cash,5.6,Normal,Petit acheteur
+750228-20-3194,C,Marrakech,Normal,Male,Home and lifestyle,41.68,8,350.11,02/08/2019,Credit card,7.7,Normal,Petit acheteur
+750229-27-7286,B,Rabat,Member,Male,Home and lifestyle,20.52,6,129.28,02/19/2019,Credit card,8.2,Normal,Petit acheteur
+750230-50-8389,B,Rabat,Member,Female,Fashion accessories,58.36,3,183.83,02/06/2019,Cash,7.3,Normal,Petit acheteur
+750231-62-9056,C,Marrakech,Member,Female,Health and beauty,53.61,4,225.16,03/06/2019,Credit card,8.9,Normal,Petit acheteur
+750232-38-9808,B,Rabat,Normal,Female,Electronic accessories,17.44,1,18.31,02/07/2019,Ewallet,8.8,Normal,Petit acheteur
+750233-79-7010,B,Rabat,Member,Female,Food and beverages,76.82,8,645.29,03/15/2019,Ewallet,7.3,Normal,Acheteur moyen
+750234-14-8368,C,Marrakech,Member,Female,Food and beverages,29.67,7,218.07,02/01/2019,Credit card,4.6,Normal,Petit acheteur
+750235-54-8015,B,Rabat,Normal,Male,Sports and travel,87.87,2,184.53,01/27/2019,Ewallet,8.7,Normal,Petit acheteur
+750236-51-5794,A,Casablanca,Member,Male,Electronic accessories,82.48,10,866.04,03/18/2019,Cash,6.1,Normal,Acheteur moyen
+750237-26-5090,B,Rabat,Normal,Male,Electronic accessories,96.64,7,710.3,03/25/2019,Cash,9.5,Normal,Acheteur moyen
+750238-67-2237,A,Casablanca,Normal,Male,Fashion accessories,45.34,3,142.82,03/22/2019,Cash,7.5,Normal,Petit acheteur
+750239-21-8511,C,Marrakech,Member,Female,Food and beverages,77.47,6,488.06,02/11/2019,Cash,6.7,Normal,Acheteur moyen
+750240-46-6533,C,Marrakech,Normal,Male,Food and beverages,45.79,7,336.56,02/04/2019,Cash,8.9,Normal,Petit acheteur
+750241-30-8230,C,Marrakech,Member,Female,Home and lifestyle,90.46,1,94.98,02/28/2019,Credit card,4.3,Anomalie,Petit acheteur
+750242-93-6905,B,Rabat,Member,Female,Electronic accessories,99.6,3,313.74,01/21/2019,Cash,9.3,Anomalie,Petit acheteur
+750243-93-2494,B,Rabat,Member,Female,Fashion accessories,91.33,3,287.69,02/09/2019,Credit card,4.3,Normal,Petit acheteur
+750244-11-6629,C,Marrakech,Member,Male,Electronic accessories,52.91,3,166.67,03/29/2019,Credit card,7.6,Normal,Petit acheteur
+750245-48-3246,A,Casablanca,Normal,Male,Sports and travel,16.37,7,120.32,01/14/2019,Ewallet,4.5,Normal,Petit acheteur
+750246-37-3480,B,Rabat,Member,Male,Health and beauty,57.74,1,60.63,02/26/2019,Ewallet,7.7,Normal,Petit acheteur
+750247-50-3290,B,Rabat,Normal,Male,Health and beauty,90.68,3,285.64,02/19/2019,Credit card,8.5,Normal,Petit acheteur
+750248-94-5942,A,Casablanca,Normal,Male,Electronic accessories,59.8,10,627.9,03/30/2019,Cash,8.3,Normal,Acheteur moyen
+750249-86-2163,A,Casablanca,Member,Female,Home and lifestyle,68.15,4,286.23,01/31/2019,Ewallet,7.0,Normal,Petit acheteur
+750250-70-2195,C,Marrakech,Member,Female,Home and lifestyle,21.88,10,229.74,03/29/2019,Credit card,6.5,Normal,Petit acheteur
+750251-74-7806,A,Casablanca,Member,Male,Home and lifestyle,29.41,1,30.88,03/06/2019,Cash,9.7,Normal,Petit acheteur
+750252-36-3545,B,Rabat,Normal,Male,Fashion accessories,58.29,10,612.04,02/09/2019,Ewallet,4.9,Normal,Acheteur moyen
+750253-21-8118,C,Marrakech,Normal,Female,Food and beverages,67.08,2,140.87,01/31/2019,Cash,5.9,Normal,Petit acheteur
+750254-73-6680,A,Casablanca,Normal,Male,Home and lifestyle,69.94,3,220.31,01/18/2019,Credit card,4.7,Normal,Petit acheteur
+750255-64-5456,C,Marrakech,Normal,Male,Home and lifestyle,21.42,5,112.46,01/04/2019,Ewallet,8.4,Normal,Petit acheteur
+750256-82-3734,C,Marrakech,Member,Female,Fashion accessories,97.74,2,205.25,02/16/2019,Credit card,7.0,Normal,Petit acheteur
+750257-11-5006,B,Rabat,Member,Female,Health and beauty,90.48,2,190.01,01/01/2019,Credit card,5.4,Normal,Petit acheteur
+750258-38-6272,A,Casablanca,Normal,Female,Sports and travel,92.81,3,292.35,03/12/2019,Ewallet,9.6,Normal,Petit acheteur
+750259-38-9450,A,Casablanca,Normal,Female,Home and lifestyle,84.33,10,885.46,03/28/2019,Credit card,6.2,Normal,Acheteur moyen
+750260-35-5777,A,Casablanca,Normal,Male,Sports and travel,87.93,5,461.63,02/28/2019,Credit card,6.0,Normal,Acheteur moyen
+750261-10-7718,C,Marrakech,Normal,Male,Sports and travel,43.14,8,362.38,03/11/2019,Ewallet,10.0,Normal,Petit acheteur
+750262-49-2703,A,Casablanca,Member,Female,Fashion accessories,85.55,1,89.83,03/26/2019,Ewallet,9.7,Normal,Petit acheteur
+750263-76-7767,A,Casablanca,Member,Female,Sports and travel,96.5,3,303.98,01/06/2019,Ewallet,8.3,Normal,Petit acheteur
+750264-82-2020,C,Marrakech,Normal,Female,Fashion accessories,17.64,2,37.04,02/20/2019,Credit card,7.0,Normal,Petit acheteur
+750265-67-5455,B,Rabat,Member,Male,Home and lifestyle,33.49,6,210.99,03/31/2019,Cash,9.6,Normal,Petit acheteur
+750266-50-7660,A,Casablanca,Member,Male,Electronic accessories,80.19,10,842.0,01/22/2019,Ewallet,4.7,Normal,Acheteur moyen
+750267-99-1660,A,Casablanca,Normal,Male,Sports and travel,37.74,5,198.14,01/21/2019,Ewallet,9.1,Normal,Petit acheteur
+750268-32-1509,A,Casablanca,Normal,Male,Health and beauty,74.0,6,466.2,03/28/2019,Ewallet,6.4,Normal,Acheteur moyen
+750269-61-7098,B,Rabat,Normal,Male,Health and beauty,51.58,3,162.48,01/29/2019,Ewallet,4.7,Normal,Petit acheteur
+750270-52-3007,C,Marrakech,Member,Female,Health and beauty,11.96,2,25.12,02/26/2019,Credit card,5.2,Normal,Petit acheteur
+750271-97-7990,A,Casablanca,Normal,Male,Electronic accessories,93.16,7,684.73,03/05/2019,Cash,8.9,Normal,Acheteur moyen
+750272-41-5835,A,Casablanca,Normal,Male,Electronic accessories,34.75,8,291.9,03/20/2019,Ewallet,9.3,Normal,Petit acheteur
+750273-90-9907,B,Rabat,Normal,Female,Health and beauty,17.89,7,131.49,03/24/2019,Ewallet,4.8,Normal,Petit acheteur
+750274-44-3946,A,Casablanca,Normal,Female,Sports and travel,59.0,8,495.6,03/06/2019,Credit card,6.1,Normal,Acheteur moyen
+750275-84-4813,A,Casablanca,Normal,Male,Health and beauty,90.61,5,475.7,03/09/2019,Cash,4.4,Normal,Acheteur moyen
+750276-59-6813,A,Casablanca,Member,Male,Fashion accessories,31.7,9,299.56,01/08/2019,Credit card,8.9,Normal,Petit acheteur
+750277-82-3328,A,Casablanca,Member,Male,Food and beverages,38.62,6,243.31,03/31/2019,Ewallet,9.5,Normal,Petit acheteur
+750278-12-9625,C,Marrakech,Member,Female,Food and beverages,37.81,8,317.6,01/30/2019,Ewallet,4.2,Normal,Petit acheteur
+750279-28-3320,B,Rabat,Member,Female,Food and beverages,28.13,3,88.61,02/11/2019,Ewallet,6.0,Normal,Petit acheteur
+750280-30-8157,A,Casablanca,Normal,Male,Home and lifestyle,73.4,7,539.49,02/08/2019,Cash,7.5,Normal,Acheteur moyen
+750281-85-3872,C,Marrakech,Normal,Female,Electronic accessories,73.64,9,695.9,02/15/2019,Credit card,8.2,Normal,Acheteur moyen
+750282-33-6213,B,Rabat,Normal,Female,Electronic accessories,25.99,1,27.29,02/20/2019,Credit card,9.7,Normal,Petit acheteur
+750283-21-6500,C,Marrakech,Member,Male,Sports and travel,22.66,2,47.59,01/22/2019,Cash,5.4,Normal,Petit acheteur
+750284-66-7875,B,Rabat,Member,Female,Electronic accessories,32.46,2,68.17,01/01/2019,Ewallet,6.1,Normal,Petit acheteur
+750285-97-4695,A,Casablanca,Normal,Female,Sports and travel,41.61,7,305.83,03/15/2019,Cash,4.6,Normal,Petit acheteur
+750286-58-3636,A,Casablanca,Normal,Male,Health and beauty,36.54,6,230.2,01/10/2019,Ewallet,5.6,Normal,Petit acheteur
+750287-31-8113,C,Marrakech,Member,Male,Home and lifestyle,63.46,10,666.33,01/04/2019,Credit card,9.4,Normal,Acheteur moyen
+750288-46-5872,A,Casablanca,Member,Male,Home and lifestyle,28.5,4,119.7,03/11/2019,Credit card,6.5,Normal,Petit acheteur
+750289-47-8869,A,Casablanca,Member,Male,Sports and travel,61.45,8,516.18,01/01/2019,Cash,4.9,Normal,Acheteur moyen
+750290-60-8715,A,Casablanca,Member,Male,Electronic accessories,25.37,5,133.19,01/15/2019,Cash,9.9,Normal,Petit acheteur
+750291-15-5313,B,Rabat,Normal,Male,Fashion accessories,58.97,3,185.76,02/17/2019,Cash,6.2,Normal,Petit acheteur
+750292-95-6632,B,Rabat,Normal,Female,Electronic accessories,85.33,10,895.96,03/27/2019,Credit card,4.4,Normal,Acheteur moyen
+750293-70-4860,C,Marrakech,Normal,Male,Food and beverages,15.49,7,113.85,03/10/2019,Cash,8.9,Normal,Petit acheteur
+750294-28-2970,B,Rabat,Normal,Male,Sports and travel,91.24,1,95.8,03/15/2019,Credit card,7.0,Anomalie,Petit acheteur
+750295-90-3422,B,Rabat,Member,Male,Electronic accessories,82.75,3,260.66,03/29/2019,Ewallet,4.3,Normal,Petit acheteur
+750296-45-9514,C,Marrakech,Normal,Female,Fashion accessories,92.27,2,193.77,02/20/2019,Credit card,4.5,Normal,Petit acheteur
+750297-22-5687,B,Rabat,Member,Female,Health and beauty,47.3,3,148.99,01/13/2019,Credit card,7.4,Normal,Petit acheteur
+750298-61-3356,C,Marrakech,Normal,Female,Home and lifestyle,44.47,8,373.55,01/05/2019,Cash,7.4,Normal,Petit acheteur
+750299-57-1331,C,Marrakech,Normal,Male,Sports and travel,90.05,6,567.31,03/02/2019,Ewallet,8.1,Normal,Acheteur moyen
+750300-66-6257,B,Rabat,Normal,Female,Home and lifestyle,85.85,2,180.28,01/18/2019,Ewallet,9.8,Normal,Petit acheteur
+750301-30-2075,B,Rabat,Normal,Male,Electronic accessories,49.75,7,365.66,02/17/2019,Credit card,8.4,Normal,Petit acheteur
+750302-68-1828,B,Rabat,Normal,Male,Food and beverages,89.13,1,93.59,01/08/2019,Ewallet,5.0,Anomalie,Petit acheteur
+750303-57-9008,B,Rabat,Member,Female,Home and lifestyle,84.11,9,794.84,03/29/2019,Ewallet,6.4,Normal,Acheteur moyen
+750304-13-7333,C,Marrakech,Normal,Male,Sports and travel,62.81,6,395.7,03/30/2019,Cash,6.1,Normal,Petit acheteur
+750305-97-1145,A,Casablanca,Member,Male,Electronic accessories,68.26,4,286.69,03/07/2019,Cash,5.6,Normal,Petit acheteur
+750306-58-6713,B,Rabat,Member,Male,Food and beverages,82.07,4,344.69,03/24/2019,Cash,5.5,Normal,Petit acheteur
+750307-75-7131,B,Rabat,Normal,Male,Sports and travel,37.19,9,351.45,03/16/2019,Cash,8.9,Normal,Petit acheteur
+750308-45-5278,C,Marrakech,Normal,Female,Fashion accessories,19.73,2,41.43,03/23/2019,Cash,6.0,Normal,Petit acheteur
+750309-97-3292,C,Marrakech,Normal,Male,Electronic accessories,56.55,4,237.51,02/21/2019,Credit card,9.4,Normal,Petit acheteur
+750310-83-4111,C,Marrakech,Member,Female,Home and lifestyle,33.35,7,245.12,01/05/2019,Credit card,6.4,Normal,Petit acheteur
+750311-22-8713,B,Rabat,Member,Female,Fashion accessories,42.26,5,221.86,03/13/2019,Credit card,9.1,Normal,Petit acheteur
+750312-52-7089,A,Casablanca,Normal,Male,Fashion accessories,90.95,2,191.0,02/09/2019,Ewallet,5.3,Normal,Petit acheteur
+750313-34-9199,B,Rabat,Normal,Female,Health and beauty,52.34,10,549.57,01/10/2019,Credit card,7.5,Normal,Acheteur moyen
+750314-68-3346,A,Casablanca,Normal,Female,Sports and travel,14.87,3,46.84,02/13/2019,Ewallet,4.8,Normal,Petit acheteur
+750315-36-3762,B,Rabat,Member,Male,Sports and travel,39.93,3,125.78,01/01/2019,Ewallet,5.9,Normal,Petit acheteur
+750316-10-1618,C,Marrakech,Member,Female,Health and beauty,21.65,7,159.13,02/24/2019,Cash,7.8,Normal,Petit acheteur
+750317-41-4707,C,Marrakech,Member,Female,Health and beauty,90.27,9,853.05,01/01/2019,Credit card,5.1,Normal,Acheteur moyen
+750318-47-8469,C,Marrakech,Normal,Female,Electronic accessories,19.24,9,181.82,01/09/2019,Ewallet,7.5,Normal,Petit acheteur
+750319-61-1313,C,Marrakech,Normal,Female,Fashion accessories,99.58,6,627.35,02/15/2019,Cash,10.0,Anomalie,Acheteur moyen
+750320-14-7147,A,Casablanca,Member,Male,Electronic accessories,76.06,10,798.63,02/16/2019,Ewallet,7.0,Normal,Acheteur moyen
+750321-66-7230,C,Marrakech,Normal,Male,Food and beverages,99.51,2,208.97,01/07/2019,Ewallet,7.9,Anomalie,Petit acheteur
+750322-44-3247,A,Casablanca,Normal,Female,Fashion accessories,23.78,1,24.97,01/13/2019,Credit card,5.8,Normal,Petit acheteur
+750323-76-4304,B,Rabat,Member,Male,Home and lifestyle,20.26,2,42.55,01/26/2019,Credit card,7.0,Normal,Petit acheteur
+750324-10-1208,B,Rabat,Normal,Female,Electronic accessories,13.55,8,113.82,03/03/2019,Credit card,9.5,Normal,Petit acheteur
+750325-42-4787,C,Marrakech,Member,Male,Food and beverages,70.21,3,221.16,01/10/2019,Credit card,9.7,Normal,Petit acheteur
+750326-64-2898,B,Rabat,Normal,Female,Sports and travel,14.51,3,45.71,02/16/2019,Cash,9.2,Normal,Petit acheteur
+750327-21-7105,A,Casablanca,Member,Male,Electronic accessories,69.7,3,219.56,03/21/2019,Cash,6.0,Normal,Petit acheteur
+750328-63-3732,B,Rabat,Member,Male,Sports and travel,46.02,8,386.57,03/30/2019,Cash,5.6,Normal,Petit acheteur
+750329-88-7221,A,Casablanca,Member,Male,Electronic accessories,19.33,10,202.96,03/28/2019,Credit card,6.9,Normal,Petit acheteur
+750330-93-6148,B,Rabat,Member,Male,Sports and travel,92.83,2,194.94,01/06/2019,Cash,9.3,Normal,Petit acheteur
+750331-94-7305,A,Casablanca,Member,Female,Food and beverages,57.07,10,599.24,02/01/2019,Credit card,4.6,Normal,Acheteur moyen
+750332-72-6253,A,Casablanca,Member,Male,Fashion accessories,94.08,9,889.06,01/22/2019,Cash,9.1,Normal,Acheteur moyen
+750333-66-8341,A,Casablanca,Normal,Female,Health and beauty,55.62,9,525.61,01/31/2019,Cash,7.9,Normal,Acheteur moyen
+750334-14-9996,A,Casablanca,Normal,Female,Home and lifestyle,20.68,8,173.71,01/14/2019,Ewallet,8.5,Normal,Petit acheteur
+750335-68-6439,A,Casablanca,Member,Female,Food and beverages,60.6,8,509.04,01/07/2019,Cash,9.7,Normal,Acheteur moyen
+750336-91-5783,C,Marrakech,Normal,Female,Fashion accessories,50.72,2,106.51,01/01/2019,Ewallet,8.6,Normal,Petit acheteur
+750337-88-4209,C,Marrakech,Normal,Male,Health and beauty,90.71,8,761.96,02/22/2019,Credit card,4.8,Normal,Acheteur moyen
+750338-91-3018,A,Casablanca,Member,Female,Electronic accessories,51.13,4,214.75,02/23/2019,Ewallet,8.3,Normal,Petit acheteur
+750339-75-3903,B,Rabat,Normal,Male,Sports and travel,10.39,1,10.91,03/16/2019,Cash,7.3,Anomalie,Petit acheteur
+750340-87-5067,C,Marrakech,Member,Male,Health and beauty,44.86,10,471.03,03/06/2019,Cash,7.6,Anomalie,Acheteur moyen
+750341-99-9975,B,Rabat,Normal,Female,Home and lifestyle,50.75,3,159.86,03/31/2019,Credit card,4.8,Normal,Petit acheteur
+750342-74-9888,B,Rabat,Member,Male,Electronic accessories,66.17,5,347.39,01/17/2019,Credit card,8.1,Normal,Petit acheteur
+750343-78-5684,C,Marrakech,Normal,Male,Home and lifestyle,60.6,10,636.3,02/23/2019,Credit card,7.4,Normal,Acheteur moyen
+750344-97-5105,B,Rabat,Member,Male,Health and beauty,44.27,1,46.48,02/04/2019,Ewallet,8.0,Normal,Petit acheteur
+750345-96-4675,A,Casablanca,Member,Female,Electronic accessories,77.82,1,81.71,01/14/2019,Cash,6.2,Normal,Petit acheteur
+750346-97-6122,C,Marrakech,Normal,Male,Food and beverages,80.58,5,423.04,02/18/2019,Ewallet,8.2,Normal,Acheteur moyen
+750347-92-7025,C,Marrakech,Member,Male,Fashion accessories,32.62,10,342.51,01/29/2019,Cash,9.2,Normal,Petit acheteur
+750348-15-8020,C,Marrakech,Member,Male,Home and lifestyle,50.39,2,105.82,03/07/2019,Ewallet,5.1,Normal,Petit acheteur
+750349-51-1833,B,Rabat,Normal,Male,Electronic accessories,62.55,5,328.39,01/20/2019,Cash,4.0,Normal,Petit acheteur
+750350-76-2117,C,Marrakech,Normal,Female,Food and beverages,59.51,2,124.97,03/09/2019,Cash,8.7,Normal,Petit acheteur
+750351-56-5809,C,Marrakech,Member,Female,Food and beverages,58.33,2,122.49,03/26/2019,Ewallet,6.1,Normal,Petit acheteur
+750352-15-6258,A,Casablanca,Normal,Male,Health and beauty,70.2,8,589.68,03/20/2019,Credit card,5.4,Normal,Acheteur moyen
+750353-75-8300,B,Rabat,Member,Female,Home and lifestyle,58.62,5,307.75,02/17/2019,Credit card,4.1,Normal,Petit acheteur
+750354-10-2072,B,Rabat,Member,Female,Fashion accessories,27.32,9,258.17,01/22/2019,Ewallet,4.5,Normal,Petit acheteur
+750355-68-6434,A,Casablanca,Member,Female,Health and beauty,28.5,7,209.47,03/29/2019,Ewallet,7.9,Normal,Petit acheteur
+750356-59-8391,A,Casablanca,Member,Male,Health and beauty,26.02,5,136.6,01/30/2019,Credit card,7.3,Normal,Petit acheteur
+750357-84-1745,C,Marrakech,Normal,Female,Home and lifestyle,11.52,2,24.19,03/21/2019,Credit card,7.2,Normal,Petit acheteur
+750358-94-1504,C,Marrakech,Member,Female,Food and beverages,19.55,5,102.64,02/26/2019,Cash,7.6,Normal,Petit acheteur
+750359-92-7113,B,Rabat,Member,Male,Electronic accessories,77.2,9,729.54,01/19/2019,Credit card,5.8,Normal,Acheteur moyen
+750360-54-4469,A,Casablanca,Member,Male,Health and beauty,10.45,10,109.72,01/11/2019,Credit card,6.4,Anomalie,Petit acheteur
+750361-16-9992,B,Rabat,Member,Male,Electronic accessories,29.87,5,156.82,03/27/2019,Ewallet,5.2,Normal,Petit acheteur
+750362-26-4842,B,Rabat,Member,Female,Fashion accessories,16.06,2,33.73,03/04/2019,Credit card,5.2,Normal,Petit acheteur
+750363-82-6971,A,Casablanca,Normal,Male,Electronic accessories,38.6,8,324.24,02/09/2019,Credit card,6.0,Normal,Petit acheteur
+750364-56-3200,B,Rabat,Normal,Male,Health and beauty,38.19,4,160.4,02/25/2019,Credit card,8.3,Normal,Petit acheteur
+750365-20-5597,C,Marrakech,Normal,Female,Sports and travel,50.08,5,262.92,01/23/2019,Ewallet,6.9,Normal,Petit acheteur
+750366-84-7637,A,Casablanca,Member,Female,Fashion accessories,89.76,2,188.5,03/06/2019,Ewallet,8.4,Normal,Petit acheteur
+750367-85-5767,C,Marrakech,Member,Male,Food and beverages,33.45,9,316.1,02/16/2019,Ewallet,6.8,Normal,Petit acheteur
+750368-75-3299,A,Casablanca,Normal,Male,Sports and travel,42.74,1,44.88,03/29/2019,Credit card,8.0,Normal,Petit acheteur
+750369-72-4796,B,Rabat,Member,Male,Food and beverages,95.37,3,300.42,02/15/2019,Cash,8.4,Normal,Petit acheteur
+750370-68-1760,A,Casablanca,Normal,Female,Electronic accessories,13.85,4,58.17,02/19/2019,Cash,7.1,Normal,Petit acheteur
+750371-32-7171,A,Casablanca,Normal,Male,Fashion accessories,97.15,5,510.04,03/16/2019,Cash,9.0,Normal,Acheteur moyen
+750372-55-6653,C,Marrakech,Normal,Female,Food and beverages,68.79,2,144.46,01/29/2019,Cash,7.1,Normal,Petit acheteur
+750373-37-3461,B,Rabat,Normal,Male,Food and beverages,89.37,8,750.71,03/07/2019,Ewallet,5.0,Normal,Acheteur moyen
+750374-96-8844,A,Casablanca,Member,Female,Food and beverages,74.55,2,156.56,02/12/2019,Cash,8.0,Normal,Petit acheteur
+750375-27-9399,B,Rabat,Member,Male,Fashion accessories,84.99,1,89.24,03/15/2019,Ewallet,5.5,Normal,Petit acheteur
+750376-12-5644,A,Casablanca,Member,Male,Electronic accessories,33.24,3,104.71,03/18/2019,Cash,7.1,Normal,Petit acheteur
+750377-84-3979,A,Casablanca,Member,Female,Food and beverages,99.34,8,834.46,03/18/2019,Cash,5.0,Anomalie,Acheteur moyen
+750378-26-2778,C,Marrakech,Normal,Male,Fashion accessories,71.7,8,602.28,01/30/2019,Ewallet,7.6,Normal,Acheteur moyen
+750379-78-9246,A,Casablanca,Member,Female,Electronic accessories,64.49,3,203.14,03/18/2019,Credit card,6.9,Normal,Petit acheteur
+750380-76-7892,A,Casablanca,Member,Female,Fashion accessories,21.73,10,228.17,03/28/2019,Ewallet,7.2,Normal,Petit acheteur
+750381-99-2600,B,Rabat,Member,Female,Electronic accessories,94.45,8,793.38,02/14/2019,Cash,8.7,Normal,Acheteur moyen
+750382-10-1116,B,Rabat,Member,Female,Sports and travel,78.92,2,165.73,02/22/2019,Credit card,5.7,Normal,Petit acheteur
+750383-84-5155,C,Marrakech,Member,Male,Sports and travel,68.9,6,434.07,01/20/2019,Ewallet,6.5,Normal,Acheteur moyen
+750384-32-7065,B,Rabat,Normal,Female,Food and beverages,34.8,7,255.78,03/12/2019,Cash,8.5,Normal,Petit acheteur
+750385-99-3650,C,Marrakech,Normal,Female,Home and lifestyle,61.98,7,455.55,01/16/2019,Credit card,8.4,Normal,Acheteur moyen
+750386-91-1086,A,Casablanca,Member,Female,Home and lifestyle,82.07,10,861.73,01/07/2019,Credit card,8.2,Normal,Acheteur moyen
+750387-59-7564,A,Casablanca,Member,Female,Food and beverages,49.18,2,103.28,01/11/2019,Cash,5.6,Normal,Petit acheteur
+750388-14-9364,C,Marrakech,Normal,Male,Electronic accessories,67.62,8,568.01,03/08/2019,Credit card,4.1,Normal,Acheteur moyen
+750389-61-6785,C,Marrakech,Member,Male,Fashion accessories,13.25,4,55.65,01/12/2019,Ewallet,7.9,Normal,Petit acheteur
+750390-81-6703,C,Marrakech,Normal,Female,Food and beverages,28.03,1,29.43,01/12/2019,Ewallet,8.4,Normal,Petit acheteur
+750391-62-9294,B,Rabat,Normal,Male,Food and beverages,96.67,8,812.03,01/01/2019,Credit card,9.6,Normal,Acheteur moyen
+750392-66-7178,A,Casablanca,Member,Female,Home and lifestyle,95.22,9,899.83,03/15/2019,Credit card,9.7,Normal,Acheteur moyen
+750393-43-2106,C,Marrakech,Normal,Male,Home and lifestyle,96.5,8,810.6,01/04/2019,Credit card,8.1,Normal,Acheteur moyen
+750394-46-2523,B,Rabat,Member,Male,Home and lifestyle,47.11,6,296.79,03/31/2019,Ewallet,7.1,Normal,Petit acheteur
+750395-97-4115,B,Rabat,Normal,Male,Food and beverages,93.82,8,788.09,03/15/2019,Ewallet,5.9,Normal,Acheteur moyen
+750396-29-2747,B,Rabat,Member,Male,Fashion accessories,31.78,5,166.84,02/01/2019,Ewallet,5.2,Normal,Petit acheteur
+750397-73-5501,A,Casablanca,Member,Female,Food and beverages,10.6,9,100.17,02/17/2019,Cash,9.7,Normal,Petit acheteur
+750398-14-9232,B,Rabat,Member,Female,Sports and travel,29.99,10,314.89,02/24/2019,Credit card,4.8,Normal,Petit acheteur
+750399-36-7216,B,Rabat,Normal,Male,Sports and travel,97.88,9,924.97,01/02/2019,Credit card,6.8,Normal,Acheteur moyen
+750400-88-6621,C,Marrakech,Member,Female,Home and lifestyle,65.14,5,341.99,01/31/2019,Cash,5.1,Normal,Petit acheteur
+750401-83-3148,B,Rabat,Member,Female,Sports and travel,28.95,6,182.38,02/05/2019,Cash,6.2,Normal,Petit acheteur
+750402-29-8749,C,Marrakech,Member,Male,Fashion accessories,34.29,4,144.02,01/26/2019,Cash,7.3,Normal,Petit acheteur
+750403-81-1781,A,Casablanca,Member,Female,Sports and travel,22.1,9,208.84,03/04/2019,Cash,7.2,Normal,Petit acheteur
+750404-52-5256,B,Rabat,Member,Male,Health and beauty,29.39,5,154.3,01/13/2019,Credit card,6.9,Normal,Petit acheteur
+750405-83-9821,B,Rabat,Normal,Female,Home and lifestyle,11.78,2,24.74,03/19/2019,Credit card,6.1,Normal,Petit acheteur
+750406-46-8598,A,Casablanca,Normal,Female,Home and lifestyle,70.58,8,592.87,01/11/2019,Cash,8.6,Normal,Acheteur moyen
+750407-19-2296,C,Marrakech,Member,Male,Fashion accessories,82.69,6,520.95,03/15/2019,Credit card,6.5,Normal,Acheteur moyen
+750408-66-6950,A,Casablanca,Normal,Male,Home and lifestyle,38.52,5,202.23,03/24/2019,Credit card,8.3,Normal,Petit acheteur
+750409-99-2311,C,Marrakech,Normal,Female,Electronic accessories,26.55,1,27.88,03/26/2019,Ewallet,4.8,Normal,Petit acheteur
+750410-20-2702,A,Casablanca,Member,Female,Health and beauty,18.6,8,156.24,02/20/2019,Ewallet,7.3,Normal,Petit acheteur
+750411-26-3150,B,Rabat,Member,Male,Fashion accessories,93.83,7,689.65,02/06/2019,Ewallet,5.9,Normal,Acheteur moyen
+750412-66-3213,C,Marrakech,Member,Male,Health and beauty,69.71,6,439.17,03/11/2019,Cash,9.2,Normal,Acheteur moyen
+750413-54-8891,C,Marrakech,Member,Female,Fashion accessories,77.39,10,812.6,03/23/2019,Credit card,6.6,Normal,Acheteur moyen
+750414-27-6634,C,Marrakech,Member,Male,Sports and travel,37.71,7,277.17,01/02/2019,Cash,5.6,Normal,Petit acheteur
+750415-10-9981,B,Rabat,Normal,Male,Fashion accessories,92.98,8,781.03,02/07/2019,Cash,5.8,Normal,Acheteur moyen
+750416-58-4614,B,Rabat,Member,Female,Food and beverages,49.34,4,207.23,03/24/2019,Credit card,5.0,Normal,Petit acheteur
+750417-78-5404,B,Rabat,Member,Female,Fashion accessories,31.56,10,331.38,02/04/2019,Credit card,8.8,Normal,Petit acheteur
+750418-89-9060,B,Rabat,Member,Male,Electronic accessories,22.29,2,46.81,02/27/2019,Credit card,7.8,Normal,Petit acheteur
+750419-66-1134,A,Casablanca,Normal,Male,Electronic accessories,14.47,9,136.74,02/06/2019,Ewallet,4.1,Normal,Petit acheteur
+750420-14-6410,A,Casablanca,Member,Male,Health and beauty,54.42,6,342.85,02/17/2019,Cash,6.5,Normal,Petit acheteur
+750421-58-1206,A,Casablanca,Member,Male,Home and lifestyle,79.8,2,167.58,01/25/2019,Ewallet,7.3,Normal,Petit acheteur
+750422-36-8746,A,Casablanca,Member,Female,Sports and travel,32.24,1,33.85,01/13/2019,Credit card,5.2,Normal,Petit acheteur
+750423-71-5895,B,Rabat,Normal,Female,Electronic accessories,66.62,1,69.95,03/08/2019,Credit card,8.5,Normal,Petit acheteur
+750424-45-2960,A,Casablanca,Normal,Male,Fashion accessories,29.6,2,62.16,02/11/2019,Cash,5.4,Normal,Petit acheteur
+750425-30-9190,B,Rabat,Member,Male,Health and beauty,62.29,8,523.24,02/17/2019,Ewallet,8.1,Normal,Acheteur moyen
+750426-50-6690,A,Casablanca,Normal,Male,Health and beauty,41.99,3,132.27,01/17/2019,Ewallet,8.2,Normal,Petit acheteur
+750427-47-9892,B,Rabat,Member,Male,Fashion accessories,44.0,3,138.6,03/04/2019,Ewallet,5.5,Normal,Petit acheteur
+750428-80-3627,C,Marrakech,Normal,Male,Food and beverages,26.79,6,168.78,02/05/2019,Cash,5.9,Normal,Petit acheteur
+750429-33-1306,A,Casablanca,Member,Female,Home and lifestyle,83.74,9,791.34,03/23/2019,Ewallet,6.2,Normal,Acheteur moyen
+750430-80-3525,C,Marrakech,Normal,Male,Home and lifestyle,74.88,9,707.62,03/09/2019,Ewallet,8.9,Normal,Acheteur moyen
+750431-26-3926,C,Marrakech,Normal,Female,Sports and travel,67.67,2,142.11,01/09/2019,Credit card,4.6,Normal,Petit acheteur
+750432-89-5193,A,Casablanca,Member,Male,Sports and travel,27.24,1,28.6,03/26/2019,Cash,7.4,Normal,Petit acheteur
+750433-20-8668,A,Casablanca,Normal,Male,Food and beverages,74.6,1,78.33,03/25/2019,Ewallet,9.6,Normal,Petit acheteur
+750434-77-1666,C,Marrakech,Member,Female,Food and beverages,76.91,7,565.29,01/08/2019,Credit card,8.9,Normal,Acheteur moyen
+750435-34-4164,C,Marrakech,Member,Female,Health and beauty,95.0,9,897.75,01/30/2019,Credit card,4.6,Normal,Acheteur moyen
+750436-68-7997,C,Marrakech,Member,Male,Food and beverages,77.42,7,569.04,03/15/2019,Credit card,8.5,Normal,Acheteur moyen
+750437-55-6163,A,Casablanca,Member,Male,Food and beverages,46.14,6,290.68,03/18/2019,Credit card,7.9,Normal,Petit acheteur
+750438-79-4504,C,Marrakech,Normal,Female,Sports and travel,78.77,7,578.96,03/19/2019,Cash,9.0,Normal,Acheteur moyen
+750439-76-3213,B,Rabat,Normal,Female,Sports and travel,50.27,7,369.48,02/06/2019,Ewallet,4.0,Normal,Petit acheteur
+750440-81-3534,B,Rabat,Member,Female,Electronic accessories,29.33,6,184.78,02/05/2019,Credit card,4.1,Normal,Petit acheteur
+750441-48-2505,A,Casablanca,Member,Female,Home and lifestyle,24.05,5,126.26,02/01/2019,Credit card,6.2,Normal,Petit acheteur
+750442-22-5921,C,Marrakech,Normal,Male,Fashion accessories,16.95,6,106.78,03/04/2019,Ewallet,8.8,Normal,Petit acheteur
+750443-39-1187,A,Casablanca,Normal,Male,Health and beauty,92.96,6,585.65,02/23/2019,Cash,6.1,Normal,Acheteur moyen
+750444-38-3509,C,Marrakech,Normal,Male,Home and lifestyle,57.19,6,360.3,02/11/2019,Ewallet,7.2,Normal,Petit acheteur
+750445-53-2352,A,Casablanca,Normal,Female,Food and beverages,61.77,2,129.72,02/20/2019,Cash,5.3,Normal,Petit acheteur
+750446-81-4245,B,Rabat,Member,Female,Home and lifestyle,17.66,9,166.89,01/17/2019,Credit card,6.6,Normal,Petit acheteur
+750447-97-2467,B,Rabat,Normal,Male,Food and beverages,65.43,9,618.31,02/04/2019,Ewallet,5.5,Normal,Acheteur moyen
+750448-54-8245,A,Casablanca,Normal,Female,Home and lifestyle,41.34,6,260.44,01/04/2019,Credit card,6.1,Normal,Petit acheteur
+750449-16-4982,C,Marrakech,Member,Female,Health and beauty,93.17,4,391.31,01/20/2019,Cash,5.2,Normal,Petit acheteur
+750450-78-4471,C,Marrakech,Member,Female,Health and beauty,40.89,2,85.87,01/03/2019,Cash,5.8,Normal,Petit acheteur
+750451-94-9631,A,Casablanca,Normal,Female,Food and beverages,75.69,3,238.42,01/03/2019,Credit card,8.2,Normal,Petit acheteur
+750452-59-5445,A,Casablanca,Normal,Male,Health and beauty,35.56,10,373.38,03/25/2019,Cash,5.6,Normal,Petit acheteur
+750453-50-8940,C,Marrakech,Normal,Male,Health and beauty,36.32,7,266.95,03/07/2019,Cash,5.4,Normal,Petit acheteur
+750454-77-5995,C,Marrakech,Member,Male,Electronic accessories,55.05,8,462.42,01/03/2019,Credit card,7.4,Normal,Acheteur moyen
+750455-74-5519,B,Rabat,Normal,Female,Fashion accessories,24.13,6,152.02,03/22/2019,Cash,8.1,Normal,Petit acheteur
+750456-21-7262,A,Casablanca,Normal,Female,Health and beauty,94.96,88,8774.3,02/20/2019,Cash,5.4,Anomalie,Gros acheteur
+750457-26-4387,C,Marrakech,Member,Female,Electronic accessories,61.56,7,452.47,02/12/2019,Credit card,9.8,Normal,Acheteur moyen
+750458-82-3589,C,Marrakech,Member,Male,Electronic accessories,37.81,9,357.3,01/19/2019,Cash,9.5,Normal,Petit acheteur
+750459-66-5485,B,Rabat,Member,Male,Electronic accessories,38.58,3,121.53,02/22/2019,Cash,8.4,Normal,Petit acheteur
+750460-86-4804,A,Casablanca,Member,Male,Electronic accessories,26.63,10,279.62,03/14/2019,Credit card,7.7,Normal,Petit acheteur
+750461-33-7348,A,Casablanca,Member,Female,Health and beauty,71.93,8,604.21,03/02/2019,Credit card,4.8,Normal,Acheteur moyen
+750462-95-4323,B,Rabat,Normal,Male,Electronic accessories,27.39,1,28.76,02/04/2019,Ewallet,6.5,Normal,Petit acheteur
+750463-15-7232,A,Casablanca,Member,Male,Sports and travel,88.03,8,739.45,02/01/2019,Cash,8.1,Normal,Acheteur moyen
+750464-23-8399,C,Marrakech,Normal,Female,Food and beverages,94.51,10,992.36,03/24/2019,Credit card,7.6,Anomalie,Acheteur moyen
+750465-47-8201,B,Rabat,Member,Male,Food and beverages,58.4,1,61.32,03/22/2019,Credit card,7.3,Normal,Petit acheteur
+750466-28-8595,B,Rabat,Normal,Female,Sports and travel,24.98,5,131.15,03/30/2019,Ewallet,7.7,Normal,Petit acheteur
+750467-62-6299,C,Marrakech,Normal,Male,Fashion accessories,55.05,3,173.41,03/11/2019,Credit card,8.7,Normal,Petit acheteur
+750468-93-3686,B,Rabat,Member,Male,Sports and travel,63.12,4,265.1,02/02/2019,Ewallet,9.3,Normal,Petit acheteur
+750469-30-7204,C,Marrakech,Member,Male,Health and beauty,73.55,6,463.36,02/19/2019,Credit card,4.5,Normal,Acheteur moyen
+750470-16-7874,C,Marrakech,Normal,Male,Electronic accessories,92.09,10,966.95,01/21/2019,Ewallet,9.2,Anomalie,Acheteur moyen
+750471-42-1200,B,Rabat,Normal,Female,Home and lifestyle,66.37,2,139.38,01/01/2019,Ewallet,9.4,Normal,Petit acheteur
+750472-70-8434,B,Rabat,Normal,Female,Food and beverages,82.66,10,867.93,01/28/2019,Ewallet,9.3,Normal,Acheteur moyen
+750473-36-1801,B,Rabat,Normal,Male,Food and beverages,64.0,4,268.8,03/21/2019,Cash,9.3,Normal,Petit acheteur
+750474-52-2436,A,Casablanca,Member,Male,Fashion accessories,41.41,3,130.44,03/15/2019,Credit card,9.1,Normal,Petit acheteur
+750475-81-3906,A,Casablanca,Member,Female,Electronic accessories,24.52,5,128.73,03/31/2019,Credit card,7.7,Normal,Petit acheteur
+750476-80-2063,B,Rabat,Normal,Male,Health and beauty,79.16,6,498.71,01/09/2019,Cash,6.2,Normal,Acheteur moyen
+750477-36-1953,B,Rabat,Normal,Male,Health and beauty,72.51,5,380.68,03/09/2019,Cash,6.0,Normal,Petit acheteur
+750478-89-6797,A,Casablanca,Member,Female,Fashion accessories,71.97,5,377.84,02/03/2019,Cash,6.6,Normal,Petit acheteur
+750479-13-8616,A,Casablanca,Normal,Female,Sports and travel,82.71,10,868.45,01/25/2019,Cash,5.4,Normal,Acheteur moyen
+750480-11-4296,C,Marrakech,Member,Male,Food and beverages,99.9,7,734.27,03/13/2019,Cash,4.3,Anomalie,Acheteur moyen
+750481-53-7488,C,Marrakech,Normal,Female,Health and beauty,37.7,9,356.26,01/15/2019,Ewallet,7.3,Normal,Petit acheteur
+750482-27-8888,C,Marrakech,Member,Male,Electronic accessories,39.74,6,250.36,03/02/2019,Cash,9.5,Normal,Petit acheteur
+750483-96-6169,A,Casablanca,Normal,Female,Sports and travel,80.55,7,592.04,03/08/2019,Ewallet,9.6,Normal,Acheteur moyen
+750484-58-9753,C,Marrakech,Member,Male,Food and beverages,71.69,6,451.65,02/05/2019,Ewallet,4.4,Normal,Acheteur moyen
+750485-21-9143,A,Casablanca,Normal,Male,Food and beverages,20.51,5,107.68,01/05/2019,Cash,8.2,Normal,Petit acheteur
+750486-21-8270,A,Casablanca,Normal,Female,Home and lifestyle,29.45,5,154.61,01/05/2019,Cash,5.1,Normal,Petit acheteur
+750487-51-3347,C,Marrakech,Member,Female,Food and beverages,23.87,6,150.38,03/09/2019,Credit card,9.5,Normal,Petit acheteur
+750488-15-2426,A,Casablanca,Member,Male,Fashion accessories,13.29,7,97.68,01/15/2019,Credit card,8.3,Normal,Petit acheteur
+750489-35-4154,B,Rabat,Normal,Male,Health and beauty,56.85,5,298.46,03/23/2019,Cash,4.1,Normal,Petit acheteur
+750490-81-9422,B,Rabat,Normal,Female,Sports and travel,70.39,5,369.55,01/15/2019,Cash,4.9,Normal,Petit acheteur
+750491-19-6101,A,Casablanca,Member,Female,Food and beverages,38.66,3,121.78,03/15/2019,Cash,9.7,Normal,Petit acheteur
+750492-21-7987,C,Marrakech,Normal,Female,Health and beauty,21.71,8,182.36,01/14/2019,Ewallet,9.4,Normal,Petit acheteur
+750493-69-3159,B,Rabat,Member,Female,Food and beverages,42.0,6,264.6,03/27/2019,Credit card,8.9,Normal,Petit acheteur
+750494-56-7423,A,Casablanca,Normal,Male,Sports and travel,37.93,8,318.61,01/19/2019,Ewallet,6.8,Normal,Petit acheteur
+750495-31-5624,A,Casablanca,Normal,Female,Sports and travel,53.87,2,113.13,03/03/2019,Cash,6.9,Normal,Petit acheteur
+750496-69-7566,B,Rabat,Member,Male,Sports and travel,83.57,2,175.5,01/10/2019,Credit card,6.0,Normal,Petit acheteur
+750497-98-8063,C,Marrakech,Normal,Male,Food and beverages,31.93,3,100.58,01/09/2019,Cash,9.8,Normal,Petit acheteur
+750498-85-8584,B,Rabat,Normal,Male,Electronic accessories,69.63,2,146.22,03/15/2019,Credit card,8.4,Normal,Petit acheteur
+750499-58-6364,B,Rabat,Member,Female,Electronic accessories,37.72,7,277.24,03/29/2019,Ewallet,4.4,Normal,Petit acheteur
+750500-29-8421,B,Rabat,Member,Male,Electronic accessories,83.52,10,876.96,01/01/2019,Credit card,9.4,Normal,Acheteur moyen
+750501-96-5989,C,Marrakech,Normal,Female,Food and beverages,62.01,4,260.44,02/08/2019,Cash,5.2,Normal,Petit acheteur
+750502-80-1870,B,Rabat,Normal,Male,Food and beverages,10.73,9,101.4,02/07/2019,Ewallet,6.4,Normal,Petit acheteur
+750503-58-7652,A,Casablanca,Normal,Male,Home and lifestyle,87.9,4,369.18,02/20/2019,Credit card,6.6,Normal,Petit acheteur
+750504-46-3056,B,Rabat,Normal,Male,Fashion accessories,25.61,3,80.67,02/16/2019,Cash,5.1,Normal,Petit acheteur
+750505-63-8471,A,Casablanca,Member,Male,Fashion accessories,11.41,8,95.84,01/11/2019,Ewallet,7.9,Normal,Petit acheteur
+750506-64-1121,C,Marrakech,Normal,Male,Sports and travel,55.84,9,527.69,02/15/2019,Cash,8.9,Normal,Acheteur moyen
+750507-82-8917,C,Marrakech,Normal,Male,Fashion accessories,55.15,7,405.35,02/16/2019,Credit card,9.6,Normal,Petit acheteur
+750508-76-2281,C,Marrakech,Normal,Male,Food and beverages,53.33,2,111.99,03/09/2019,Credit card,4.9,Normal,Petit acheteur
+750509-16-6628,C,Marrakech,Member,Male,Sports and travel,66.75,2,140.18,03/16/2019,Credit card,8.1,Normal,Petit acheteur
+750510-47-5738,C,Marrakech,Member,Female,Sports and travel,56.13,8,471.49,02/23/2019,Cash,7.4,Normal,Acheteur moyen
+750511-16-5780,A,Casablanca,Member,Female,Fashion accessories,80.64,5,423.36,03/16/2019,Cash,4.4,Normal,Acheteur moyen
+750512-45-5509,C,Marrakech,Member,Female,Sports and travel,17.43,9,164.71,02/02/2019,Cash,4.5,Normal,Petit acheteur
+750513-32-5280,B,Rabat,Member,Male,Food and beverages,25.71,10,269.96,02/27/2019,Credit card,8.4,Normal,Petit acheteur
+750514-29-9125,C,Marrakech,Member,Female,Electronic accessories,81.94,1,86.04,01/19/2019,Ewallet,6.1,Normal,Petit acheteur
+750515-43-2900,B,Rabat,Normal,Male,Fashion accessories,49.61,3,156.27,02/14/2019,Credit card,5.3,Normal,Petit acheteur
+750516-59-8775,A,Casablanca,Member,Female,Sports and travel,52.86,8,444.02,01/30/2019,Credit card,8.5,Normal,Acheteur moyen
+750517-22-9704,B,Rabat,Member,Female,Health and beauty,35.99,8,302.32,03/09/2019,Cash,6.3,Normal,Petit acheteur
+750518-84-7408,C,Marrakech,Normal,Female,Food and beverages,92.61,5,486.2,01/13/2019,Cash,6.0,Normal,Acheteur moyen
+750519-18-1195,B,Rabat,Member,Male,Food and beverages,40.36,3,127.13,03/28/2019,Ewallet,5.9,Normal,Petit acheteur
+750520-89-2506,B,Rabat,Member,Male,Fashion accessories,50.13,4,210.55,01/25/2019,Cash,8.4,Normal,Petit acheteur
+750521-92-4027,A,Casablanca,Member,Male,Fashion accessories,96.19,2,202.0,02/18/2019,Ewallet,9.1,Normal,Petit acheteur
+750522-51-5216,A,Casablanca,Member,Female,Home and lifestyle,52.02,2,109.24,02/24/2019,Cash,7.8,Normal,Petit acheteur
+750523-18-9056,A,Casablanca,Member,Female,Health and beauty,44.45,6,280.04,02/03/2019,Cash,10.0,Normal,Petit acheteur
+750524-23-8234,A,Casablanca,Normal,Male,Fashion accessories,54.28,3,170.98,01/28/2019,Cash,7.2,Normal,Petit acheteur
+750525-93-1014,C,Marrakech,Normal,Male,Health and beauty,16.56,10,173.88,01/03/2019,Cash,8.4,Normal,Petit acheteur
+750526-61-2148,A,Casablanca,Normal,Female,Electronic accessories,73.0,7,536.55,03/04/2019,Credit card,7.4,Normal,Acheteur moyen
+750527-48-7563,C,Marrakech,Member,Male,Sports and travel,95.86,8,805.22,02/15/2019,Credit card,4.7,Normal,Acheteur moyen
+750528-32-1644,A,Casablanca,Member,Female,Food and beverages,86.79,6,546.78,02/07/2019,Cash,4.5,Normal,Acheteur moyen
+750529-90-8175,B,Rabat,Member,Female,Fashion accessories,45.11,2,94.73,03/04/2019,Cash,7.8,Normal,Petit acheteur
+750530-49-9186,C,Marrakech,Member,Male,Health and beauty,27.38,10,287.49,01/09/2019,Cash,5.4,Normal,Petit acheteur
+750531-93-9570,C,Marrakech,Normal,Male,Health and beauty,40.53,6,255.34,02/21/2019,Ewallet,8.7,Normal,Petit acheteur
+750532-41-3138,B,Rabat,Member,Male,Health and beauty,13.32,3,41.96,03/02/2019,Ewallet,6.9,Normal,Petit acheteur
+750533-23-2870,A,Casablanca,Member,Male,Home and lifestyle,83.86,2,176.11,03/17/2019,Ewallet,6.7,Normal,Petit acheteur
+750534-51-4493,B,Rabat,Member,Male,Electronic accessories,48.35,7,355.37,03/15/2019,Credit card,5.9,Normal,Petit acheteur
+750535-31-8187,A,Casablanca,Member,Female,Health and beauty,20.87,3,65.74,03/31/2019,Ewallet,8.5,Normal,Petit acheteur
+750536-10-1118,A,Casablanca,Member,Male,Health and beauty,81.19,10,852.5,01/03/2019,Ewallet,6.3,Normal,Acheteur moyen
+750537-76-8379,A,Casablanca,Member,Female,Sports and travel,72.41,8,608.24,01/19/2019,Ewallet,8.2,Normal,Acheteur moyen
+750538-48-6699,B,Rabat,Member,Male,Food and beverages,72.24,10,758.52,03/20/2019,Cash,5.1,Normal,Acheteur moyen
+750539-38-8605,B,Rabat,Member,Male,Electronic accessories,20.57,9,194.39,02/16/2019,Credit card,9.9,Normal,Petit acheteur
+750540-95-1706,C,Marrakech,Member,Female,Health and beauty,27.43,3,86.4,03/05/2019,Cash,8.1,Normal,Petit acheteur
+750541-16-9804,A,Casablanca,Normal,Female,Electronic accessories,49.12,6,309.46,01/06/2019,Cash,7.7,Normal,Petit acheteur
+750542-51-7865,A,Casablanca,Member,Male,Sports and travel,56.34,2,118.31,02/26/2019,Credit card,9.4,Normal,Petit acheteur
+750543-38-2204,A,Casablanca,Normal,Male,Health and beauty,39.35,2,82.64,01/26/2019,Cash,5.4,Normal,Petit acheteur
+750544-34-6875,B,Rabat,Normal,Male,Sports and travel,23.04,10,241.92,02/17/2019,Cash,6.7,Normal,Petit acheteur
+750545-63-3804,B,Rabat,Member,Female,Electronic accessories,12.89,10,135.34,01/15/2019,Ewallet,4.4,Normal,Petit acheteur
+750546-62-9548,B,Rabat,Member,Female,Food and beverages,24.11,10,253.16,03/12/2019,Credit card,9.4,Normal,Petit acheteur
+750547-84-4643,B,Rabat,Member,Female,Sports and travel,35.12,7,258.13,02/01/2019,Ewallet,8.4,Normal,Petit acheteur
+750548-77-7460,C,Marrakech,Member,Male,Sports and travel,98.21,1,103.12,03/06/2019,Credit card,9.9,Anomalie,Petit acheteur
+750549-55-5846,B,Rabat,Member,Female,Sports and travel,31.64,9,299.0,02/22/2019,Credit card,8.5,Normal,Petit acheteur
+750550-69-3271,A,Casablanca,Member,Male,Sports and travel,70.21,3,221.16,03/16/2019,Credit card,8.2,Normal,Petit acheteur
+750551-14-5859,C,Marrakech,Normal,Male,Home and lifestyle,66.41,1,69.73,02/19/2019,Ewallet,9.2,Normal,Petit acheteur
+750552-16-2818,B,Rabat,Normal,Male,Fashion accessories,17.29,6,108.93,03/07/2019,Ewallet,8.4,Normal,Petit acheteur
+750553-36-3267,B,Rabat,Normal,Female,Food and beverages,13.68,6,86.18,01/09/2019,Credit card,5.1,Normal,Petit acheteur
+750554-55-5380,B,Rabat,Member,Male,Fashion accessories,53.06,10,557.13,01/27/2019,Credit card,9.2,Normal,Acheteur moyen
+750555-78-9730,C,Marrakech,Normal,Female,Health and beauty,15.7,6,98.91,03/09/2019,Credit card,6.7,Normal,Petit acheteur
+750556-32-5724,B,Rabat,Normal,Female,Fashion accessories,95.07,2,199.65,01/12/2019,Cash,5.1,Normal,Petit acheteur
+750557-47-7824,A,Casablanca,Member,Male,Home and lifestyle,20.08,3,63.25,03/08/2019,Ewallet,7.0,Normal,Petit acheteur
+750558-76-6503,C,Marrakech,Member,Female,Home and lifestyle,47.81,1,50.2,01/03/2019,Ewallet,5.7,Normal,Petit acheteur
+750559-26-6021,B,Rabat,Normal,Female,Sports and travel,63.4,9,599.13,02/28/2019,Cash,9.1,Normal,Acheteur moyen
+750560-68-3725,A,Casablanca,Normal,Male,Sports and travel,43.47,5,228.22,01/19/2019,Ewallet,8.6,Normal,Petit acheteur
+750561-26-8223,C,Marrakech,Member,Female,Electronic accessories,97.58,3,307.38,01/06/2019,Ewallet,5.0,Normal,Petit acheteur
+750562-79-3663,B,Rabat,Normal,Male,Electronic accessories,60.62,1,63.65,01/19/2019,Cash,8.0,Normal,Petit acheteur
+750563-79-9313,C,Marrakech,Normal,Male,Health and beauty,46.41,8,389.84,02/10/2019,Cash,8.6,Normal,Petit acheteur
+750564-24-8847,B,Rabat,Normal,Female,Home and lifestyle,97.25,10,1021.12,02/26/2019,Credit card,8.0,Anomalie,Acheteur moyen
+750565-17-4197,A,Casablanca,Member,Male,Home and lifestyle,12.23,10,128.42,02/15/2019,Cash,9.0,Anomalie,Petit acheteur
+750566-60-4185,C,Marrakech,Member,Female,Electronic accessories,12.03,9,113.68,03/27/2019,Credit card,9.1,Normal,Petit acheteur
+750567-11-5663,B,Rabat,Normal,Male,Fashion accessories,42.49,3,133.84,02/17/2019,Cash,8.3,Normal,Petit acheteur
+750568-30-7944,B,Rabat,Normal,Female,Sports and travel,88.68,2,186.23,02/23/2019,Cash,5.3,Normal,Petit acheteur
+750569-85-7156,C,Marrakech,Normal,Male,Food and beverages,63.81,3,201.0,03/09/2019,Cash,5.2,Normal,Petit acheteur
+750570-33-7254,A,Casablanca,Member,Female,Fashion accessories,92.29,7,678.33,03/14/2019,Cash,5.0,Normal,Acheteur moyen
+750571-10-3523,B,Rabat,Normal,Male,Home and lifestyle,85.1,5,446.77,03/01/2019,Credit card,7.0,Normal,Acheteur moyen
+750572-13-2955,B,Rabat,Normal,Female,Health and beauty,68.84,5,361.41,03/30/2019,Cash,6.5,Normal,Petit acheteur
+750573-70-2959,B,Rabat,Normal,Male,Food and beverages,77.09,10,809.45,02/03/2019,Cash,6.9,Normal,Acheteur moyen
+750574-16-5467,B,Rabat,Member,Female,Electronic accessories,62.34,3,196.37,01/18/2019,Credit card,5.9,Normal,Petit acheteur
+750575-90-4002,B,Rabat,Normal,Female,Health and beauty,36.08,9,340.96,03/07/2019,Ewallet,7.8,Normal,Petit acheteur
+750576-78-6761,A,Casablanca,Member,Female,Home and lifestyle,84.41,5,443.15,03/30/2019,Credit card,5.6,Normal,Acheteur moyen
+750577-74-4622,A,Casablanca,Member,Male,Food and beverages,35.32,8,296.69,01/14/2019,Ewallet,6.5,Normal,Petit acheteur
+750578-98-6940,A,Casablanca,Member,Female,Sports and travel,92.43,2,194.1,03/03/2019,Ewallet,8.9,Normal,Petit acheteur
+750579-98-3332,A,Casablanca,Normal,Female,Electronic accessories,73.88,1,77.57,01/29/2019,Ewallet,8.5,Normal,Petit acheteur
+750580-71-8065,C,Marrakech,Member,Female,Electronic accessories,28.88,2,60.65,01/10/2019,Ewallet,6.5,Normal,Petit acheteur
+750581-18-5942,A,Casablanca,Member,Male,Health and beauty,81.37,9,768.95,01/16/2019,Cash,7.6,Normal,Acheteur moyen
+750582-13-2487,C,Marrakech,Member,Male,Health and beauty,92.8,4,389.76,01/24/2019,Ewallet,7.5,Normal,Petit acheteur
+750583-18-2623,A,Casablanca,Normal,Female,Home and lifestyle,24.45,9,231.05,01/31/2019,Credit card,8.7,Normal,Petit acheteur
+750584-37-9260,C,Marrakech,Member,Male,Fashion accessories,27.24,5,143.01,01/01/2019,Credit card,5.0,Normal,Petit acheteur
+750585-64-4510,C,Marrakech,Normal,Female,Fashion accessories,63.04,8,529.54,01/24/2019,Ewallet,8.0,Normal,Acheteur moyen
+750586-56-5723,C,Marrakech,Member,Female,Health and beauty,78.52,6,494.68,03/08/2019,Ewallet,4.7,Normal,Acheteur moyen
+750587-66-4700,C,Marrakech,Member,Male,Home and lifestyle,54.43,7,400.06,02/09/2019,Credit card,5.7,Normal,Petit acheteur
+750588-11-9055,C,Marrakech,Normal,Female,Sports and travel,26.99,2,56.68,03/28/2019,Cash,9.4,Normal,Petit acheteur
+750589-31-2060,C,Marrakech,Member,Female,Sports and travel,57.03,2,119.76,02/21/2019,Cash,4.7,Normal,Petit acheteur
+750590-84-5472,B,Rabat,Member,Female,Electronic accessories,63.54,7,467.02,03/05/2019,Cash,4.7,Normal,Acheteur moyen
+750591-68-2770,C,Marrakech,Normal,Female,Sports and travel,69.99,7,514.43,02/05/2019,Credit card,9.9,Normal,Acheteur moyen
+750592-96-1438,A,Casablanca,Normal,Female,Sports and travel,30.77,3,96.93,01/07/2019,Credit card,4.2,Normal,Petit acheteur
+750593-73-8635,A,Casablanca,Normal,Female,Electronic accessories,37.24,10,391.02,03/26/2019,Ewallet,4.6,Normal,Petit acheteur
+750594-14-8051,A,Casablanca,Normal,Female,Sports and travel,55.43,9,523.81,03/11/2019,Credit card,6.1,Normal,Acheteur moyen
+750595-48-3689,A,Casablanca,Normal,Female,Home and lifestyle,86.75,8,728.7,01/23/2019,Ewallet,6.8,Normal,Acheteur moyen
+750596-80-9837,B,Rabat,Normal,Male,Home and lifestyle,74.41,8,625.04,03/28/2019,Credit card,8.6,Normal,Acheteur moyen
+750597-88-6779,C,Marrakech,Normal,Female,Food and beverages,86.88,9,821.02,03/05/2019,Cash,4.3,Normal,Acheteur moyen
+750598-90-6591,B,Rabat,Normal,Male,Health and beauty,63.14,3,198.89,03/16/2019,Cash,9.0,Normal,Petit acheteur
+750599-92-6113,B,Rabat,Member,Female,Home and lifestyle,99.27,7,729.63,02/01/2019,Credit card,6.1,Normal,Acheteur moyen
+750600-64-9433,C,Marrakech,Member,Male,Home and lifestyle,20.3,3,63.95,01/05/2019,Cash,4.1,Normal,Petit acheteur
+750601-83-2601,B,Rabat,Normal,Male,Fashion accessories,52.27,1,54.88,03/15/2019,Cash,9.9,Normal,Petit acheteur
+750602-73-2234,B,Rabat,Member,Male,Home and lifestyle,54.7,6,344.61,02/16/2019,Cash,5.0,Normal,Petit acheteur
+750603-84-2552,C,Marrakech,Member,Female,Home and lifestyle,14.28,10,149.94,03/21/2019,Ewallet,6.4,Normal,Petit acheteur
+750604-48-9268,C,Marrakech,Normal,Female,Health and beauty,60.97,9,576.17,02/14/2019,Ewallet,6.9,Normal,Acheteur moyen
+750605-12-9457,B,Rabat,Normal,Female,Electronic accessories,47.28,5,248.22,03/27/2019,Cash,7.7,Normal,Petit acheteur
+750606-65-1981,A,Casablanca,Normal,Male,Fashion accessories,96.58,8,811.27,03/10/2019,Credit card,5.6,Normal,Acheteur moyen
+750607-18-4335,C,Marrakech,Member,Female,Sports and travel,23.3,3,73.4,02/25/2019,Cash,8.5,Normal,Petit acheteur
+750608-13-5023,B,Rabat,Normal,Female,Fashion accessories,24.45,10,256.73,01/15/2019,Ewallet,5.4,Normal,Petit acheteur
+750609-27-1477,B,Rabat,Normal,Female,Food and beverages,99.21,7,729.19,01/26/2019,Ewallet,7.9,Normal,Acheteur moyen
+750610-48-2041,B,Rabat,Normal,Male,Fashion accessories,86.72,8,728.45,01/11/2019,Ewallet,8.7,Normal,Acheteur moyen
+750611-95-9605,B,Rabat,Normal,Male,Sports and travel,94.88,3,298.87,03/06/2019,Credit card,5.4,Normal,Petit acheteur
+750612-64-4571,B,Rabat,Normal,Male,Electronic accessories,63.98,6,403.07,02/19/2019,Credit card,6.0,Normal,Petit acheteur
+750613-57-2850,A,Casablanca,Member,Male,Electronic accessories,97.28,8,817.15,01/08/2019,Credit card,6.5,Normal,Acheteur moyen
+750614-57-6049,B,Rabat,Normal,Female,Fashion accessories,32.17,5,168.89,02/16/2019,Ewallet,9.3,Normal,Petit acheteur
+750615-56-2999,A,Casablanca,Member,Male,Fashion accessories,92.56,4,388.75,02/09/2019,Cash,5.5,Normal,Petit acheteur
+750616-40-5872,C,Marrakech,Member,Female,Sports and travel,10.71,7,78.72,02/08/2019,Cash,9.6,Normal,Petit acheteur
+750617-62-6451,A,Casablanca,Member,Female,Fashion accessories,38.54,7,283.27,01/11/2019,Cash,8.7,Normal,Petit acheteur
+750618-51-8426,C,Marrakech,Normal,Male,Electronic accessories,72.86,9,688.53,03/19/2019,Cash,4.4,Normal,Acheteur moyen
+750619-90-6006,C,Marrakech,Member,Male,Fashion accessories,67.74,8,569.02,01/01/2019,Ewallet,8.7,Normal,Acheteur moyen
+750620-71-3187,B,Rabat,Member,Male,Electronic accessories,32.46,3,102.25,02/22/2019,Credit card,9.1,Normal,Petit acheteur
+750621-12-1376,B,Rabat,Member,Female,Home and lifestyle,27.88,7,204.92,02/18/2019,Cash,6.2,Normal,Petit acheteur
+750622-29-2459,C,Marrakech,Member,Male,Sports and travel,27.84,3,87.7,02/24/2019,Credit card,4.3,Normal,Petit acheteur
+750623-38-4328,B,Rabat,Member,Male,Health and beauty,74.67,7,548.82,03/28/2019,Cash,8.6,Normal,Acheteur moyen
+750624-46-4102,A,Casablanca,Normal,Female,Fashion accessories,54.47,3,171.58,03/18/2019,Ewallet,6.6,Normal,Petit acheteur
+750625-97-8506,B,Rabat,Member,Female,Electronic accessories,12.59,5,66.1,02/01/2019,Cash,5.4,Normal,Petit acheteur
+750626-86-5198,A,Casablanca,Member,Female,Electronic accessories,88.42,7,649.89,02/19/2019,Credit card,8.1,Normal,Acheteur moyen
+750627-86-1745,A,Casablanca,Member,Male,Health and beauty,39.95,4,167.79,03/19/2019,Cash,6.8,Normal,Petit acheteur
+750628-43-3783,A,Casablanca,Normal,Female,Home and lifestyle,97.97,6,617.21,01/06/2019,Credit card,4.8,Normal,Acheteur moyen
+750629-50-1723,C,Marrakech,Normal,Female,Sports and travel,21.87,6,137.78,01/19/2019,Cash,8.3,Normal,Petit acheteur
+750630-50-8139,A,Casablanca,Normal,Female,Fashion accessories,42.45,7,312.01,03/20/2019,Cash,5.7,Normal,Petit acheteur
+750631-14-8704,A,Casablanca,Normal,Female,Electronic accessories,60.01,8,504.08,01/07/2019,Ewallet,4.3,Normal,Acheteur moyen
+750632-73-2843,B,Rabat,Member,Female,Sports and travel,20.44,8,171.7,03/13/2019,Cash,4.2,Normal,Petit acheteur
+750633-94-4479,C,Marrakech,Member,Male,Home and lifestyle,18.42,5,96.71,03/07/2019,Ewallet,5.1,Normal,Petit acheteur
+750634-46-2998,C,Marrakech,Member,Male,Sports and travel,92.83,4,389.89,01/13/2019,Credit card,8.6,Normal,Petit acheteur
+750635-90-5412,B,Rabat,Normal,Male,Home and lifestyle,23.84,2,50.06,03/26/2019,Credit card,6.8,Normal,Petit acheteur
+750636-16-5635,C,Marrakech,Member,Female,Health and beauty,69.05,8,580.02,03/14/2019,Credit card,5.9,Normal,Acheteur moyen
+750637-61-2461,B,Rabat,Member,Male,Food and beverages,95.66,7,703.1,01/23/2019,Cash,4.6,Normal,Acheteur moyen
+750638-72-8083,A,Casablanca,Member,Male,Sports and travel,80.15,5,420.79,01/20/2019,Credit card,7.9,Normal,Acheteur moyen
+750639-44-7931,C,Marrakech,Normal,Male,Home and lifestyle,69.89,6,440.31,02/27/2019,Cash,7.1,Normal,Acheteur moyen
+750640-38-3540,A,Casablanca,Normal,Female,Food and beverages,26.77,7,196.76,02/13/2019,Credit card,4.6,Normal,Petit acheteur
+750641-41-9570,B,Rabat,Member,Female,Sports and travel,49.36,8,414.62,03/29/2019,Ewallet,5.8,Normal,Acheteur moyen
+750642-69-5151,B,Rabat,Normal,Male,Food and beverages,16.89,1,17.73,02/24/2019,Credit card,7.1,Normal,Petit acheteur
+750643-63-5876,B,Rabat,Normal,Male,Food and beverages,11.46,8,96.26,02/20/2019,Ewallet,5.1,Normal,Petit acheteur
+750644-87-5248,B,Rabat,Normal,Female,Food and beverages,82.7,6,521.01,01/28/2019,Ewallet,9.8,Normal,Acheteur moyen
+750645-98-7637,C,Marrakech,Member,Female,Food and beverages,11.61,7,85.33,03/25/2019,Ewallet,4.7,Normal,Petit acheteur
+750646-48-2435,C,Marrakech,Normal,Female,Food and beverages,83.17,10,873.29,03/30/2019,Credit card,6.2,Normal,Acheteur moyen
+750647-93-3378,A,Casablanca,Member,Male,Electronic accessories,20.07,1,21.07,01/04/2019,Ewallet,8.2,Normal,Petit acheteur
+750648-64-1357,C,Marrakech,Member,Female,Fashion accessories,87.23,9,824.32,03/01/2019,Cash,5.1,Normal,Acheteur moyen
+750649-47-7418,A,Casablanca,Member,Male,Fashion accessories,73.23,8,615.13,03/16/2019,Cash,6.8,Normal,Acheteur moyen
+750650-80-5764,A,Casablanca,Normal,Male,Health and beauty,66.73,7,490.47,03/16/2019,Cash,9.9,Normal,Acheteur moyen
+750651-12-7914,A,Casablanca,Normal,Female,Sports and travel,56.2,10,590.1,01/30/2019,Cash,9.6,Normal,Acheteur moyen
+750652-54-8345,C,Marrakech,Normal,Male,Home and lifestyle,90.35,7,664.07,03/05/2019,Ewallet,9.3,Normal,Acheteur moyen
+750653-85-6556,C,Marrakech,Normal,Male,Electronic accessories,35.92,4,150.86,01/30/2019,Cash,6.8,Normal,Petit acheteur
+750654-70-3654,C,Marrakech,Normal,Male,Home and lifestyle,75.06,7,551.69,03/25/2019,Credit card,9.8,Normal,Acheteur moyen
+750655-22-7815,C,Marrakech,Member,Female,Fashion accessories,77.43,8,650.41,01/21/2019,Ewallet,4.8,Normal,Acheteur moyen
+750656-32-9248,B,Rabat,Normal,Male,Electronic accessories,60.11,1,63.12,02/15/2019,Cash,6.2,Normal,Petit acheteur
+750657-55-1764,A,Casablanca,Member,Female,Sports and travel,20.26,4,85.09,03/04/2019,Ewallet,4.7,Normal,Petit acheteur
+750658-68-2817,C,Marrakech,Normal,Male,Fashion accessories,88.62,10,930.51,01/07/2019,Credit card,8.0,Anomalie,Acheteur moyen
+750659-66-9288,A,Casablanca,Member,Male,Food and beverages,19.49,2,40.93,01/21/2019,Cash,9.2,Normal,Petit acheteur
+750660-10-5019,B,Rabat,Member,Male,Fashion accessories,42.73,3,134.6,02/26/2019,Ewallet,4.7,Normal,Petit acheteur
+750661-41-3483,B,Rabat,Normal,Female,Food and beverages,25.41,5,133.4,02/16/2019,Cash,6.2,Normal,Petit acheteur
+750662-13-8251,C,Marrakech,Normal,Male,Electronic accessories,82.15,7,603.8,03/08/2019,Cash,9.5,Normal,Acheteur moyen
+750663-14-3473,A,Casablanca,Member,Male,Health and beauty,40.44,7,297.23,02/25/2019,Ewallet,9.9,Normal,Petit acheteur
+750664-45-9647,C,Marrakech,Member,Female,Sports and travel,46.18,9,436.4,02/10/2019,Credit card,9.2,Normal,Acheteur moyen
+750665-54-7627,C,Marrakech,Member,Female,Sports and travel,67.94,9,642.03,03/25/2019,Credit card,7.7,Normal,Acheteur moyen
+750666-46-4501,A,Casablanca,Normal,Male,Health and beauty,58.36,7,428.95,01/17/2019,Credit card,8.4,Normal,Acheteur moyen
+750667-48-7926,A,Casablanca,Normal,Female,Fashion accessories,24.4,1,25.62,03/17/2019,Credit card,9.3,Normal,Petit acheteur
+750668-48-1085,C,Marrakech,Member,Male,Home and lifestyle,33.38,9,315.44,03/25/2019,Ewallet,6.1,Normal,Petit acheteur
+750669-86-4831,B,Rabat,Normal,Male,Fashion accessories,99.0,10,1039.5,03/27/2019,Credit card,8.3,Anomalie,Acheteur moyen
+750670-41-2724,B,Rabat,Normal,Female,Fashion accessories,80.62,10,846.51,02/18/2019,Credit card,8.0,Normal,Acheteur moyen
+750671-26-8802,B,Rabat,Member,Female,Sports and travel,18.82,7,138.33,01/12/2019,Ewallet,9.0,Normal,Petit acheteur
+750672-73-7937,A,Casablanca,Normal,Male,Home and lifestyle,70.91,7,521.19,02/20/2019,Credit card,7.5,Normal,Acheteur moyen
+750673-77-2934,B,Rabat,Normal,Female,Electronic accessories,22.99,3,72.42,01/17/2019,Cash,6.9,Normal,Petit acheteur
+750674-62-2807,C,Marrakech,Member,Female,Sports and travel,12.93,3,40.73,01/16/2019,Cash,9.7,Normal,Petit acheteur
+750675-13-3340,A,Casablanca,Normal,Female,Health and beauty,57.04,2,119.78,02/08/2019,Cash,6.2,Normal,Petit acheteur
+750676-80-6712,A,Casablanca,Normal,Male,Home and lifestyle,90.01,4,378.04,03/04/2019,Credit card,5.1,Normal,Petit acheteur
+750677-87-3175,A,Casablanca,Member,Female,Sports and travel,61.57,10,646.49,02/18/2019,Cash,6.7,Normal,Acheteur moyen
+750678-59-4814,A,Casablanca,Normal,Female,Fashion accessories,50.41,6,317.58,03/27/2019,Credit card,4.5,Normal,Petit acheteur
+750679-49-3028,B,Rabat,Normal,Male,Fashion accessories,90.09,5,472.97,01/04/2019,Ewallet,7.9,Normal,Acheteur moyen
+750680-12-2970,C,Marrakech,Member,Male,Food and beverages,58.76,1,61.7,01/25/2019,Credit card,9.7,Normal,Petit acheteur
+750681-78-6249,C,Marrakech,Member,Male,Home and lifestyle,80.8,4,339.36,02/26/2019,Credit card,9.0,Normal,Petit acheteur
+750682-21-2878,B,Rabat,Member,Female,Health and beauty,40.59,3,127.86,02/10/2019,Credit card,6.5,Normal,Petit acheteur
+750683-88-6329,A,Casablanca,Member,Female,Electronic accessories,26.44,2,55.52,03/28/2019,Cash,4.9,Normal,Petit acheteur
+750684-25-1849,A,Casablanca,Member,Male,Home and lifestyle,45.09,6,284.07,02/03/2019,Cash,4.9,Normal,Petit acheteur
+750685-69-7669,A,Casablanca,Member,Male,Sports and travel,55.77,9,527.03,02/04/2019,Ewallet,6.3,Normal,Acheteur moyen
+750686-81-3057,A,Casablanca,Normal,Male,Sports and travel,67.01,1,70.36,03/28/2019,Credit card,5.6,Normal,Petit acheteur
+750687-41-9806,B,Rabat,Normal,Female,Health and beauty,86.16,9,814.21,02/17/2019,Ewallet,5.2,Normal,Acheteur moyen
+750688-71-5477,B,Rabat,Normal,Male,Health and beauty,83.13,10,872.87,01/01/2019,Ewallet,5.7,Normal,Acheteur moyen
+750689-78-2145,C,Marrakech,Normal,Female,Home and lifestyle,85.81,4,360.4,02/06/2019,Credit card,7.5,Normal,Petit acheteur
+750690-74-6215,B,Rabat,Member,Female,Fashion accessories,21.07,3,66.37,02/25/2019,Cash,8.4,Normal,Petit acheteur
+750691-86-6381,C,Marrakech,Normal,Female,Fashion accessories,50.74,4,213.11,02/13/2019,Cash,8.0,Normal,Petit acheteur
+750692-60-9816,A,Casablanca,Member,Male,Food and beverages,52.88,1,55.52,03/13/2019,Cash,8.0,Normal,Petit acheteur
+750693-32-1138,A,Casablanca,Member,Male,Fashion accessories,50.06,2,105.13,03/18/2019,Cash,6.1,Normal,Petit acheteur
+750694-21-5967,A,Casablanca,Normal,Female,Electronic accessories,50.01,4,210.04,03/29/2019,Cash,8.5,Normal,Petit acheteur
+750695-35-7489,C,Marrakech,Member,Male,Sports and travel,97.05,1,101.9,03/19/2019,Credit card,5.7,Anomalie,Petit acheteur
+750696-85-3101,A,Casablanca,Normal,Female,Electronic accessories,59.66,10,626.43,03/14/2019,Credit card,8.0,Normal,Acheteur moyen
+750697-96-1378,C,Marrakech,Member,Male,Home and lifestyle,94.01,4,394.84,02/05/2019,Credit card,9.3,Normal,Petit acheteur
+750698-25-9491,C,Marrakech,Normal,Female,Health and beauty,94.4,1,99.12,02/25/2019,Cash,9.1,Anomalie,Petit acheteur
+750699-10-7420,B,Rabat,Normal,Female,Food and beverages,78.3,4,328.86,03/10/2019,Cash,4.3,Normal,Petit acheteur
+750700-31-6394,A,Casablanca,Normal,Male,Food and beverages,82.68,4,347.26,01/10/2019,Cash,9.9,Normal,Petit acheteur
+750701-23-8759,B,Rabat,Member,Male,Health and beauty,53.19,1,55.85,02/12/2019,Credit card,7.6,Normal,Petit acheteur
+750702-22-8314,A,Casablanca,Normal,Male,Home and lifestyle,56.77,4,238.43,03/21/2019,Credit card,9.7,Normal,Petit acheteur
+750703-66-1897,C,Marrakech,Member,Male,Health and beauty,92.5,7,679.88,01/09/2019,Credit card,5.9,Normal,Acheteur moyen
+750704-62-4819,B,Rabat,Normal,Male,Health and beauty,70.97,9,670.67,02/21/2019,Cash,4.3,Normal,Acheteur moyen
+750705-96-1425,C,Marrakech,Member,Female,Sports and travel,51.77,7,380.51,01/13/2019,Credit card,9.3,Normal,Petit acheteur
+750706-91-9337,B,Rabat,Normal,Male,Health and beauty,19.24,10,202.02,01/25/2019,Credit card,8.3,Normal,Petit acheteur
+750707-49-8140,B,Rabat,Normal,Female,Sports and travel,75.21,8,631.76,01/06/2019,Ewallet,5.1,Normal,Acheteur moyen
+750708-57-1132,C,Marrakech,Normal,Female,Food and beverages,89.66,3,282.43,03/19/2019,Cash,4.9,Normal,Petit acheteur
+750709-91-4297,C,Marrakech,Member,Male,Electronic accessories,55.63,9,525.7,02/14/2019,Cash,9.2,Normal,Acheteur moyen
+750710-88-5909,A,Casablanca,Normal,Male,Fashion accessories,52.81,8,443.6,03/16/2019,Cash,7.6,Normal,Acheteur moyen
+750711-39-8643,B,Rabat,Normal,Male,Health and beauty,50.88,1,53.42,03/23/2019,Ewallet,7.0,Normal,Petit acheteur
+750712-10-6944,C,Marrakech,Member,Male,Sports and travel,76.11,6,479.49,01/27/2019,Cash,8.8,Normal,Acheteur moyen
+750713-56-1719,A,Casablanca,Member,Female,Health and beauty,59.92,3,188.75,03/22/2019,Ewallet,5.7,Normal,Petit acheteur
+750714-35-1352,A,Casablanca,Member,Male,Home and lifestyle,25.67,5,134.77,03/12/2019,Cash,8.3,Normal,Petit acheteur
+750715-68-4934,A,Casablanca,Normal,Male,Health and beauty,84.82,3,267.18,02/13/2019,Ewallet,6.3,Normal,Petit acheteur
+750716-26-4107,B,Rabat,Normal,Male,Food and beverages,97.93,10,1028.27,01/09/2019,Credit card,9.3,Anomalie,Acheteur moyen
+750717-78-5819,A,Casablanca,Normal,Female,Home and lifestyle,63.95,4,268.59,03/17/2019,Credit card,9.5,Normal,Petit acheteur
+750718-20-8711,A,Casablanca,Normal,Male,Health and beauty,66.65,5,349.91,03/16/2019,Credit card,9.2,Normal,Petit acheteur
+750719-57-9609,C,Marrakech,Member,Male,Food and beverages,44.93,9,424.59,03/01/2019,Credit card,6.2,Normal,Acheteur moyen
+750720-38-4325,C,Marrakech,Normal,Female,Sports and travel,34.15,7,251.0,03/25/2019,Credit card,7.8,Normal,Petit acheteur
+750721-27-2376,B,Rabat,Member,Female,Electronic accessories,37.54,7,275.92,02/02/2019,Cash,7.4,Normal,Petit acheteur
+750722-65-7700,B,Rabat,Normal,Female,Electronic accessories,62.55,8,525.42,02/24/2019,Cash,7.1,Normal,Acheteur moyen
+750723-20-5825,B,Rabat,Normal,Female,Home and lifestyle,44.41,3,139.89,03/24/2019,Cash,6.7,Normal,Petit acheteur
+750724-96-6394,C,Marrakech,Member,Female,Electronic accessories,18.86,2,39.61,01/26/2019,Credit card,6.2,Normal,Petit acheteur
+750725-48-5617,B,Rabat,Normal,Female,Electronic accessories,73.5,3,231.53,03/11/2019,Credit card,10.0,Normal,Petit acheteur
+750726-39-4438,B,Rabat,Normal,Female,Food and beverages,78.19,1,82.1,01/20/2019,Credit card,6.8,Normal,Petit acheteur
+750727-99-7843,B,Rabat,Member,Female,Fashion accessories,83.29,6,524.73,01/25/2019,Cash,8.8,Normal,Acheteur moyen
+750728-94-6810,A,Casablanca,Normal,Female,Food and beverages,12.71,3,40.04,02/09/2019,Ewallet,7.5,Normal,Petit acheteur
+750729-85-1380,B,Rabat,Member,Female,Sports and travel,71.71,7,527.07,03/10/2019,Credit card,8.6,Normal,Acheteur moyen
+750730-60-7247,C,Marrakech,Member,Male,Electronic accessories,97.94,6,617.02,03/19/2019,Credit card,7.4,Normal,Acheteur moyen
+750731-48-2527,A,Casablanca,Normal,Male,Food and beverages,44.78,8,376.15,02/27/2019,Credit card,4.7,Normal,Petit acheteur
+750732-59-5650,A,Casablanca,Member,Male,Health and beauty,84.37,10,885.88,01/26/2019,Ewallet,6.9,Normal,Acheteur moyen
+750733-62-7407,A,Casablanca,Member,Female,Fashion accessories,57.19,8,480.4,01/02/2019,Credit card,4.3,Normal,Acheteur moyen
+750734-65-8778,A,Casablanca,Member,Male,Food and beverages,47.65,2,100.06,01/17/2019,Ewallet,6.3,Normal,Petit acheteur
+750735-61-5044,A,Casablanca,Normal,Male,Food and beverages,74.5,8,625.8,01/19/2019,Ewallet,5.7,Normal,Acheteur moyen
+750736-99-5873,C,Marrakech,Normal,Female,Sports and travel,51.64,1,54.22,03/24/2019,Cash,8.4,Normal,Petit acheteur
+750737-99-2565,B,Rabat,Member,Female,Electronic accessories,26.16,10,274.68,02/19/2019,Cash,8.4,Normal,Petit acheteur
+750738-73-7738,B,Rabat,Member,Male,Electronic accessories,34.64,9,327.35,03/31/2019,Ewallet,5.8,Normal,Petit acheteur
+750739-42-4397,C,Marrakech,Member,Female,Health and beauty,77.98,9,736.91,02/22/2019,Cash,8.6,Normal,Acheteur moyen
+750740-14-1175,C,Marrakech,Member,Female,Health and beauty,16.59,8,139.36,02/21/2019,Credit card,6.3,Normal,Petit acheteur
+750741-41-8171,B,Rabat,Member,Male,Home and lifestyle,70.32,8,590.69,01/11/2019,Ewallet,6.9,Normal,Acheteur moyen
+750742-60-3759,A,Casablanca,Normal,Female,Electronic accessories,25.35,1,26.62,02/07/2019,Ewallet,7.6,Normal,Petit acheteur
+750743-66-1782,A,Casablanca,Member,Female,Electronic accessories,49.65,3,156.4,03/28/2019,Ewallet,5.3,Normal,Petit acheteur
+750744-41-7138,C,Marrakech,Member,Female,Fashion accessories,37.75,1,39.64,02/18/2019,Ewallet,7.6,Normal,Petit acheteur
+750745-38-2582,A,Casablanca,Member,Male,Health and beauty,47.95,1,50.35,03/29/2019,Ewallet,6.0,Normal,Petit acheteur
+750746-89-4393,C,Marrakech,Member,Male,Health and beauty,47.41,2,99.56,03/13/2019,Cash,8.9,Normal,Petit acheteur
+750747-50-1196,C,Marrakech,Normal,Female,Health and beauty,30.91,2,64.91,01/02/2019,Ewallet,6.1,Normal,Petit acheteur
+750748-37-7735,B,Rabat,Member,Female,Electronic accessories,15.94,5,83.69,01/06/2019,Cash,7.9,Normal,Petit acheteur
+750749-99-7366,B,Rabat,Normal,Male,Fashion accessories,58.25,10,611.62,03/18/2019,Ewallet,5.0,Normal,Acheteur moyen
+750750-12-8354,C,Marrakech,Member,Female,Electronic accessories,67.18,6,423.23,03/03/2019,Credit card,9.9,Normal,Acheteur moyen
+750751-20-1981,B,Rabat,Member,Male,Electronic accessories,11.91,2,25.01,02/24/2019,Credit card,5.9,Normal,Petit acheteur
+750752-52-3199,A,Casablanca,Normal,Female,Home and lifestyle,28.18,7,207.12,01/31/2019,Ewallet,5.2,Normal,Petit acheteur
+750753-52-6615,B,Rabat,Normal,Male,Food and beverages,81.25,7,597.19,01/04/2019,Cash,7.9,Normal,Acheteur moyen
+750754-66-1099,A,Casablanca,Member,Male,Fashion accessories,98.94,4,415.55,03/08/2019,Cash,7.6,Anomalie,Acheteur moyen
+750755-80-4348,A,Casablanca,Normal,Male,Electronic accessories,14.69,3,46.27,01/12/2019,Ewallet,9.6,Normal,Petit acheteur
+750756-41-5966,A,Casablanca,Member,Female,Fashion accessories,52.03,3,163.89,02/24/2019,Ewallet,8.3,Normal,Petit acheteur
+750757-70-8231,B,Rabat,Normal,Male,Home and lifestyle,87.61,8,735.92,02/20/2019,Cash,4.5,Normal,Acheteur moyen
+750758-29-3878,B,Rabat,Normal,Male,Sports and travel,11.78,7,86.58,02/08/2019,Ewallet,6.6,Normal,Petit acheteur
+750759-70-4206,B,Rabat,Normal,Female,Home and lifestyle,50.82,7,373.53,01/10/2019,Cash,7.4,Normal,Petit acheteur
+750760-72-6043,A,Casablanca,Member,Male,Health and beauty,87.54,6,551.5,02/20/2019,Cash,6.9,Normal,Acheteur moyen
+750761-65-5182,C,Marrakech,Member,Female,Health and beauty,99.31,2,208.55,01/21/2019,Credit card,6.3,Anomalie,Petit acheteur
+750762-14-6921,C,Marrakech,Normal,Female,Fashion accessories,71.96,1,75.56,02/01/2019,Cash,7.9,Normal,Petit acheteur
+750763-30-1202,C,Marrakech,Member,Male,Home and lifestyle,64.48,3,203.11,03/16/2019,Credit card,5.5,Normal,Petit acheteur
+750764-64-5143,A,Casablanca,Member,Female,Sports and travel,73.54,2,154.43,02/24/2019,Ewallet,7.1,Normal,Petit acheteur
+750765-83-6642,C,Marrakech,Normal,Female,Food and beverages,37.72,7,277.24,01/12/2019,Credit card,8.5,Normal,Petit acheteur
+750766-18-7845,A,Casablanca,Normal,Male,Fashion accessories,45.81,5,240.5,03/04/2019,Ewallet,4.0,Normal,Petit acheteur
+750767-33-9234,C,Marrakech,Normal,Female,Fashion accessories,48.78,3,153.66,01/18/2019,Credit card,6.2,Normal,Petit acheteur
+750768-90-2789,A,Casablanca,Normal,Male,Electronic accessories,28.08,3,88.45,02/03/2019,Ewallet,8.9,Normal,Petit acheteur
+750769-71-8949,C,Marrakech,Member,Male,Home and lifestyle,17.71,2,37.19,01/04/2019,Cash,5.7,Normal,Petit acheteur
+750770-10-7154,C,Marrakech,Member,Male,Health and beauty,33.94,1,35.64,01/13/2019,Ewallet,8.0,Normal,Petit acheteur
+750771-40-6918,C,Marrakech,Normal,Female,Sports and travel,78.11,10,820.15,03/29/2019,Cash,6.6,Normal,Acheteur moyen
+750772-99-7583,C,Marrakech,Normal,Female,Food and beverages,15.15,6,95.45,01/01/2019,Ewallet,9.2,Normal,Petit acheteur
+750773-89-8785,C,Marrakech,Member,Male,Food and beverages,21.06,9,199.02,02/01/2019,Credit card,5.7,Normal,Petit acheteur
+750774-66-4826,C,Marrakech,Normal,Male,Health and beauty,98.75,6,622.12,01/06/2019,Cash,4.1,Anomalie,Acheteur moyen
+750775-59-5814,C,Marrakech,Normal,Female,Fashion accessories,65.13,2,136.77,03/26/2019,Cash,6.1,Normal,Petit acheteur
+750776-96-9990,C,Marrakech,Member,Male,Food and beverages,88.85,9,839.63,01/12/2019,Cash,4.2,Normal,Acheteur moyen
+750777-21-2728,B,Rabat,Member,Female,Health and beauty,53.39,9,504.54,01/22/2019,Ewallet,5.4,Normal,Acheteur moyen
+750778-95-3016,B,Rabat,Member,Male,Home and lifestyle,91.23,5,478.96,03/27/2019,Cash,5.3,Normal,Acheteur moyen
+750779-53-7176,C,Marrakech,Member,Female,Health and beauty,81.59,6,514.02,03/18/2019,Credit card,9.2,Normal,Acheteur moyen
+750780-85-4082,C,Marrakech,Normal,Female,Electronic accessories,30.12,2,63.25,01/12/2019,Ewallet,5.7,Normal,Petit acheteur
+750781-78-4110,C,Marrakech,Member,Female,Electronic accessories,86.79,7,637.91,02/09/2019,Ewallet,7.5,Normal,Acheteur moyen
+750782-60-1150,B,Rabat,Normal,Female,Home and lifestyle,81.77,3,257.58,03/17/2019,Credit card,7.1,Normal,Petit acheteur
+750783-86-5643,C,Marrakech,Normal,Female,Electronic accessories,83.45,5,438.11,03/29/2019,Cash,9.0,Normal,Acheteur moyen
+750784-37-9110,A,Casablanca,Member,Female,Home and lifestyle,55.21,2,115.94,03/15/2019,Credit card,5.6,Normal,Petit acheteur
+750785-32-8987,B,Rabat,Normal,Male,Home and lifestyle,23.74,4,99.71,03/31/2019,Ewallet,9.1,Normal,Petit acheteur
+750786-96-8756,C,Marrakech,Normal,Female,Fashion accessories,92.1,3,290.11,02/20/2019,Credit card,9.9,Normal,Petit acheteur
+750787-22-3144,B,Rabat,Normal,Female,Health and beauty,57.5,5,301.88,03/31/2019,Ewallet,5.7,Normal,Petit acheteur
+750788-28-4436,B,Rabat,Member,Female,Sports and travel,68.91,10,723.55,03/03/2019,Credit card,4.8,Normal,Acheteur moyen
+750789-31-1922,A,Casablanca,Member,Male,Home and lifestyle,75.33,98,7751.46,02/18/2019,Ewallet,4.6,Anomalie,Gros acheteur
+750790-29-7619,A,Casablanca,Normal,Female,Electronic accessories,95.05,2,199.6,02/13/2019,Credit card,9.9,Normal,Petit acheteur
+750791-98-2468,A,Casablanca,Member,Male,Electronic accessories,45.69,5,239.87,03/25/2019,Ewallet,8.1,Normal,Petit acheteur
+750792-92-9351,B,Rabat,Normal,Female,Fashion accessories,68.78,6,433.31,01/11/2019,Ewallet,4.1,Normal,Acheteur moyen
+750793-99-8105,A,Casablanca,Member,Female,Home and lifestyle,72.43,2,152.1,02/19/2019,Ewallet,8.8,Normal,Petit acheteur
+750794-78-9684,B,Rabat,Member,Male,Home and lifestyle,15.71,9,148.46,01/03/2019,Credit card,5.1,Normal,Petit acheteur
+750795-81-8327,B,Rabat,Member,Male,Electronic accessories,96.9,2,203.49,03/30/2019,Credit card,5.1,Normal,Petit acheteur
+750796-74-5891,B,Rabat,Member,Male,Electronic accessories,61.75,3,194.51,01/05/2019,Cash,4.5,Normal,Petit acheteur
+750797-66-3291,B,Rabat,Member,Female,Fashion accessories,10.01,5,52.55,02/07/2019,Credit card,4.3,Normal,Petit acheteur
+750798-15-4884,C,Marrakech,Normal,Female,Food and beverages,91.96,6,579.35,01/27/2019,Credit card,7.6,Normal,Acheteur moyen
+750799-55-5544,A,Casablanca,Member,Male,Home and lifestyle,87.04,4,365.57,03/12/2019,Credit card,9.7,Normal,Petit acheteur
+750800-42-7968,A,Casablanca,Normal,Male,Food and beverages,32.94,7,242.11,02/21/2019,Ewallet,7.9,Normal,Petit acheteur
+750801-57-9379,C,Marrakech,Member,Male,Health and beauty,66.65,5,349.91,03/24/2019,Credit card,10.0,Normal,Petit acheteur
+750802-25-9707,C,Marrakech,Member,Female,Electronic accessories,38.47,7,282.75,02/01/2019,Credit card,6.3,Normal,Petit acheteur
+750803-11-2604,A,Casablanca,Normal,Male,Home and lifestyle,67.61,6,425.94,01/19/2019,Cash,9.5,Normal,Acheteur moyen
+750804-72-2565,B,Rabat,Member,Female,Health and beauty,80.44,2,168.92,02/09/2019,Credit card,5.1,Normal,Petit acheteur
+750805-54-9711,C,Marrakech,Normal,Female,Food and beverages,34.39,2,72.22,02/10/2019,Ewallet,9.4,Normal,Petit acheteur
+750806-28-7206,C,Marrakech,Normal,Female,Food and beverages,21.48,1,22.55,01/20/2019,Credit card,8.1,Normal,Petit acheteur
+750807-68-3999,C,Marrakech,Normal,Male,Fashion accessories,67.52,6,425.38,03/28/2019,Ewallet,8.2,Normal,Acheteur moyen
+750808-21-6007,B,Rabat,Normal,Female,Food and beverages,35.81,7,263.2,01/30/2019,Credit card,7.1,Normal,Petit acheteur
+750809-46-9074,B,Rabat,Normal,Male,Fashion accessories,17.15,4,72.03,03/15/2019,Ewallet,9.7,Normal,Petit acheteur
+750810-10-7962,A,Casablanca,Normal,Male,Sports and travel,54.8,9,517.86,01/02/2019,Cash,8.2,Normal,Acheteur moyen
+750811-96-9577,C,Marrakech,Normal,Male,Fashion accessories,69.5,9,656.77,03/19/2019,Ewallet,8.1,Normal,Acheteur moyen
+750812-31-7115,A,Casablanca,Member,Male,Home and lifestyle,85.54,9,808.35,02/24/2019,Ewallet,6.1,Normal,Acheteur moyen
+750813-10-7449,A,Casablanca,Normal,Male,Food and beverages,86.56,2,181.78,02/07/2019,Cash,5.7,Normal,Petit acheteur
+750814-48-6798,A,Casablanca,Normal,Male,Sports and travel,90.32,8,758.69,03/20/2019,Ewallet,4.3,Normal,Acheteur moyen
+750815-77-9426,A,Casablanca,Member,Female,Fashion accessories,26.75,6,168.53,03/04/2019,Cash,4.1,Normal,Petit acheteur
+750816-64-3984,A,Casablanca,Normal,Male,Sports and travel,10.62,5,55.75,02/17/2019,Cash,5.4,Normal,Petit acheteur
+750817-35-2813,C,Marrakech,Normal,Male,Sports and travel,69.06,8,580.1,02/25/2019,Cash,5.0,Normal,Acheteur moyen
+750818-95-5354,A,Casablanca,Normal,Male,Electronic accessories,45.51,6,286.71,03/27/2019,Ewallet,9.4,Normal,Petit acheteur
+750819-24-2767,A,Casablanca,Normal,Female,Food and beverages,54.6,3,171.99,03/06/2019,Cash,5.9,Normal,Petit acheteur
+750820-11-8116,A,Casablanca,Member,Male,Home and lifestyle,55.0,4,231.0,02/24/2019,Cash,4.3,Normal,Petit acheteur
+750821-45-2884,B,Rabat,Normal,Female,Sports and travel,17.43,7,128.11,03/07/2019,Ewallet,5.5,Normal,Petit acheteur
+750822-85-3436,B,Rabat,Member,Female,Electronic accessories,52.65,2,110.56,03/20/2019,Credit card,8.2,Normal,Petit acheteur
+750823-21-1834,A,Casablanca,Member,Male,Sports and travel,13.45,4,56.49,01/03/2019,Cash,9.6,Normal,Petit acheteur
+750824-64-1846,B,Rabat,Normal,Female,Fashion accessories,66.99,4,281.36,03/03/2019,Cash,5.3,Normal,Petit acheteur
+750825-15-1008,B,Rabat,Member,Female,Home and lifestyle,35.25,6,222.07,02/10/2019,Ewallet,8.3,Normal,Petit acheteur
+750826-52-5986,A,Casablanca,Normal,Male,Home and lifestyle,52.48,10,551.04,02/02/2019,Ewallet,4.6,Normal,Acheteur moyen
+750827-87-7088,A,Casablanca,Member,Male,Fashion accessories,59.65,3,187.9,02/16/2019,Credit card,6.0,Normal,Petit acheteur
+750828-85-4120,A,Casablanca,Normal,Male,Food and beverages,44.56,2,93.58,03/19/2019,Credit card,4.8,Normal,Petit acheteur
+750829-29-1717,A,Casablanca,Normal,Male,Health and beauty,94.75,10,994.88,03/02/2019,Credit card,6.1,Anomalie,Acheteur moyen
+750830-25-8145,A,Casablanca,Member,Female,Food and beverages,74.04,9,699.68,02/27/2019,Cash,9.9,Normal,Acheteur moyen
+750831-26-5745,A,Casablanca,Normal,Female,Food and beverages,93.81,9,886.5,03/18/2019,Ewallet,8.7,Normal,Acheteur moyen
+750832-75-7293,A,Casablanca,Member,Male,Fashion accessories,83.3,8,699.72,01/10/2019,Credit card,8.1,Normal,Acheteur moyen
+750833-11-9401,C,Marrakech,Normal,Female,Food and beverages,34.43,3,108.45,01/28/2019,Credit card,4.0,Normal,Petit acheteur
+750834-40-5781,B,Rabat,Normal,Female,Electronic accessories,36.67,5,192.52,01/29/2019,Ewallet,7.3,Normal,Petit acheteur
+750835-10-6692,A,Casablanca,Member,Female,Electronic accessories,34.34,1,36.06,01/27/2019,Ewallet,7.9,Normal,Petit acheteur
+750836-51-1938,C,Marrakech,Normal,Female,Health and beauty,95.17,9,899.36,02/22/2019,Ewallet,5.6,Normal,Acheteur moyen
+750837-84-2743,C,Marrakech,Member,Female,Electronic accessories,75.74,5,397.63,03/10/2019,Ewallet,5.1,Normal,Petit acheteur
+750838-36-7479,C,Marrakech,Normal,Female,Fashion accessories,67.08,9,633.91,01/29/2019,Cash,5.2,Normal,Acheteur moyen
+750839-68-4031,A,Casablanca,Normal,Male,Fashion accessories,75.36,6,474.77,01/12/2019,Cash,4.9,Normal,Acheteur moyen
+750840-87-4077,A,Casablanca,Member,Female,Fashion accessories,26.23,5,137.71,01/23/2019,Ewallet,4.1,Normal,Petit acheteur
+750841-22-7191,A,Casablanca,Member,Male,Sports and travel,32.07,7,235.71,01/18/2019,Credit card,4.6,Normal,Petit acheteur
+750842-86-1221,B,Rabat,Member,Male,Health and beauty,78.7,1,82.64,02/04/2019,Ewallet,4.8,Normal,Petit acheteur
+750843-52-8846,A,Casablanca,Member,Female,Fashion accessories,17.65,3,55.6,02/26/2019,Credit card,6.9,Normal,Petit acheteur
+750844-23-9381,A,Casablanca,Member,Male,Food and beverages,72.28,9,683.05,01/14/2019,Ewallet,4.7,Normal,Acheteur moyen
+750845-97-7303,B,Rabat,Member,Male,Electronic accessories,12.16,7,89.38,03/25/2019,Cash,6.3,Normal,Petit acheteur
+750846-52-2939,C,Marrakech,Member,Female,Electronic accessories,99.16,4,416.47,02/15/2019,Cash,4.6,Anomalie,Acheteur moyen
+750847-29-5940,B,Rabat,Member,Male,Food and beverages,23.6,7,173.46,01/24/2019,Credit card,7.2,Normal,Petit acheteur
+750848-29-3401,C,Marrakech,Normal,Female,Health and beauty,34.4,8,288.96,01/10/2019,Cash,8.0,Normal,Petit acheteur
+750849-45-3370,B,Rabat,Member,Female,Sports and travel,74.91,8,629.24,03/15/2019,Ewallet,8.9,Normal,Acheteur moyen
+750850-91-6463,A,Casablanca,Normal,Male,Electronic accessories,79.07,6,498.14,03/03/2019,Cash,5.9,Normal,Acheteur moyen
+750851-20-7911,A,Casablanca,Member,Female,Sports and travel,59.44,9,561.71,03/10/2019,Credit card,7.2,Normal,Acheteur moyen
+750852-27-2804,C,Marrakech,Member,Male,Electronic accessories,42.55,4,178.71,02/16/2019,Ewallet,10.0,Normal,Petit acheteur
+750853-38-1915,A,Casablanca,Normal,Female,Electronic accessories,36.52,3,115.04,02/23/2019,Credit card,9.0,Normal,Petit acheteur
+750854-99-2736,C,Marrakech,Member,Male,Fashion accessories,73.35,7,539.12,02/24/2019,Credit card,8.4,Normal,Acheteur moyen
+750855-11-7823,C,Marrakech,Member,Female,Food and beverages,88.33,1,92.75,01/11/2019,Ewallet,4.9,Normal,Petit acheteur
+750856-53-8274,A,Casablanca,Member,Female,Fashion accessories,22.61,9,213.66,03/02/2019,Cash,8.2,Normal,Petit acheteur
+750857-60-7940,C,Marrakech,Member,Female,Health and beauty,24.03,1,25.23,03/06/2019,Ewallet,7.6,Normal,Petit acheteur
+750858-58-3050,C,Marrakech,Normal,Female,Food and beverages,55.16,4,231.67,02/04/2019,Ewallet,6.5,Normal,Petit acheteur
+750859-19-8674,C,Marrakech,Member,Female,Food and beverages,15.04,7,110.54,03/13/2019,Credit card,5.1,Normal,Petit acheteur
+750860-19-6942,B,Rabat,Normal,Female,Sports and travel,24.83,6,156.43,02/04/2019,Ewallet,7.9,Normal,Petit acheteur
+750861-49-4075,C,Marrakech,Normal,Male,Electronic accessories,35.4,9,334.53,03/18/2019,Ewallet,4.6,Normal,Petit acheteur
+750862-50-2527,C,Marrakech,Member,Male,Electronic accessories,34.22,10,359.31,03/03/2019,Credit card,7.4,Normal,Petit acheteur
+750863-96-2595,B,Rabat,Member,Female,Home and lifestyle,96.28,9,909.85,02/15/2019,Cash,5.2,Normal,Acheteur moyen
+750864-14-5753,B,Rabat,Normal,Male,Food and beverages,82.67,3,260.41,03/03/2019,Cash,4.1,Normal,Petit acheteur
+750865-28-3638,A,Casablanca,Member,Female,Health and beauty,89.66,2,188.29,01/28/2019,Ewallet,9.7,Normal,Petit acheteur
+750866-40-4421,C,Marrakech,Normal,Female,Electronic accessories,40.51,6,255.21,01/06/2019,Cash,7.7,Normal,Petit acheteur
+750867-21-9174,C,Marrakech,Member,Male,Food and beverages,66.49,8,558.52,01/19/2019,Ewallet,4.6,Normal,Acheteur moyen
+750868-19-3935,A,Casablanca,Normal,Female,Electronic accessories,94.06,3,296.29,02/16/2019,Credit card,4.4,Normal,Petit acheteur
+750869-15-6955,C,Marrakech,Normal,Female,Sports and travel,98.05,8,823.62,01/16/2019,Ewallet,7.9,Normal,Acheteur moyen
+750870-20-7769,B,Rabat,Normal,Female,Food and beverages,92.53,3,291.47,03/21/2019,Credit card,6.6,Normal,Petit acheteur
+750871-29-2725,C,Marrakech,Normal,Female,Fashion accessories,13.84,1,14.53,03/31/2019,Ewallet,8.4,Anomalie,Petit acheteur
+750872-69-8675,B,Rabat,Normal,Male,Food and beverages,45.93,2,96.45,03/27/2019,Cash,5.3,Normal,Petit acheteur
+750873-52-2056,C,Marrakech,Normal,Male,Health and beauty,26.22,2,55.06,02/25/2019,Cash,9.5,Normal,Petit acheteur
+750874-70-3384,B,Rabat,Normal,Female,Electronic accessories,73.2,8,614.88,01/05/2019,Cash,4.7,Normal,Acheteur moyen
+750875-37-1886,C,Marrakech,Member,Female,Food and beverages,12.82,10,134.61,02/16/2019,Ewallet,8.6,Normal,Petit acheteur
+750876-48-8396,A,Casablanca,Member,Female,Home and lifestyle,32.68,3,102.94,02/05/2019,Ewallet,4.5,Normal,Petit acheteur
+750877-35-6722,B,Rabat,Member,Female,Electronic accessories,84.74,2,177.95,02/13/2019,Cash,9.4,Normal,Petit acheteur
+750878-11-4253,B,Rabat,Normal,Female,Food and beverages,71.99,3,226.77,02/15/2019,Cash,9.8,Normal,Petit acheteur
+750879-50-2861,A,Casablanca,Member,Female,Fashion accessories,98.76,6,622.19,01/19/2019,Cash,4.1,Anomalie,Acheteur moyen
+750880-84-2596,C,Marrakech,Normal,Female,Food and beverages,75.0,8,630.0,03/23/2019,Ewallet,9.7,Normal,Acheteur moyen
+750881-96-1235,A,Casablanca,Member,Male,Sports and travel,72.67,3,228.91,02/14/2019,Ewallet,7.6,Normal,Petit acheteur
+750882-68-7783,B,Rabat,Normal,Male,Home and lifestyle,90.69,9,857.02,03/31/2019,Ewallet,8.9,Normal,Acheteur moyen
+750883-32-3664,B,Rabat,Normal,Female,Food and beverages,48.32,6,304.42,02/28/2019,Ewallet,4.7,Normal,Petit acheteur
+750884-23-2468,C,Marrakech,Normal,Female,Home and lifestyle,86.05,7,632.47,03/21/2019,Credit card,7.8,Normal,Acheteur moyen
+750885-84-1534,C,Marrakech,Member,Female,Health and beauty,54.67,10,574.04,03/23/2019,Ewallet,9.6,Normal,Acheteur moyen
+750886-54-8601,C,Marrakech,Normal,Female,Electronic accessories,30.06,8,252.5,01/26/2019,Ewallet,7.3,Normal,Petit acheteur
+750887-63-4957,B,Rabat,Normal,Male,Home and lifestyle,80.39,9,759.69,02/03/2019,Credit card,5.7,Normal,Acheteur moyen
+750888-31-8045,A,Casablanca,Normal,Male,Health and beauty,12.36,6,77.87,03/18/2019,Credit card,9.0,Normal,Petit acheteur
+750889-59-3846,A,Casablanca,Normal,Male,Food and beverages,67.99,1,71.39,02/24/2019,Credit card,8.8,Normal,Petit acheteur
+750890-90-5263,B,Rabat,Normal,Male,Sports and travel,30.78,3,96.96,03/15/2019,Credit card,7.0,Normal,Petit acheteur
+750891-89-9907,C,Marrakech,Member,Female,Electronic accessories,18.39,1,19.31,03/17/2019,Credit card,6.6,Normal,Petit acheteur
+750892-38-5864,A,Casablanca,Normal,Male,Fashion accessories,76.07,8,638.99,01/24/2019,Cash,7.8,Normal,Acheteur moyen
+750893-84-2694,A,Casablanca,Member,Female,Home and lifestyle,69.33,5,363.98,03/22/2019,Ewallet,4.5,Normal,Petit acheteur
+750894-56-4407,A,Casablanca,Normal,Male,Health and beauty,22.76,5,119.49,01/10/2019,Ewallet,9.4,Normal,Petit acheteur
+750895-58-6137,B,Rabat,Member,Female,Health and beauty,47.23,8,396.73,01/27/2019,Ewallet,9.8,Normal,Petit acheteur
+750896-53-6681,C,Marrakech,Normal,Male,Electronic accessories,36.88,3,116.17,03/19/2019,Credit card,8.0,Normal,Petit acheteur
+750897-75-3496,B,Rabat,Member,Male,Food and beverages,76.75,2,161.18,03/10/2019,Ewallet,5.2,Normal,Petit acheteur
+750898-45-8890,A,Casablanca,Normal,Male,Electronic accessories,12.65,3,39.85,03/30/2019,Credit card,5.3,Normal,Petit acheteur
+750899-34-5097,A,Casablanca,Member,Female,Fashion accessories,59.63,5,313.06,02/25/2019,Cash,6.8,Normal,Petit acheteur
+750900-67-7942,A,Casablanca,Member,Female,Sports and travel,19.26,10,202.23,03/04/2019,Ewallet,5.9,Normal,Petit acheteur
+750901-90-2052,C,Marrakech,Normal,Female,Food and beverages,19.68,7,144.65,02/15/2019,Credit card,6.6,Normal,Petit acheteur
+750902-13-2878,B,Rabat,Member,Male,Food and beverages,32.77,7,240.86,03/09/2019,Credit card,5.8,Normal,Petit acheteur
+750903-50-3003,A,Casablanca,Normal,Female,Electronic accessories,42.19,2,88.6,02/17/2019,Cash,5.3,Normal,Petit acheteur
+750904-59-5646,A,Casablanca,Normal,Male,Fashion accessories,39.59,8,332.56,01/30/2019,Cash,7.4,Normal,Petit acheteur
+750905-92-7909,C,Marrakech,Member,Male,Health and beauty,60.48,10,635.04,01/10/2019,Credit card,9.7,Normal,Acheteur moyen
+750906-25-3033,C,Marrakech,Normal,Female,Home and lifestyle,27.83,1,29.22,01/06/2019,Cash,8.8,Normal,Petit acheteur
+750907-69-5659,B,Rabat,Member,Female,Food and beverages,44.45,10,466.73,03/24/2019,Ewallet,4.1,Anomalie,Acheteur moyen
+750908-63-5931,A,Casablanca,Normal,Male,Food and beverages,92.61,1,97.24,01/09/2019,Ewallet,6.0,Anomalie,Petit acheteur
+750909-68-9082,B,Rabat,Normal,Female,Sports and travel,17.18,6,108.23,02/20/2019,Ewallet,7.0,Normal,Petit acheteur
+750910-98-8138,C,Marrakech,Member,Female,Food and beverages,19.25,4,80.85,01/18/2019,Ewallet,4.3,Normal,Petit acheteur
+750911-15-2815,A,Casablanca,Member,Male,Electronic accessories,75.16,6,473.51,01/01/2019,Credit card,8.9,Normal,Acheteur moyen
+750912-27-8548,A,Casablanca,Normal,Male,Home and lifestyle,39.64,10,416.22,02/04/2019,Cash,8.7,Normal,Acheteur moyen
+750913-40-8830,A,Casablanca,Member,Female,Electronic accessories,77.77,7,571.61,01/16/2019,Credit card,7.8,Normal,Acheteur moyen
+750914-81-4971,C,Marrakech,Normal,Female,Home and lifestyle,79.53,8,668.05,02/07/2019,Cash,5.4,Normal,Acheteur moyen
+750915-59-4078,C,Marrakech,Member,Male,Health and beauty,97.45,1,102.32,01/28/2019,Credit card,5.3,Anomalie,Petit acheteur
+750916-29-9265,B,Rabat,Member,Female,Electronic accessories,83.25,9,786.71,02/09/2019,Cash,7.1,Normal,Acheteur moyen
+750917-18-5552,A,Casablanca,Member,Male,Home and lifestyle,44.7,8,375.48,01/26/2019,Credit card,9.2,Normal,Petit acheteur
+750918-68-4064,B,Rabat,Member,Female,Food and beverages,68.35,3,215.3,01/15/2019,Ewallet,6.8,Normal,Petit acheteur
+750919-37-3467,B,Rabat,Member,Female,Fashion accessories,57.77,6,363.95,01/11/2019,Credit card,5.6,Normal,Petit acheteur
+750920-47-4103,B,Rabat,Normal,Female,Health and beauty,49.72,6,313.24,02/18/2019,Credit card,4.6,Normal,Petit acheteur
+750921-24-4597,B,Rabat,Member,Female,Food and beverages,64.66,9,611.04,01/07/2019,Credit card,6.6,Normal,Acheteur moyen
+750922-61-7421,A,Casablanca,Member,Male,Food and beverages,33.95,2,71.3,01/29/2019,Cash,7.2,Normal,Petit acheteur
+750923-46-5718,B,Rabat,Member,Male,Fashion accessories,84.16,5,441.84,01/27/2019,Ewallet,7.0,Normal,Acheteur moyen
+750924-50-2137,C,Marrakech,Member,Male,Electronic accessories,55.29,10,580.54,03/30/2019,Cash,6.9,Normal,Acheteur moyen
+750925-43-2261,A,Casablanca,Member,Female,Sports and travel,22.76,1,23.9,02/12/2019,Cash,8.0,Normal,Petit acheteur
+750926-12-5762,A,Casablanca,Member,Female,Sports and travel,62.48,8,524.83,01/15/2019,Cash,9.2,Normal,Acheteur moyen
+750927-94-8970,A,Casablanca,Member,Male,Health and beauty,19.0,6,119.7,02/14/2019,Credit card,6.7,Normal,Petit acheteur
+750928-24-5422,B,Rabat,Normal,Female,Health and beauty,84.49,5,443.57,03/26/2019,Credit card,8.3,Normal,Acheteur moyen
+750929-99-8056,C,Marrakech,Member,Male,Sports and travel,87.06,3,274.24,02/01/2019,Ewallet,6.1,Normal,Petit acheteur
+750930-67-9632,B,Rabat,Member,Male,Electronic accessories,92.85,7,682.45,03/22/2019,Cash,7.8,Normal,Acheteur moyen
+750931-84-9520,A,Casablanca,Normal,Female,Home and lifestyle,45.19,7,332.15,02/09/2019,Cash,9.7,Normal,Petit acheteur
+750932-73-3410,C,Marrakech,Normal,Male,Sports and travel,81.57,10,856.48,02/06/2019,Cash,9.8,Normal,Acheteur moyen
+750933-68-1670,B,Rabat,Member,Female,Food and beverages,60.23,3,189.72,01/09/2019,Cash,5.8,Normal,Petit acheteur
+750934-27-6737,A,Casablanca,Normal,Male,Health and beauty,53.95,1,56.65,01/01/2019,Credit card,6.6,Normal,Petit acheteur
+750935-70-6810,B,Rabat,Member,Male,Fashion accessories,34.36,4,144.31,02/07/2019,Ewallet,6.6,Normal,Petit acheteur
+750936-82-8140,A,Casablanca,Normal,Female,Sports and travel,97.01,2,203.72,03/18/2019,Cash,9.4,Normal,Petit acheteur
+750937-20-5871,C,Marrakech,Normal,Male,Fashion accessories,79.08,5,415.17,01/26/2019,Credit card,4.8,Normal,Acheteur moyen
+750938-97-6858,C,Marrakech,Normal,Male,Sports and travel,80.41,7,591.01,02/26/2019,Credit card,4.6,Normal,Acheteur moyen
+750939-27-5954,B,Rabat,Normal,Female,Sports and travel,47.84,7,351.62,01/04/2019,Credit card,6.8,Normal,Petit acheteur
+750940-95-1097,A,Casablanca,Normal,Male,Food and beverages,58.89,10,618.35,02/20/2019,Ewallet,9.3,Normal,Acheteur moyen
+750941-98-6428,B,Rabat,Normal,Male,Health and beauty,14.92,2,31.33,02/07/2019,Ewallet,6.0,Normal,Petit acheteur
+750942-96-3535,A,Casablanca,Member,Male,Fashion accessories,28.45,3,89.62,01/18/2019,Cash,7.4,Normal,Petit acheteur
+750943-25-9516,B,Rabat,Normal,Male,Sports and travel,66.12,4,277.7,01/20/2019,Ewallet,4.7,Normal,Petit acheteur
+750944-71-4015,A,Casablanca,Member,Male,Health and beauty,52.63,9,497.35,01/16/2019,Ewallet,6.7,Normal,Acheteur moyen
+750945-94-4943,A,Casablanca,Normal,Female,Fashion accessories,65.54,7,481.72,01/24/2019,Ewallet,4.9,Normal,Acheteur moyen
+750946-60-7321,A,Casablanca,Member,Female,Sports and travel,36.1,2,75.81,02/17/2019,Cash,9.8,Normal,Petit acheteur
+750947-11-5960,C,Marrakech,Member,Female,Sports and travel,83.21,3,262.11,01/16/2019,Cash,4.2,Normal,Petit acheteur
+750948-55-9202,A,Casablanca,Normal,Male,Home and lifestyle,96.64,8,811.78,02/05/2019,Cash,9.3,Normal,Acheteur moyen
+750949-82-6558,C,Marrakech,Member,Female,Fashion accessories,57.25,9,541.01,01/20/2019,Credit card,4.4,Normal,Acheteur moyen
+750950-87-3955,B,Rabat,Member,Female,Fashion accessories,37.26,7,273.86,03/03/2019,Credit card,4.4,Normal,Petit acheteur
+750951-13-3607,C,Marrakech,Normal,Male,Fashion accessories,39.16,10,411.18,02/21/2019,Credit card,6.1,Normal,Acheteur moyen
+750952-32-7292,A,Casablanca,Member,Male,Sports and travel,94.07,8,790.19,01/31/2019,Ewallet,5.9,Normal,Acheteur moyen
+750953-90-1482,B,Rabat,Member,Male,Food and beverages,32.54,1,34.17,02/26/2019,Ewallet,9.1,Normal,Petit acheteur
+750954-42-9046,A,Casablanca,Normal,Male,Fashion accessories,50.45,3,158.92,03/13/2019,Credit card,9.9,Normal,Petit acheteur
+750955-90-2576,B,Rabat,Normal,Male,Electronic accessories,76.79,7,564.41,01/12/2019,Ewallet,8.9,Normal,Acheteur moyen
+750956-92-9653,A,Casablanca,Member,Male,Health and beauty,42.36,7,311.35,02/13/2019,Ewallet,7.4,Normal,Petit acheteur
+750957-18-8190,B,Rabat,Member,Male,Food and beverages,84.47,9,798.24,03/13/2019,Credit card,6.1,Normal,Acheteur moyen
+750958-86-9856,B,Rabat,Normal,Male,Food and beverages,17.03,9,160.93,03/05/2019,Ewallet,5.8,Normal,Petit acheteur
+750959-19-9755,B,Rabat,Member,Male,Home and lifestyle,93.0,5,488.25,01/09/2019,Cash,6.3,Normal,Acheteur moyen
+750960-43-1491,C,Marrakech,Member,Female,Sports and travel,65.67,9,620.58,03/16/2019,Ewallet,8.2,Normal,Acheteur moyen
+750961-17-4860,A,Casablanca,Normal,Female,Home and lifestyle,28.04,1,29.44,02/12/2019,Credit card,4.8,Normal,Petit acheteur
+750962-26-5432,B,Rabat,Member,Male,Home and lifestyle,98.29,7,722.43,01/11/2019,Credit card,7.6,Normal,Acheteur moyen
+750963-39-1351,C,Marrakech,Member,Male,Health and beauty,54.69,4,229.7,03/03/2019,Cash,7.9,Normal,Petit acheteur
+750964-16-7342,A,Casablanca,Member,Male,Food and beverages,64.73,7,475.77,01/03/2019,Credit card,8.1,Normal,Acheteur moyen
+750965-34-6621,B,Rabat,Member,Female,Fashion accessories,48.41,3,152.49,03/20/2019,Ewallet,4.7,Normal,Petit acheteur
+750966-11-5094,B,Rabat,Member,Male,Electronic accessories,18.28,1,19.19,03/10/2019,Credit card,5.4,Normal,Petit acheteur
+750967-41-5790,A,Casablanca,Member,Male,Electronic accessories,49.47,5,259.72,03/19/2019,Cash,4.3,Normal,Petit acheteur
+750968-55-4609,A,Casablanca,Normal,Female,Fashion accessories,21.01,2,44.12,01/27/2019,Credit card,4.5,Normal,Petit acheteur
+750969-23-1884,B,Rabat,Normal,Female,Food and beverages,36.34,4,152.63,02/10/2019,Cash,7.2,Normal,Petit acheteur
+750970-80-4453,B,Rabat,Normal,Female,Home and lifestyle,17.06,3,53.74,01/30/2019,Credit card,9.0,Normal,Petit acheteur
+750971-14-5428,A,Casablanca,Normal,Male,Health and beauty,98.0,8,823.2,01/15/2019,Cash,7.9,Normal,Acheteur moyen
+750972-15-4677,B,Rabat,Normal,Female,Health and beauty,15.37,10,161.38,02/18/2019,Ewallet,6.3,Normal,Petit acheteur
+750973-13-6508,A,Casablanca,Normal,Male,Fashion accessories,48.79,1,51.23,03/11/2019,Ewallet,8.0,Normal,Petit acheteur
+750974-59-5709,B,Rabat,Member,Male,Home and lifestyle,75.31,10,790.75,01/08/2019,Cash,6.6,Normal,Acheteur moyen
+750975-11-5598,C,Marrakech,Normal,Female,Food and beverages,74.72,9,706.1,03/01/2019,Cash,5.6,Normal,Acheteur moyen
+750976-56-5403,C,Marrakech,Normal,Male,Electronic accessories,79.41,5,416.9,01/05/2019,Cash,6.0,Normal,Acheteur moyen
+750977-66-1145,C,Marrakech,Normal,Male,Health and beauty,37.62,6,237.01,02/26/2019,Ewallet,9.0,Normal,Petit acheteur
+750978-88-6145,B,Rabat,Member,Female,Sports and travel,67.39,9,636.84,03/16/2019,Ewallet,5.3,Normal,Acheteur moyen
+750979-32-3406,A,Casablanca,Normal,Male,Home and lifestyle,78.93,5,414.38,01/17/2019,Cash,5.6,Normal,Acheteur moyen
+750980-80-4734,C,Marrakech,Member,Male,Health and beauty,68.91,3,217.07,03/16/2019,Cash,8.1,Normal,Petit acheteur
+750981-23-2269,A,Casablanca,Normal,Female,Health and beauty,71.05,6,447.61,03/18/2019,Ewallet,7.2,Normal,Acheteur moyen
+750982-92-7987,C,Marrakech,Normal,Male,Food and beverages,16.97,4,71.27,03/29/2019,Cash,6.0,Normal,Petit acheteur
+750983-47-1510,B,Rabat,Member,Male,Home and lifestyle,64.62,6,407.11,03/25/2019,Cash,6.0,Normal,Petit acheteur
+750984-75-6636,A,Casablanca,Normal,Male,Home and lifestyle,93.72,10,984.06,01/28/2019,Credit card,4.2,Anomalie,Acheteur moyen
+750985-38-9249,A,Casablanca,Normal,Male,Fashion accessories,75.36,7,553.9,01/11/2019,Credit card,8.6,Normal,Acheteur moyen
+750986-44-4195,C,Marrakech,Normal,Male,Food and beverages,81.83,10,859.21,03/08/2019,Credit card,6.8,Normal,Acheteur moyen
+750987-62-6929,C,Marrakech,Normal,Male,Home and lifestyle,31.87,6,200.78,01/15/2019,Cash,5.4,Normal,Petit acheteur
+750988-26-9808,A,Casablanca,Normal,Male,Home and lifestyle,68.79,10,722.3,01/30/2019,Cash,5.4,Normal,Acheteur moyen
+750989-74-3431,A,Casablanca,Normal,Male,Food and beverages,33.42,5,175.46,01/11/2019,Ewallet,6.0,Normal,Petit acheteur
+750990-70-2654,C,Marrakech,Normal,Male,Electronic accessories,88.87,1,93.31,02/03/2019,Cash,5.0,Anomalie,Petit acheteur
+750991-26-7591,A,Casablanca,Member,Female,Health and beauty,72.1,2,151.41,02/19/2019,Credit card,4.8,Normal,Petit acheteur
+750992-55-8354,C,Marrakech,Member,Female,Health and beauty,40.31,6,253.95,01/14/2019,Credit card,7.5,Normal,Petit acheteur
+750993-29-1127,B,Rabat,Normal,Female,Home and lifestyle,78.18,3,246.27,03/17/2019,Credit card,8.4,Normal,Petit acheteur
+750994-48-9082,C,Marrakech,Normal,Female,Sports and travel,38.84,3,122.35,02/05/2019,Credit card,7.1,Normal,Petit acheteur
+750995-76-5558,B,Rabat,Member,Female,Home and lifestyle,39.05,6,246.01,01/06/2019,Ewallet,8.5,Normal,Petit acheteur
+750996-31-5726,C,Marrakech,Normal,Male,Home and lifestyle,35.63,2,74.82,02/26/2019,Cash,5.7,Normal,Petit acheteur
+750997-15-9844,B,Rabat,Member,Male,Fashion accessories,35.07,2,73.65,01/22/2019,Credit card,5.2,Normal,Petit acheteur
+750998-66-9534,C,Marrakech,Member,Male,Sports and travel,84.92,1,89.17,03/15/2019,Cash,6.2,Normal,Petit acheteur
+750999-27-5562,A,Casablanca,Normal,Female,Health and beauty,74.46,2,156.37,03/05/2019,Cash,6.7,Normal,Petit acheteur
