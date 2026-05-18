@@ -36,7 +36,7 @@ Q3=df['Total'].quantile(0.75)
 IQR=Q3-Q1
 limite_basse=Q1-1.5*IQR
 limite_haute=Q3+1.5*IQR
-anomalies_IQR=df[df['Toatl']<limite_basse|df['Total']>limite_haute]
+anomalies_IQR=df[(df['Total']<limite_basse)|(df['Total']>limite_haute)]
 print("\n\tMethode classique: IQR sur colonne Total")
 print(f"Q1: {Q1:.2f} DH")
 print(f"Q3: {Q3:.2f} DH")
