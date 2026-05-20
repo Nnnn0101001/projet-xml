@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="AnalyseML">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Resultat" type="TypeResultat"
+                    minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:complexType name="TypeResultat">
+    <xs:sequence>
+      <xs:element name="Invoice_ID"    type="xs:string"/>
+      <xs:element name="Branch"        type="xs:string"/>
+      <xs:element name="City"          type="xs:string"/>
+      <xs:element name="Customer_type" type="xs:string"/>
+      <xs:element name="Gender"        type="xs:string"/>
+      <xs:element name="Product_line"  type="xs:string"/>
+      <xs:element name="Unit_price"    type="xs:decimal"/>
+      <xs:element name="Quantity"      type="xs:positiveInteger"/>
+      <xs:element name="Total"         type="xs:decimal"/>
+      <xs:element name="Date"          type="xs:string"/>
+      <xs:element name="Payment"       type="xs:string"/>
+      <xs:element name="Rating"        type="xs:decimal"/>
+      <xs:element name="anomalie"      type="TypeAnomalie"/>
+      <xs:element name="nom_segment" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:simpleType name="TypeAnomalie">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Normal"/>
+      <xs:enumeration value="Anomalie"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>
